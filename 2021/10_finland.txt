@@ -1,0 +1,136 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Kalle Rovanperä
+Jonne Halttunen
+Toyota Gazoo Racing WRT
+	2.55	811	318
+2nd	
+	Ott Tänak
+Martin Järveoja
+Hyundai Shell Mobis WRT
+	3.55	672	189
+3rd	
+	Sébastien Ogier
+Julien Ingrassia
+Toyota Gazoo Racing WRT
+	4.07	609	150
+4th	
+	Elfyn Evans
+Scott Martin
+Toyota Gazoo Racing WRT
+	3.44	439	128
+5th	
+	Thierry Neuville
+Martijn Wydaeghe
+Hyundai Shell Mobis WRT
+	3.63	396	109
+6th	
+	Dani Sordo
+Cándido Carrera
+Hyundai Shell Mobis WRT
+	3.04	369	121
+7th	
+	Adrien Fourmaux
+Renaud Jamoul
+M-Sport Ford WRT
+	0.76	289	380
+8th	
+	Gus Greensmith
+Chris Patterson
+M-Sport Ford WRT
+	1.10	280	255
+9th	
+	Andreas Mikkelsen
+Elliott Edmondson
+Toksport WRT
+	1.80	189	105
+10th	
+	Marco Bulacia Wilkinson
+Marcelo Der Ohannesian
+Toksport WRT
+	0.50	172	344
+11th	
+	Kajetan Kajetanowicz
+Maciej Szczepaniak
+  
+	0.48	127	265
+12th	
+	Chris Ingram
+Ross Whittock
+  
+	0.21	100	476
+13th	
+	Emil Lindholm
+Reeta Hämäläinen
+  
+	0.29	63	217
+14th	
+	Nikolay Gryazin
+Konstantin Aleksandrov
+Movisport SRL
+	0.43	58	135
+15th	
+	Pierre-Louis Loubet
+Florian Haut-Labourdette
+Hyundai 2C Competition
+	0.55	52	95
+16th	
+	Yohan Rossel
+Alexandre Coria
+  
+	0.51	51	100
+17th	
+	Mads Østberg
+Torstein Eriksen
+TRT World Rally Team
+	1.22	38	31
+18th	
+	Oliver Solberg
+Aaron Johnston
+Hyundai Motorsport N
+	0.48	26	54
+19th	
+	Georg Linnamäe
+James Morgan
+ALM Motorsport
+	0.20	26	130
+20th	
+	Lambros Athanassoulas
+Nikolaos Zakheos
+  
+	0.22	8	36
+21st	
+	Paulo Nobre
+Gabriel Morales
+  
+	0.20	6	30
+22nd	
+	Martin Prokop
+Michal Ernst
+M-Sport Ford WRT
+	0.51	6	12
+23rd	
+	Sean Johnston
+Alexander Kihurani
+Saintéloc Junior Team
+	0.20	6	30
+24th	
+	Leonid Urlichich
+Tom Woodburn
+Saintéloc Junior Team
+	0.20	6	30
+25th	
+	Fabrizio Zaldivar
+Carlos del Barrio
+  
+	0.22	2	9
+-	
+	Jourdan Serderidis
+Frédéric Miclotte
+M-Sport Ford WRT
+	0.25	0	0
+-	
+	Molly Taylor
+Sebastian Marshall
+M-Sport Poland
+	0.27	0	0
