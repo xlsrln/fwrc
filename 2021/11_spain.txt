@@ -1,0 +1,171 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Thierry Neuville
+Martijn Wydaeghe
+Hyundai Shell Mobis WRT
+	3.27	844	258
+2nd	
+	Elfyn Evans
+Scott Martin
+Toyota Gazoo Racing WRT
+	3.62	685	189
+3rd	
+	Dani Sordo
+Cándido Carrera
+Hyundai Shell Mobis WRT
+	2.98	626	210
+4th	
+	Sébastien Ogier
+Julien Ingrassia
+Toyota Gazoo Racing WRT
+	3.88	544	140
+5th	
+	Kalle Rovanperä
+Jonne Halttunen
+Toyota Gazoo Racing WRT
+	2.62	425	162
+6th	
+	Gus Greensmith
+Chris Patterson
+M-Sport Ford WRT
+	1.25	268	214
+7th	
+	Oliver Solberg
+Craig Drew
+Hyundai 2C Competition
+	0.41	246	600
+8th	
+	Nil Solans
+Marc Martí
+Hyundai 2C Competition
+	0.23	226	983
+9th	
+	Eric Camilli
+Maxime Vilmot
+Sports & You
+	0.52	151	290
+10th	
+	Adrien Fourmaux
+Alexandre Coria
+M-Sport Ford WRT
+	0.96	142	148
+11th	
+	Nikolay Gryazin
+Konstantin Aleksandrov
+Movisport SRL
+	0.40	132	330
+12th	
+	Teemu Suninen
+Mikko Markkula
+Hyundai Motorsport N
+	1.39	102	73
+13th	
+	Emil Lindholm
+Reeta Hämäläinen
+  
+	0.36	95	264
+14th	
+	Takamoto Katsuta
+Aaron Johnston
+Toyota Gazoo Racing WRT
+	1.30	74	57
+15th	
+	Mads Østberg
+Torstein Eriksen
+TRT World Rally Team
+	1.13	73	65
+16th	
+	Erik Cais
+Jindřiška Žáková
+Movisport SRL
+	0.20	62	310
+17th	
+	Kajetan Kajetanowicz
+Maciej Szczepaniak
+  
+	0.51	51	100
+18th	
+	Ott Tänak
+Martin Järveoja
+Hyundai Shell Mobis WRT
+	3.78	35	9
+19th	
+	Marco Bulacia Wilkinson
+Marcelo Der Ohannesian
+Toksport WRT
+	0.56	14	25
+20th	
+	Pepe López
+Borja Rozada
+  
+	0.27	11	41
+21st	
+	Jan Solans
+Rodrigo Sanjuan de Eusebio
+  
+	0.29	1	3
+-	
+	Lauri Joona
+Mikael Korhonen
+Team Flying Finn
+	0.21	0	0
+-	
+	Fabian Kreim
+Tobias Braun
+Pole Promotion
+	0.33	0	0
+-	
+	Mauro Miele
+Luca Beltrame
+  
+	0.20	0	0
+-	
+	Josh McErlean
+James Fulton
+  
+	0.22	0	0
+-	
+	Mikko Heikkilä
+Topi Luhtinen
+  
+	0.25	0	0
+-	
+	Jon Armstrong
+Phil Hall
+  
+	0.20	0	0
+-	
+	Armin Kremer
+Ella Kremer
+  
+	0.25	0	0
+-	
+	Armando Pereira
+Rémi Tutélaire
+  
+	0.20	0	0
+-	
+	Chris Ingram
+Ross Whittock
+  
+	0.25	0	0
+-	
+	Fabrizio Zaldivar
+Carlos del Barrio
+  
+	0.20	0	0
+-	
+	Georg Linnamäe
+James Morgan
+ALM Motorsport
+	0.20	0	0
+-	
+	Sean Johnston
+Alexander Kihurani
+Saintéloc Junior Team
+	0.20	0	0
+-	
+	Jari Huttunen
+Mikko Lukka
+Hyundai Motorsport N
+	0.58	0	0
