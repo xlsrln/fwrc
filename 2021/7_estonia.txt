@@ -1,0 +1,166 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Kalle Rovanperä
+Jonne Halttunen
+Toyota Gazoo Racing WRT
+	2.09	855	409
+2nd	
+	Thierry Neuville
+Martijn Wydaeghe
+Hyundai Shell Mobis WRT
+	3.36	681	203
+3rd	
+	Craig Breen
+Paul Nagle
+Hyundai Shell Mobis WRT
+	2.38	618	260
+4th	
+	Sébastien Ogier
+Julien Ingrassia
+Toyota Gazoo Racing WRT
+	4.19	578	138
+5th	
+	Elfyn Evans
+Scott Martin
+Toyota Gazoo Racing WRT
+	3.49	491	141
+6th	
+	Ott Tänak
+Martin Järveoja
+Hyundai Shell Mobis WRT
+	3.68	422	115
+7th	
+	Teemu Suninen
+Mikko Markkula
+M-Sport Ford WRT
+	1.46	304	208
+8th	
+	Pierre-Louis Loubet
+Florian Haut-Labourdette
+Hyundai 2C Competition
+	0.46	249	541
+9th	
+	Alexey Lukyanuk
+Yaroslav Fedorov
+  
+	0.20	225	1125
+10th	
+	Andreas Mikkelsen
+Ola Fløene
+Toksport WRT
+	1.86	194	104
+11th	
+	Mads Østberg
+Torstein Eriksen
+TRT World Rally Team
+	1.23	178	145
+12th	
+	Marco Bulacia Wilkinson
+Marcelo Der Ohannesian
+Toksport WRT
+	0.47	121	257
+13th	
+	Gus Greensmith
+Chris Patterson
+M-Sport Ford WRT
+	1.19	109	92
+14th	
+	Adrien Fourmaux
+Renaud Jamoul
+M-Sport Ford WRT
+	0.85	104	122
+15th	
+	Kajetan Kajetanowicz
+Maciej Szczepaniak
+  
+	0.48	69	144
+16th	
+	Takamoto Katsuta
+Daniel Barritt
+Toyota Gazoo Racing WRT
+	1.51	35	23
+18th	
+	Mikko Heikkilä
+Topi Luhtinen
+  
+	0.21	35	167
+17th	
+	Egon Kaur
+Silver Simm
+Rautio Motorsport
+	0.20	35	175
+19th	
+	Nikolay Gryazin
+Konstantin Aleksandrov
+Movisport SRL
+	0.46	34	74
+20th	
+	Emil Lindholm
+Reeta Hämäläinen
+  
+	0.30	26	87
+21st	
+	Pepe López
+Borja Odriozola
+  
+	0.30	15	50
+22nd	
+	Jari Huttunen
+Mikko Lukka
+Hyundai Motorsport N
+	0.67	12	18
+23rd	
+	Oliver Solberg
+Aaron Johnston
+Hyundai Motorsport N
+	0.58	2	3
+24th	
+	Tom Kristensson
+David Arhusiander
+M-Sport Ford WRT
+	0.20	1	5
+-	
+	Radik Shaymiev
+Maxim Tsvetkov
+  
+	0.20	0	0
+-	
+	Molly Taylor
+Sebastian Marshall
+M-Sport Poland
+	0.30	0	0
+-	
+	Martin Koči
+Petr Těšínský
+Styllex Motorsport s.r.o.
+	0.20	0	0
+-	
+	Jon Armstrong
+Phil Hall
+  
+	0.20	0	0
+-	
+	Lauri Joona
+Mikael Korhonen
+Team Flying Finn
+	0.20	0	0
+-	
+	Emilio Fernández
+Ruben Garcia
+  
+	0.22	0	0
+-	
+	Fabrizio Zaldivar
+Carlos del Barrio
+  
+	0.24	0	0
+-	
+	Sean Johnston
+Alexander Kihurani
+Saintéloc Junior Team
+	0.20	0	0
+
+
+
+
+
