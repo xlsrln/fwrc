@@ -1,0 +1,121 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Elfyn Evans
+Scott Martin
+Toyota Gazoo Racing WRT
+	2.89	547	189
+2nd	
+	Ott Tänak
+Martin Järveoja
+Hyundai Shell Mobis WRT
+	4.07	545	134
+3rd	
+	Kalle Rovanperä
+Jonne Halttunen
+Toyota Gazoo Racing WRT
+	0.89	490	551
+4th	
+	Sébastien Ogier
+Julien Ingrassia
+Toyota Gazoo Racing WRT
+	4.00	421	105
+5th	
+	Thierry Neuville
+Nicolas Gilsoul
+Hyundai Shell Mobis WRT
+	4.28	371	87
+6th	
+	Esapekka Lappi
+Janne Ferm
+M-Sport Ford WRT
+	2.25	349	155
+7th	
+	Craig Breen
+Paul Nagle
+Hyundai Shell Mobis WRT
+	1.97	210	107
+8th	
+	Teemu Suninen
+Jarmo Lehtinen
+M-Sport Ford WRT
+	2.10	188	90
+9th	
+	Takamoto Katsuta
+Daniel Barritt
+Toyota Gazoo Racing WRT
+	0.46	161	350
+10th	
+	Jari Huttunen
+Mikko Lukka
+  
+	0.41	125	305
+11th	
+	Emil Lindholm
+Mikael Korhonen
+  
+	0.26	101	388
+12th	
+	Mads Østberg
+Torstein Eriksen
+PH Sport
+	1.29	87	67
+13th	
+	Ole Christian Veiby
+Jonas Andersson
+Hyundai Motorsport N
+	0.34	62	182
+14th	
+	Johan Kristoffersson
+Stig Rune Kjærnsli
+Kristoffersson Motorsport
+	0.26	47	181
+15th	
+	Pontus Tidemand
+Patrik Barth
+Toksport WRT
+	0.99	23	23
+16th	
+	Oliver Solberg
+Aaron Johnston
+  
+	0.20	12	60
+17th	
+	Jari-Matti Latvala
+Juho Hänninen
+Latvala Motorsport OY
+	2.73	7	3
+18th	
+	Adrien Fourmaux
+Renaud Jamoul
+M-Sport Ford WRT
+	0.24	3	13
+20th	
+	Eerik Pietarinen
+Miikka Anttila
+  
+	0.61	2	3
+19th	
+	Nikolay Gryazin
+Yaroslav Fedorov
+Hyundai Motorsport N
+	0.33	2	6
+-	
+	Michał Sołowow
+Maciej Baran
+Barlinek Synthos RT
+	0.20	0	0
+-	
+	Fabio Andolfi
+Stefano Savoia
+  
+	0.21	0	0
+-	
+	Rhys Yates
+James Morgan
+M-Sport Ford WRT
+	0.20	0	0
+-	
+	Jon Armstrong
+Noel O'Sullivan
+  
+	0.20	0	0
