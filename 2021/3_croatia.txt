@@ -1,0 +1,161 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Sébastien Ogier
+Julien Ingrassia
+Toyota Gazoo Racing WRT
+	3.84	851	222
+2nd	
+	Elfyn Evans
+Scott Martin
+Toyota Gazoo Racing WRT
+	3.27	740	226
+3rd	
+	Thierry Neuville
+Martijn Wydaeghe
+Hyundai Shell Mobis WRT
+	3.58	693	194
+4th	
+	Ott Tänak
+Martin Järveoja
+Hyundai Shell Mobis WRT
+	3.91	515	132
+5th	
+	Craig Breen
+Paul Nagle
+Hyundai Shell Mobis WRT
+	2.36	422	179
+6th	
+	Adrien Fourmaux
+Renaud Jamoul
+M-Sport Ford WRT
+	0.38	361	950
+7th	
+	Takamoto Katsuta
+Daniel Barritt
+Toyota Gazoo Racing WRT
+	0.95	345	363
+8th	
+	Gus Greensmith
+Chris Patterson
+M-Sport Ford WRT
+	0.88	273	310
+9th	
+	Mads Østberg
+Torstein Eriksen
+TRT World Rally Team
+	1.16	170	147
+10th	
+	Teemu Suninen
+Mikko Markkula
+M-Sport Ford WRT
+	1.67	160	96
+11th	
+	Pierre-Louis Loubet
+Vincent Landais
+Hyundai 2C Competition
+	0.50	117	234
+12th	
+	Kajetan Kajetanowicz
+Maciej Szczepaniak
+  
+	0.48	104	217
+13th	
+	Marco Bulacia Wilkinson
+Marcelo Der Ohannesian
+Toksport WRT
+	0.40	89	223
+14th	
+	Emil Lindholm
+Mikael Korhonen
+  
+	0.35	70	200
+15th	
+	Nikolay Gryazin
+Konstantin Aleksandrov
+Movisport SRL
+	0.42	66	157
+16th	
+	Yohan Rossel
+Alexandre Coria
+  
+	0.32	65	203
+17th	
+	Andreas Mikkelsen
+Ola Fløene
+Toksport WRT
+	2.26	43	19
+18th	
+	Nicolas Ciamin
+Yannick Roche
+  
+	0.26	37	142
+19th	
+	Chris Ingram
+Ross Whittock
+  
+	0.24	7	29
+27th	
+	Lauri Joona
+Ari Koponen
+Team Flying Finn
+	0.20	6	30
+26th	
+	Martin Koči
+Petr Těšínský
+Styllex Motorsport s.r.o.
+	0.20	6	30
+25th	
+	Sébastien Bedoret
+Thomas Walbrecq
+  
+	0.20	6	30
+24th	
+	Jon Armstrong
+Phil Hall
+  
+	0.20	6	30
+23rd	
+	Armando Pereira
+Rémi Tutélaire
+  
+	0.20	6	30
+22nd	
+	Fabrizio Zaldivar
+Carlos del Barrio
+  
+	0.20	6	30
+20th	
+	Enrico Brazzoli
+Maurizio Barone
+Movisport SRL
+	0.20	6	30
+21st	
+	Mauro Miele
+Luca Beltrame
+  
+	0.20	6	30
+28th	
+	Niki Mayr-Melnhof
+Leopold Welsersheimb
+  
+	0.20	3	15
+29th	
+	Tom Kristensson
+David Arhusiander
+M-Sport Ford WRT
+	0.20	1	5
+-	
+	Cédric De Cecco
+Jérôme Humblet
+  
+	0.20	0	0
+-	
+	Hiroki Arai
+Jürgen Heigl
+  
+	0.20	0	0
+-	
+	Kalle Rovanperä
+Jonne Halttunen
+Toyota Gazoo Racing WRT
+	2.24	0	0
