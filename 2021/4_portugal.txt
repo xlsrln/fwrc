@@ -1,0 +1,211 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Elfyn Evans
+Scott Martin
+Toyota Gazoo Racing WRT
+	3.40	780	229
+2nd	
+	Dani Sordo
+Borja Rozada
+Hyundai Shell Mobis WRT
+	3.19	608	191
+3rd	
+	Sébastien Ogier
+Julien Ingrassia
+Toyota Gazoo Racing WRT
+	3.98	580	146
+4th	
+	Ott Tänak
+Martin Järveoja
+Hyundai Shell Mobis WRT
+	3.84	447	116
+5th	
+	Takamoto Katsuta
+Daniel Barritt
+Toyota Gazoo Racing WRT
+	1.07	389	364
+6th	
+	Gus Greensmith
+Chris Patterson
+M-Sport Ford WRT
+	0.96	344	358
+7th	
+	Adrien Fourmaux
+Renaud Jamoul
+M-Sport Ford WRT
+	0.56	302	539
+8th	
+	Thierry Neuville
+Martijn Wydaeghe
+Hyundai Shell Mobis WRT
+	3.65	292	80
+9th	
+	Kalle Rovanperä
+Jonne Halttunen
+Toyota Gazoo Racing WRT
+	2.02	290	144
+10th	
+	Esapekka Lappi
+Janne Ferm
+Movisport SRL
+	1.98	239	121
+11th	
+	Teemu Suninen
+Mikko Markkula
+M-Sport Ford WRT
+	1.60	188	118
+12th	
+	Mads Østberg
+Torstein Eriksen
+TRT World Rally Team
+	1.15	187	163
+13th	
+	Nikolay Gryazin
+Konstantin Aleksandrov
+Movisport SRL
+	0.42	166	395
+14th	
+	Oliver Solberg
+Aaron Johnston
+Hyundai Motorsport N
+	0.62	112	181
+15th	
+	Marco Bulacia Wilkinson
+Marcelo Der Ohannesian
+Toksport WRT
+	0.41	82	200
+16th	
+	Kajetan Kajetanowicz
+Maciej Szczepaniak
+  
+	0.50	52	104
+17th	
+	Yohan Rossel
+Alexandre Coria
+  
+	0.33	47	142
+18th	
+	Eric Camilli
+Benjamin Veillas
+Sports & You
+	0.55	33	60
+19th	
+	Chris Ingram
+Ross Whittock
+  
+	0.22	24	109
+20th	
+	Nicolas Ciamin
+Yannick Roche
+  
+	0.26	9	35
+21st	
+	Emil Lindholm
+Reeta Hämäläinen
+  
+	0.36	6	17
+22nd	
+	Pierre-Louis Loubet
+Florian Haut-Labourdette
+Hyundai 2C Competition
+	0.52	6	12
+23rd	
+	Armindo Araújo
+Luís Ramalho
+  
+	0.46	4	9
+24th	
+	Pepe López
+Diego Vallejo
+  
+	0.20	2	10
+25th	
+	Jan Solans
+Rodrigo Sanjuan de Eusebio
+  
+	0.20	2	10
+-	
+	Lauri Joona
+Ari Koponen
+Team Flying Finn
+	0.20	0	0
+-	
+	Ricardo Teodósio
+José Teixeira
+  
+	0.20	0	0
+-	
+	Bruno Magalhães
+Carlos Magalhães
+  
+	0.20	0	0
+-	
+	Bernardo Sousa
+Victor Calado
+  
+	0.20	0	0
+-	
+	Miguel Campos
+Paulo Lopes
+  
+	0.28	0	0
+-	
+	Martin Koči
+Petr Těšínský
+Styllex Motorsport s.r.o.
+	0.20	0	0
+-	
+	Diogo Salvi
+Jorge Eduardo Carvalho
+  
+	0.20	0	0
+-	
+	Josh McErlean
+Keaton Williams
+  
+	0.20	0	0
+-	
+	Jon Armstrong
+Phil Hall
+  
+	0.20	0	0
+-	
+	Emilio Fernández
+Ruben Garcia
+  
+	0.20	0	0
+-	
+	Niki Mayr-Melnhof
+Leopold Welsersheimb
+  
+	0.20	0	0
+-	
+	Tom Kristensson
+David Arhusiander
+M-Sport Ford WRT
+	0.20	0	0
+-	
+	Fabrizio Zaldivar
+Carlos del Barrio
+  
+	0.20	0	0
+-	
+	Egon Kaur
+Silver Simm
+Rautio Motorsport
+	0.25	0	0
+-	
+	Martin Prokop
+Viktor Chytka
+M-Sport Ford WRT
+	0.64	0	0
+-	
+	Ole Christian Veiby
+Jonas Andersson
+Hyundai Motorsport N
+	0.39	0	0
+-	
+	Alberto Heller
+Marc Martí
+  
+	0.36	0	0
