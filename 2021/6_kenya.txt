@@ -1,0 +1,141 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Sébastien Ogier
+Julien Ingrassia
+Toyota Gazoo Racing WRT
+	4.13	808	196
+2nd	
+	Ott Tänak
+Martin Järveoja
+Hyundai Shell Mobis WRT
+	3.65	665	182
+3rd	
+	Takamoto Katsuta
+Daniel Barritt
+Toyota Gazoo Racing WRT
+	1.33	532	400
+4th	
+	Kalle Rovanperä
+Jonne Halttunen
+Toyota Gazoo Racing WRT
+	1.99	511	257
+5th	
+	Adrien Fourmaux
+Renaud Jamoul
+M-Sport Ford WRT
+	0.69	393	570
+6th	
+	Gus Greensmith
+Chris Patterson
+M-Sport Ford WRT
+	1.07	391	365
+7th	
+	Elfyn Evans
+Scott Martin
+Toyota Gazoo Racing WRT
+	3.65	355	97
+8th	
+	Dani Sordo
+Borja Rozada
+Hyundai Shell Mobis WRT
+	3.19	280	88
+9th	
+	Thierry Neuville
+Martijn Wydaeghe
+Hyundai Shell Mobis WRT
+	3.56	264	74
+10th	
+	Onkar Rai
+Drew Sturrock
+  
+	1.42	213	150
+11th	
+	Carl Tundo
+Tim Jessop
+  
+	1.23	184	150
+12th	
+	Karan Patel
+Tauseef Khan
+  
+	0.20	182	910
+13th	
+	Lorenzo Bertelli
+Simone Scattolin
+M-Sport Ford WRT
+	0.35	157	449
+14th	
+	Jasmeet Chana
+Ravinder Chana
+  
+	0.41	61	149
+15th	
+	Daniel Chwist
+Kamil Heller
+  
+	0.34	51	150
+16th	
+	Dilraj Singh Chatthe
+Hendrik Fourie
+  
+	0.31	46	148
+17th	
+	Eric Bengi
+Peter Mutuma
+  
+	0.30	45	150
+18th	
+	Aakif Virani
+Azhar Bhatti
+  
+	0.23	35	152
+19th	
+	Baldev Chager
+Ravi Soni
+  
+	0.22	33	150
+20th	
+	Martin Prokop
+Zdeněk Jůrka
+M-Sport Ford WRT
+	0.55	27	49
+21st	
+	Amanraaj Rai
+Gurdeep Panesar
+  
+	0.20	20	100
+22nd	
+	Jeremy Wahome
+Victor Okundi
+  
+	0.20	14	70
+23rd	
+	Oliver Solberg
+Aaron Johnston
+Hyundai 2C Competition
+	0.64	10	16
+24th	
+	Hamza Anwar
+Riyaz Ismail
+  
+	0.20	8	40
+25th	
+	Nikhil Sachania
+Deep Patel
+  
+	0.20	7	35
+27th	
+	Yasin Nasser
+Ali Katumba
+  
+	0.20	3	15
+28th	
+	Nzioka Waita
+Tuta Mionki
+  
+	0.20	3	15
+26th	
+	Sobiesław Zasada
+Tomasz Borysławski
+M-Sport Poland
+	0.20	3	15
