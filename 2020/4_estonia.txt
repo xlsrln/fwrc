@@ -1,0 +1,156 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Ott Tänak
+Martin Järveoja
+Hyundai Shell Mobis WRT
+	4.14	743	179
+2nd	
+	Craig Breen
+Paul Nagle
+Hyundai Shell Mobis WRT
+	1.95	616	316
+3rd	
+	Sébastien Ogier
+Julien Ingrassia
+Toyota Gazoo Racing WRT
+	4.02	577	144
+4th	
+	Kalle Rovanperä
+Jonne Halttunen
+Toyota Gazoo Racing WRT
+	1.33	577	434
+5th	
+	Elfyn Evans
+Scott Martin
+Toyota Gazoo Racing WRT
+	3.04	517	170
+6th	
+	Teemu Suninen
+Jarmo Lehtinen
+M-Sport Ford WRT
+	2.17	269	124
+7th	
+	Esapekka Lappi
+Janne Ferm
+M-Sport Ford WRT
+	2.14	258	121
+8th	
+	Gus Greensmith
+Elliott Edmondson
+M-Sport Ford WRT
+	0.62	200	323
+9th	
+	Oliver Solberg
+Aaron Johnston
+  
+	0.20	157	785
+10th	
+	Mads Østberg
+Torstein Eriksen
+PH Sport
+	1.23	141	115
+11th	
+	Jari Huttunen
+Mikko Lukka
+  
+	0.47	103	219
+12th	
+	Takamoto Katsuta
+Daniel Barritt
+Toyota Gazoo Racing WRT
+	0.55	95	173
+13th	
+	Egon Kaur
+Silver Simm
+Kaur Motorsport
+	0.20	93	465
+14th	
+	Thierry Neuville
+Nicolas Gilsoul
+Hyundai Shell Mobis WRT
+	3.91	85	22
+15th	
+	Pierre-Louis Loubet
+Vincent Landais
+Hyundai 2C Competition
+	0.35	62	177
+16th	
+	Adrien Fourmaux
+Renaud Jamoul
+M-Sport Ford WRT
+	0.22	54	245
+17th	
+	Marco Bulacia Wilkinson
+Marcelo Der Ohannesian
+  
+	0.42	30	71
+18th	
+	Kajetan Kajetanowicz
+Maciej Szczepaniak
+  
+	0.37	22	59
+19th	
+	Pontus Tidemand
+Patrik Barth
+Toksport WRT
+	1.00	19	19
+20th	
+	Nikolay Gryazin
+Konstantin Aleksandrov
+Hyundai Motorsport N
+	0.42	11	26
+21st	
+	Ole Christian Veiby
+Jonas Andersson
+Hyundai Motorsport N
+	0.44	4	9
+22nd	
+	Karl Kruuda
+Dale Moscatt
+  
+	0.24	3	13
+23rd	
+	Eerik Pietarinen
+Antti Linnaketo
+  
+	0.55	2	4
+24th	
+	Eyvind Brynildsen
+Ilka Minor
+Toksport WRT
+	0.20	1	5
+-	
+	Fabio Andolfi
+Stefano Savoia
+  
+	0.20	0	0
+-	
+	Grégoire Munster
+Louis Louka
+  
+	0.31	0	0
+-	
+	Yohan Rossel
+Benoît Fulcrand
+PH Sport
+	0.33	0	0
+-	
+	Nicolas Ciamin
+Yannick Roche
+  
+	0.26	0	0
+-	
+	Emilio Fernández
+Ruben Garcia
+  
+	0.26	0	0
+-	
+	Jarosław Kołtun
+Ireneusz Pleskot
+  
+	0.20	0	0
+-	
+	Radik Shaymiev
+Alexey Arnautov
+  
+	0.20	0	0
