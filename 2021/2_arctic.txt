@@ -1,0 +1,151 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Ott Tänak
+Martin Järveoja
+Hyundai Shell Mobis WRT
+	3.67	720	196
+2nd	
+	Kalle Rovanperä
+Jonne Halttunen
+Toyota Gazoo Racing WRT
+	1.89	644	341
+3rd	
+	Thierry Neuville
+Martijn Wydaeghe
+Hyundai Shell Mobis WRT
+	3.48	534	153
+4th	
+	Craig Breen
+Paul Nagle
+Hyundai Shell Mobis WRT
+	2.18	471	216
+5th	
+	Elfyn Evans
+Scott Martin
+Toyota Gazoo Racing WRT
+	3.32	336	101
+6th	
+	Oliver Solberg
+Sebastian Marshall
+Hyundai 2C Competition
+	0.44	263	598
+7th	
+	Takamoto Katsuta
+Daniel Barritt
+Toyota Gazoo Racing WRT
+	0.82	252	307
+8th	
+	Teemu Suninen
+Mikko Markkula
+M-Sport Ford WRT
+	1.66	214	129
+9th	
+	Sébastien Ogier
+Julien Ingrassia
+Toyota Gazoo Racing WRT
+	4.08	194	48
+10th	
+	Gus Greensmith
+Elliott Edmondson
+M-Sport Ford WRT
+	0.82	168	205
+11th	
+	Esapekka Lappi
+Janne Ferm
+Movisport SRL
+	2.08	131	63
+12th	
+	Andreas Mikkelsen
+Ola Fløene
+Toksport WRT
+	2.42	103	43
+13th	
+	Nikolay Gryazin
+Konstantin Aleksandrov
+Movisport SRL
+	0.40	76	190
+14th	
+	Teemu Asunmaa
+Marko Salminen
+  
+	0.35	51	146
+15th	
+	Pierre-Louis Loubet
+Vincent Landais
+Hyundai 2C Competition
+	0.51	50	98
+16th	
+	Egon Kaur
+Silver Simm
+Rautio Motorsport
+	0.24	40	167
+17th	
+	Janne Tuohino
+Reeta Hämäläinen
+JanPro
+	0.58	22	38
+18th	
+	Eyvind Brynildsen
+Veronica Gulbæk Engan
+Toksport WRT
+	0.22	15	68
+19th	
+	Ole Christian Veiby
+Jonas Andersson
+Hyundai Motorsport N
+	0.42	10	24
+20th	
+	Lorenzo Bertelli
+Simone Scattolin
+M-Sport Ford WRT
+	0.38	7	18
+21st	
+	Emil Lindholm
+Mikael Korhonen
+  
+	0.38	6	16
+-	
+	Mattias Ekström
+Emil Bergkvist
+  
+	0.64	0	0
+-	
+	Sean Johnston
+Alexander Kihurani
+Saintéloc Junior Team
+	0.20	0	0
+-	
+	Martin Prokop
+Michal Ernst
+M-Sport Ford WRT
+	0.71	0	0
+-	
+	Jari Huttunen
+Mikko Lukka
+Hyundai Motorsport N
+	0.62	0	0
+-	
+	Johan Kristoffersson
+Patrik Barth
+Kristoffersson Motorsport
+	0.27	0	0
+-	
+	Michał Sołowow
+Maciej Baran
+  
+	0.20	0	0
+-	
+	Eerik Pietarinen
+Antti Linnaketo
+  
+	0.50	0	0
+-	
+	Adrien Fourmaux
+Renaud Jamoul
+M-Sport Ford WRT
+	0.42	0	0
+-	
+	Mauro Miele
+Luca Beltrame
+  
+	0.20	0	0
