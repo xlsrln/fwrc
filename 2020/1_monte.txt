@@ -1,136 +1,166 @@
 Pos		Driver	Cost	Score	PPM
 1st	
+	Thierry Neuville
+Nicolas Gilsoul
+Hyundai Shell Mobis WRT
+	4.15	850	205
+2nd	
 	Sébastien Ogier
 Julien Ingrassia
 Toyota Gazoo Racing WRT
-	3.93	779	198
-2nd	
+	3.90	761	195
+3rd	
 	Elfyn Evans
 Scott Martin
 Toyota Gazoo Racing WRT
-	3.18	651	205
-3rd	
-	Thierry Neuville
-Martijn Wydaeghe
-Hyundai Shell Mobis WRT
-	3.44	546	159
+	2.75	646	235
 4th	
+	Esapekka Lappi
+Janne Ferm
+M-Sport Ford WRT
+	2.16	469	217
+5th	
+	Teemu Suninen
+Jarmo Lehtinen
+M-Sport Ford WRT
+	2.06	378	183
+6th	
 	Kalle Rovanperä
 Jonne Halttunen
 Toyota Gazoo Racing WRT
-	1.71	502	294
-5th	
-	Dani Sordo
-Carlos del Barrio
+	0.75	333	444
+7th	
+	Sébastien Loeb
+Daniel Elena
 Hyundai Shell Mobis WRT
-	3.22	421	131
-6th	
+	3.32	312	94
+8th	
 	Takamoto Katsuta
 Daniel Barritt
 Toyota Gazoo Racing WRT
-	0.72	250	347
-7th	
-	Andreas Mikkelsen
-Ola Fløene
-Toksport WRT
-	2.52	225	89
-8th	
-	Gus Greensmith
-Elliott Edmondson
-M-Sport Ford WRT
-	0.75	207	276
+	0.33	249	755
 9th	
-	Adrien Fourmaux
-Renaud Jamoul
-M-Sport Ford WRT
-	0.32	184	575
+	Mads Østberg
+Torstein Eriksen
+PH Sport
+	1.30	180	138
 10th	
 	Eric Camilli
 François-Xavier Buresi
-Sports & You
-	0.49	152	310
+  
+	0.47	172	366
 11th	
-	Nikolay Gryazin
-Konstantin Aleksandrov
-Movisport SRL
-	0.35	126	360
-12th	
-	Ott Tänak
-Martin Järveoja
-Hyundai Shell Mobis WRT
-	3.99	119	30
-13th	
-	Yohan Rossel
-Benoît Fulcrand
-  
-	0.27	107	396
-14th	
-	Pierre-Louis Loubet
-Vincent Landais
-Hyundai 2C Competition
-	0.50	83	166
-15th	
-	Yoann Bonato
-Benjamin Boulloud
-  
-	0.38	80	211
-16th	
 	Nicolas Ciamin
 Yannick Roche
   
-	0.23	76	330
+	0.21	117	557
+12th	
+	Yoann Bonato
+Benjamin Boulloud
+  
+	0.34	111	326
+13th	
+	Adrien Fourmaux
+Renaud Jamoul
+M-Sport Ford WRT
+	0.20	88	440
+14th	
+	Yohan Rossel
+Benoît Fulcrand
+PH Sport
+	0.32	68	213
+15th	
+	Ott Tänak
+Martin Järveoja
+Hyundai Shell Mobis WRT
+	4.48	60	13
+16th	
+	Grégoire Munster
+Louis Louka
+  
+	0.30	56	187
 17th	
+	Ole Christian Veiby
+Jonas Andersson
+Hyundai Motorsport N
+	0.34	48	141
+18th	
+	Gus Greensmith
+Elliott Edmondson
+M-Sport Ford WRT
+	0.53	40	75
+19th	
 	Oliver Solberg
 Aaron Johnston
-Hyundai Motorsport N
-	0.44	61	139
-18th	
-	Marco Bulacia Wilkinson
-Marcelo Der Ohannesian
-Toksport WRT
-	0.42	36	86
-19th	
-	Olivier Burri
-Anderson Levratti
   
-	0.39	3	8
+	0.20	24	120
 20th	
-	Sean Johnston
-Alexander Kihurani
-Saintéloc Junior Team
-	0.20	2	10
+	Stéphane Sarrazin
+Kévin Parent
+  
+	1.07	16	15
 21st	
-	Cédric De Cecco
-Jérôme Humblet
-  
-	0.20	1	5
--	
-	Cédric Robert
-Matthieu Duval
-  
-	1.05	0	0
--	
-	Philippe Roux
-Christophe Roux
-  
-	0.20	0	0
--	
-	Kevin Abbring
-Pieter Tsjoen
-  
-	0.35	0	0
--	
+	Nikolay Gryazin
+Yaroslav Fedorov
+Hyundai Motorsport N
+	0.36	12	33
+22nd	
+	Rhys Yates
+James Morgan
+M-Sport Ford WRT
+	0.20	7	35
+24th	
 	Mauro Miele
 Luca Beltrame
   
-	0.20	0	0
--	
+	0.20	6	30
+23rd	
 	Enrico Brazzoli
 Maurizio Barone
-Movisport SRL
+  
+	0.20	6	30
+25th	
+	Olivier Burri
+Anderson Levratti
+  
+	0.43	6	14
+26th	
+	Massimo Pedretti
+Emanuele Baldaccini
+  
+	0.20	6	30
+27th	
+	Eamonn Boland
+Michael Joseph Morrissey
+  
+	0.20	6	30
+28th	
+	Renaud Dolce
+Quentin Giroud
+  
+	0.20	6	30
+-	
+	Paulo Nobre
+Gabriel Morales
+  
 	0.20	0	0
 -	
-	Teemu Suninen
-Mikko Markkula
+	Umberto Scandola
+Guido D'Amore
+  
+	0.20	0	0
+-	
+	Deividas Jocius
+Mindaugas Varža
 M-Sport Ford WRT
-	1.85	0	0
+	0.20	0	0
+-	
+	Andrea Nucita
+Bernardo Di Caro
+  
+	0.20	0	0
+-	
+	Franck Sias
+Olivier Mathias
+  
+	0.20	0	0
