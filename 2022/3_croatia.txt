@@ -1,0 +1,196 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Kalle Rovanperä
+Jonne Halttunen
+Toyota Gazoo Racing WRT
+	2.90	808	279
+2nd	
+	Ott Tänak
+Martin Järveoja
+Hyundai Shell Mobis WRT
+	3.08	686	223
+3rd	
+	Thierry Neuville
+Martijn Wydaeghe
+Hyundai Shell Mobis WRT
+	3.58	537	150
+4th	
+	Elfyn Evans
+Scott Martin
+Toyota Gazoo Racing WRT
+	3.43	488	142
+5th	
+	Craig Breen
+Paul Nagle
+M-Sport Ford WRT
+	2.65	488	184
+6th	
+	Emil Lindholm
+Reeta Hämäläinen
+Toksport WRT 2
+	0.28	268	957
+7th	
+	Takamoto Katsuta
+Aaron Johnston
+Toyota Gazoo Racing WRT NG
+	1.56	263	169
+8th	
+	Yohan Rossel
+Valentin Sarreaud
+PH Sport
+	0.54	217	402
+9th	
+	Kajetan Kajetanowicz
+Maciej Szczepaniak
+  
+	0.51	179	351
+10th	
+	Gus Greensmith
+Jonas Andersson
+M-Sport Ford WRT
+	1.49	159	107
+11th	
+	Esapekka Lappi
+Janne Ferm
+Toyota Gazoo Racing WRT
+	2.65	158	60
+12th	
+	Nikolay Gryazin
+Konstantin Aleksandrov
+Toksport WRT 2
+	0.48	143	298
+13th	
+	Chris Ingram
+Craig Drew
+  
+	0.24	121	504
+14th	
+	Stéphane Lefebvre
+Andy Malfoy
+  
+	0.52	118	227
+15th	
+	Eric Camilli
+Thibault de la Haye
+Saintéloc Junior Team
+	0.52	89	171
+16th	
+	Pierre-Louis Loubet
+Vincent Landais
+M-Sport Ford WRT
+	0.53	79	149
+17th	
+	Oliver Solberg
+Elliott Edmondson
+Hyundai Shell Mobis WRT
+	0.84	75	89
+18th	
+	Erik Cais
+Petr Těšínský
+Yacco ACCR Team
+	0.31	46	148
+19th	
+	Jari Huttunen
+Mikko Lukka
+M-Sport Ford WRT
+	0.75	45	60
+21st	
+	Adrien Fourmaux
+Alexandre Coria
+M-Sport Ford WRT
+	0.82	18	22
+20th	
+	Grégoire Munster
+Louis Louka
+  
+	0.29	18	62
+22nd	
+	Georg Linnamäe
+James Morgan
+ALM Motorsport
+	0.47	15	32
+23rd	
+	Sami Pajari
+Enni Mälkönen
+  
+	0.20	14	70
+24th	
+	Sean Johnston
+Alexander Kihurani
+Saintéloc Junior Team
+	0.25	12	48
+26th	
+	Mikołaj Marczyk
+Szymon Gospodarczyk
+  
+	0.20	11	55
+25th	
+	Robert Virves
+Aleks Lesk
+  
+	0.20	11	55
+27th	
+	William Creighton
+Liam Regan
+  
+	0.20	10	50
+29th	
+	Jon Armstrong
+Brian Hoy
+  
+	0.20	9	45
+28th	
+	Mauro Miele
+Luca Beltrame
+  
+	0.20	9	45
+34th	
+	Niko Pulić
+Aleksandra Kovačić
+  
+	0.20	6	30
+35th	
+	Armin Kremer
+Timo Gottschalk
+  
+	0.22	6	27
+36th	
+	Mikko Heikkilä
+Samu Vaaleri
+  
+	0.22	6	27
+37th	
+	Lauri Joona
+Mikael Korhonen
+  
+	0.20	6	30
+33rd	
+	Olivier Burri
+Anderson Levratti
+  
+	0.32	6	19
+38th	
+	Johannes Keferböck
+Ilka Minor
+  
+	0.20	6	30
+39th	
+	Pierre Ragues
+Julien Pesenti
+Yacco ACCR Team
+	0.20	6	30
+32nd	
+	Ricardo Triviño
+Marc Martí
+  
+	0.29	6	21
+31st	
+	Benito Guerra Jr.
+Daniel Cué
+  
+	0.26	6	23
+30th	
+	Enrico Brazzoli
+Manuel Fenoli
+  
+	0.20	6	30
