@@ -1,0 +1,111 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Thierry Neuville
+Nicolas Gilsoul
+Hyundai Shell Mobis WRT
+	3.58	679	190
+2nd	
+	Elfyn Evans
+Scott Martin
+Toyota Gazoo Racing WRT
+	3.09	676	219
+3rd	
+	Sébastien Loeb
+Daniel Elena
+Hyundai Shell Mobis WRT
+	3.19	529	166
+4th	
+	Kalle Rovanperä
+Jonne Halttunen
+Toyota Gazoo Racing WRT
+	1.59	447	281
+5th	
+	Gus Greensmith
+Elliott Edmondson
+M-Sport Ford WRT
+	0.70	273	390
+6th	
+	Esapekka Lappi
+Janne Ferm
+M-Sport Ford WRT
+	2.10	259	123
+7th	
+	Ott Tänak
+Martin Järveoja
+Hyundai Shell Mobis WRT
+	4.24	187	44
+8th	
+	Sébastien Ogier
+Julien Ingrassia
+Toyota Gazoo Racing WRT
+	4.02	178	44
+9th	
+	Kajetan Kajetanowicz
+Maciej Szczepaniak
+  
+	0.35	177	506
+10th	
+	Pontus Tidemand
+Patrik Barth
+Toksport WRT
+	0.91	160	176
+11th	
+	Adrien Fourmaux
+Renaud Jamoul
+M-Sport Ford WRT
+	0.24	151	629
+12th	
+	Marco Bulacia Wilkinson
+Marcelo Der Ohannesian
+  
+	0.40	129	323
+13th	
+	Yağiz Avci
+Onur Vatansever
+  
+	0.25	87	348
+14th	
+	Teemu Suninen
+Jarmo Lehtinen
+M-Sport Ford WRT
+	2.14	85	40
+15th	
+	Alberto Heller
+Marc Martí
+  
+	0.39	66	169
+16th	
+	Burak Cukurova
+Burak Akcay
+  
+	0.50	49	98
+17th	
+	Pierre-Louis Loubet
+Vincent Landais
+Hyundai 2C Competition
+	0.36	48	133
+18th	
+	Jan Solans
+Mauro Barreiro
+  
+	0.20	46	230
+19th	
+	Emilio Fernández
+Ruben Garcia
+  
+	0.23	26	113
+20th	
+	Eyvind Brynildsen
+Ilka Minor
+Toksport WRT
+	0.20	18	90
+21st	
+	Sean Johnston
+Alexander Kihurani
+Saintéloc Junior Team
+	0.20	2	10
+22nd	
+	Massimo Pedretti
+Emanuele Baldaccini
+  
+	0.20	2	10
