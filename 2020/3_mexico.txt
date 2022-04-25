@@ -1,0 +1,131 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Sébastien Ogier
+Julien Ingrassia
+Toyota Gazoo Racing WRT
+	3.95	667	169
+2nd	
+	Ott Tänak
+Martin Järveoja
+Hyundai Shell Mobis WRT
+	4.12	627	152
+3rd	
+	Teemu Suninen
+Jarmo Lehtinen
+M-Sport Ford WRT
+	2.05	470	229
+4th	
+	Elfyn Evans
+Scott Martin
+Toyota Gazoo Racing WRT
+	3.06	416	136
+5th	
+	Kalle Rovanperä
+Jonne Halttunen
+Toyota Gazoo Racing WRT
+	1.21	351	290
+6th	
+	Pontus Tidemand
+Patrik Barth
+Toksport WRT
+	0.91	257	282
+7th	
+	Thierry Neuville
+Nicolas Gilsoul
+Hyundai Shell Mobis WRT
+	4.16	245	59
+8th	
+	Gus Greensmith
+Elliott Edmondson
+M-Sport Ford WRT
+	0.50	238	476
+9th	
+	Nikolay Gryazin
+Yaroslav Fedorov
+Hyundai Motorsport N
+	0.30	209	697
+10th	
+	Marco Bulacia Wilkinson
+Giovanni Bernacchini
+  
+	0.33	183	555
+11th	
+	Ole Christian Veiby
+Jonas Andersson
+Hyundai Motorsport N
+	0.36	165	458
+12th	
+	Emilio Fernández
+Ruben Garcia
+Toksport WRT
+	0.20	109	545
+13th	
+	Ricardo Triviño
+Marc Martí
+  
+	0.26	79	304
+14th	
+	Esapekka Lappi
+Janne Ferm
+M-Sport Ford WRT
+	2.32	74	32
+15th	
+	Dani Sordo
+Carlos del Barrio
+Hyundai Shell Mobis WRT
+	3.07	59	19
+16th	
+	Kajetan Kajetanowicz
+Maciej Szczepaniak
+  
+	0.37	57	154
+17th	
+	Ricardo Cordero Jr.
+Marco Hernández
+  
+	0.37	53	143
+18th	
+	Benito Guerra Jr.
+Daniel Cué
+  
+	0.27	22	81
+19th	
+	John Coyne
+Stephen Joyce
+  
+	0.20	15	75
+20th	
+	Barry McKenna
+James Fulton
+  
+	0.20	8	40
+21st	
+	Alberto Heller
+José Luis Díaz
+  
+	0.43	7	16
+22nd	
+	Oliver Solberg
+Aaron Johnston
+  
+	0.20	2	10
+23rd	
+	Gianluca Linari
+Nicola Arena
+  
+	0.21	1	5
+-	
+	Paulo Nobre
+Gabriel Morales
+  
+	0.20	0	0
+-	
+	Ken Block
+Alessandro Gelsomino
+  
+	0.56	0	0
+-	
+	Francisco Name Guzzy
+Armando Zapata
+  
+	0.20	0	0
