@@ -1,0 +1,166 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Dani Sordo
+Carlos del Barrio
+Hyundai Shell Mobis WRT
+	2.80	749	268
+2nd	
+	Thierry Neuville
+Nicolas Gilsoul
+Hyundai Shell Mobis WRT
+	3.68	679	185
+3rd	
+	Sébastien Ogier
+Julien Ingrassia
+Toyota Gazoo Racing WRT
+	3.74	622	166
+4th	
+	Elfyn Evans
+Scott Martin
+Toyota Gazoo Racing WRT
+	3.24	494	152
+5th	
+	Ott Tänak
+Martin Järveoja
+Hyundai Shell Mobis WRT
+	3.94	452	115
+6th	
+	Teemu Suninen
+Jarmo Lehtinen
+M-Sport Ford WRT
+	1.98	357	180
+7th	
+	Pierre-Louis Loubet
+Vincent Landais
+Hyundai 2C Competition
+	0.36	243	675
+8th	
+	Jari Huttunen
+Mikko Lukka
+  
+	0.49	158	322
+9th	
+	Kajetan Kajetanowicz
+Maciej Szczepaniak
+  
+	0.44	134	305
+11th	
+	Pontus Tidemand
+Patrik Barth
+Toksport WRT
+	0.93	98	105
+10th	
+	Gus Greensmith
+Elliott Edmondson
+M-Sport Ford WRT
+	0.82	98	120
+12th	
+	Ole Christian Veiby
+Jonas Andersson
+Hyundai Motorsport N
+	0.40	96	240
+13th	
+	Mads Østberg
+Torstein Eriksen
+PH Sport
+	1.20	94	78
+14th	
+	Marco Bulacia Wilkinson
+Marcelo Der Ohannesian
+  
+	0.45	93	207
+15th	
+	Takamoto Katsuta
+Daniel Barritt
+Toyota Gazoo Racing WRT
+	0.56	63	113
+16th	
+	Eyvind Brynildsen
+Ilka Minor
+Toksport WRT
+	0.20	54	270
+17th	
+	Kalle Rovanperä
+Jonne Halttunen
+Toyota Gazoo Racing WRT
+	1.74	52	30
+18th	
+	Oliver Solberg
+Aaron Johnston
+  
+	0.29	49	169
+19th	
+	Nicolas Ciamin
+Yannick Roche
+  
+	0.23	31	135
+20th	
+	Yohan Rossel
+Benoît Fulcrand
+PH Sport
+	0.30	29	97
+22nd	
+	Adrien Fourmaux
+Renaud Jamoul
+M-Sport Ford WRT
+	0.32	20	63
+21st	
+	Esapekka Lappi
+Janne Ferm
+M-Sport Ford WRT
+	2.07	20	10
+23rd	
+	Eric Camilli
+François-Xavier Buresi
+  
+	0.53	18	34
+24th	
+	Martin Prokop
+Zdeněk Jůrka
+MP-Sports
+	0.78	17	22
+25th	
+	Umberto Scandola
+Guido D'Amore
+  
+	0.20	6	30
+26th	
+	Jan Solans
+Mauro Barreiro
+  
+	0.21	5	24
+27th	
+	Nikolay Gryazin
+Konstantin Aleksandrov
+Hyundai Motorsport N
+	0.39	1	3
+-	
+	Fabio Andolfi
+Stefano Savoia
+  
+	0.20	0	0
+-	
+	Alberto Heller
+Marc Martí
+  
+	0.40	0	0
+-	
+	Sean Johnston
+Alexander Kihurani
+Saintéloc Junior Team
+	0.20	0	0
+-	
+	Emilio Fernández
+Ruben Garcia
+  
+	0.22	0	0
+-	
+	Armin Kremer
+Ella Kremer
+  
+	0.29	0	0
+-	
+	Massimo Pedretti
+Emanuele Baldaccini
+  
+	0.20	0	0
