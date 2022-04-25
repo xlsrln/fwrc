@@ -1,0 +1,136 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Sébastien Ogier
+Julien Ingrassia
+Toyota Gazoo Racing WRT
+	3.93	779	198
+2nd	
+	Elfyn Evans
+Scott Martin
+Toyota Gazoo Racing WRT
+	3.18	651	205
+3rd	
+	Thierry Neuville
+Martijn Wydaeghe
+Hyundai Shell Mobis WRT
+	3.44	546	159
+4th	
+	Kalle Rovanperä
+Jonne Halttunen
+Toyota Gazoo Racing WRT
+	1.71	502	294
+5th	
+	Dani Sordo
+Carlos del Barrio
+Hyundai Shell Mobis WRT
+	3.22	421	131
+6th	
+	Takamoto Katsuta
+Daniel Barritt
+Toyota Gazoo Racing WRT
+	0.72	250	347
+7th	
+	Andreas Mikkelsen
+Ola Fløene
+Toksport WRT
+	2.52	225	89
+8th	
+	Gus Greensmith
+Elliott Edmondson
+M-Sport Ford WRT
+	0.75	207	276
+9th	
+	Adrien Fourmaux
+Renaud Jamoul
+M-Sport Ford WRT
+	0.32	184	575
+10th	
+	Eric Camilli
+François-Xavier Buresi
+Sports & You
+	0.49	152	310
+11th	
+	Nikolay Gryazin
+Konstantin Aleksandrov
+Movisport SRL
+	0.35	126	360
+12th	
+	Ott Tänak
+Martin Järveoja
+Hyundai Shell Mobis WRT
+	3.99	119	30
+13th	
+	Yohan Rossel
+Benoît Fulcrand
+  
+	0.27	107	396
+14th	
+	Pierre-Louis Loubet
+Vincent Landais
+Hyundai 2C Competition
+	0.50	83	166
+15th	
+	Yoann Bonato
+Benjamin Boulloud
+  
+	0.38	80	211
+16th	
+	Nicolas Ciamin
+Yannick Roche
+  
+	0.23	76	330
+17th	
+	Oliver Solberg
+Aaron Johnston
+Hyundai Motorsport N
+	0.44	61	139
+18th	
+	Marco Bulacia Wilkinson
+Marcelo Der Ohannesian
+Toksport WRT
+	0.42	36	86
+19th	
+	Olivier Burri
+Anderson Levratti
+  
+	0.39	3	8
+20th	
+	Sean Johnston
+Alexander Kihurani
+Saintéloc Junior Team
+	0.20	2	10
+21st	
+	Cédric De Cecco
+Jérôme Humblet
+  
+	0.20	1	5
+-	
+	Cédric Robert
+Matthieu Duval
+  
+	1.05	0	0
+-	
+	Philippe Roux
+Christophe Roux
+  
+	0.20	0	0
+-	
+	Kevin Abbring
+Pieter Tsjoen
+  
+	0.35	0	0
+-	
+	Mauro Miele
+Luca Beltrame
+  
+	0.20	0	0
+-	
+	Enrico Brazzoli
+Maurizio Barone
+Movisport SRL
+	0.20	0	0
+-	
+	Teemu Suninen
+Mikko Markkula
+M-Sport Ford WRT
+	1.85	0	0
