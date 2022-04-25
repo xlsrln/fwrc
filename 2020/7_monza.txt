@@ -1,0 +1,191 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Ott Tänak
+Martin Järveoja
+Hyundai Shell Mobis WRT
+	3.87	624	161
+2nd	
+	Sébastien Ogier
+Julien Ingrassia
+Toyota Gazoo Racing WRT
+	3.81	609	160
+3rd	
+	Dani Sordo
+Carlos del Barrio
+Hyundai Shell Mobis WRT
+	3.05	583	191
+4th	
+	Esapekka Lappi
+Janne Ferm
+M-Sport Ford WRT
+	1.88	473	252
+5th	
+	Kalle Rovanperä
+Jonne Halttunen
+Toyota Gazoo Racing WRT
+	1.60	332	208
+6th	
+	Elfyn Evans
+Scott Martin
+Toyota Gazoo Racing WRT
+	3.27	289	88
+7th	
+	Takamoto Katsuta
+Daniel Barritt
+Toyota Gazoo Racing WRT
+	0.55	276	502
+8th	
+	Andreas Mikkelsen
+Anders Jæger
+  
+	2.60	220	85
+9th	
+	Oliver Solberg
+Aaron Johnston
+  
+	0.30	202	673
+10th	
+	Jari Huttunen
+Mikko Lukka
+  
+	0.55	157	285
+11th	
+	Mads Østberg
+Torstein Eriksen
+PH Sport
+	1.15	147	128
+12th	
+	Pontus Tidemand
+Patrik Barth
+Toksport WRT
+	0.91	115	126
+13th	
+	Emil Lindholm
+Mikael Korhonen
+Eurosol Racing Team Hungary
+	0.32	110	344
+14th	
+	Jan Kopecký
+Jan Hloušek
+Toksport WRT
+	0.87	76	87
+15th	
+	Stéphane Lefebvre
+Thomas Dubois
+D-Max Swiss
+	0.62	68	110
+16th	
+	Adrien Fourmaux
+Renaud Jamoul
+M-Sport Ford WRT
+	0.30	59	197
+17th	
+	Kajetan Kajetanowicz
+Maciej Szczepaniak
+  
+	0.49	45	92
+18th	
+	Umberto Scandola
+Guido D'Amore
+  
+	0.20	37	185
+19th	
+	Ole Christian Veiby
+Jonas Andersson
+Hyundai 2C Competition
+	0.43	36	84
+20th	
+	Gus Greensmith
+Elliott Edmondson
+M-Sport Ford WRT
+	0.81	30	37
+21st	
+	Thierry Neuville
+Nicolas Gilsoul
+Hyundai Shell Mobis WRT
+	3.80	26	7
+22nd	
+	Kevin Abbring
+Pieter Tsjoen
+  
+	0.37	25	68
+23rd	
+	Teemu Suninen
+Jarmo Lehtinen
+M-Sport Ford WRT
+	2.04	16	8
+24th	
+	Yohan Rossel
+Benoît Fulcrand
+PH Sport
+	0.29	15	52
+25th	
+	Paul-André Mariani
+Arnaud Dunand
+  
+	0.20	9	45
+26th	
+	Josh McErlean
+Keaton Williams
+Motorsport Ireland Rally Academy
+	0.20	8	40
+27th	
+	Marco Gianesini
+Marco Bergonzi
+  
+	0.20	7	35
+28th	
+	Niclas Grönholm
+Antti Linnaketo
+  
+	0.20	6	30
+29th	
+	Alessandro Perico
+Mauro Turati
+  
+	0.20	6	30
+30th	
+	Marco Roncoroni
+Paolo Brusadelli
+  
+	0.20	4	20
+33rd	
+	Ruairi Bell
+Darren Garrod
+  
+	0.20	2	10
+31st	
+	Marco Bulacia Wilkinson
+Marcelo Der Ohannesian
+  
+	0.47	2	4
+32nd	
+	Maro Engel
+Ilka Minor
+Toksport WRT
+	0.20	2	10
+-	
+	Matteo Gamba
+Nicola Arena
+  
+	0.78	0	0
+-	
+	Fabio Andolfi
+Stefano Savoia
+  
+	0.20	0	0
+-	
+	Mauro Miele
+Luca Beltrame
+  
+	0.20	0	0
+-	
+	Enrico Brazzoli
+Maurizio Barone
+  
+	0.20	0	0
+-	
+	Grégoire Munster
+Louis Louka
+  
+	0.28	0	0
