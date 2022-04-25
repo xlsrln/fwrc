@@ -1,0 +1,151 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Thierry Neuville
+Martijn Wydaeghe
+Hyundai Shell Mobis WRT
+	3.46	831	240
+2nd	
+	Craig Breen
+Paul Nagle
+Hyundai Shell Mobis WRT
+	2.53	604	239
+3rd	
+	Kalle Rovanperä
+Jonne Halttunen
+Toyota Gazoo Racing WRT
+	2.42	588	243
+4th	
+	Sébastien Ogier
+Julien Ingrassia
+Toyota Gazoo Racing WRT
+	4.14	548	132
+5th	
+	Elfyn Evans
+Scott Martin
+Toyota Gazoo Racing WRT
+	3.45	542	157
+6th	
+	Ott Tänak
+Martin Järveoja
+Hyundai Shell Mobis WRT
+	3.58	518	145
+7th	
+	Yohan Rossel
+Alexandre Coria
+  
+	0.43	192	447
+8th	
+	Pieter Jan Michiel Cracco
+Jasper Vermeulen
+  
+	0.94	156	166
+9th	
+	Fabian Kreim
+Frank Christian
+  
+	0.27	141	522
+10th	
+	Sébastien Bedoret
+François Gilbert
+  
+	0.20	129	645
+11th	
+	Vincent Verschueren
+Filip Cuvelier
+  
+	0.79	119	151
+12th	
+	Gus Greensmith
+Chris Patterson
+M-Sport Ford WRT
+	1.14	117	103
+13th	
+	Takamoto Katsuta
+Keaton Williams
+Toyota Gazoo Racing WRT
+	1.38	71	51
+14th	
+	Josh McErlean
+James Fulton
+  
+	0.20	67	335
+15th	
+	Pierre-Louis Loubet
+Florian Haut-Labourdette
+Hyundai 2C Competition
+	0.57	63	111
+16th	
+	Ghislain de Mevius
+Johan Jalet
+  
+	0.23	55	239
+17th	
+	Nikolay Gryazin
+Konstantin Aleksandrov
+Movisport SRL
+	0.44	50	114
+18th	
+	Grégoire Munster
+Louis Louka
+  
+	0.25	47	188
+19th	
+	Bernd Casier
+Pieter Vyncke
+  
+	0.31	47	152
+20th	
+	Teemu Suninen
+Mikko Markkula
+M-Sport Ford WRT
+	1.51	44	29
+21st	
+	Davy Vanneste
+Kris D'alleine
+  
+	0.20	27	135
+22nd	
+	Kris Princen
+Peter Kaspers
+  
+	0.20	24	120
+24th	
+	Cédric De Cecco
+Jérôme Humblet
+  
+	0.20	21	105
+23rd	
+	Oliver Solberg
+Aaron Johnston
+Hyundai Motorsport N
+	0.52	21	40
+25th	
+	Adrien Fourmaux
+Renaud Jamoul
+M-Sport Ford WRT
+	0.83	17	20
+26th	
+	Jari Huttunen
+Mikko Lukka
+Hyundai Motorsport N
+	0.61	14	23
+27th	
+	Jon Armstrong
+Phil Hall
+  
+	0.20	2	10
+28th	
+	Pieter Tsjoen
+Eddy Chevaillier
+  
+	0.20	1	5
+-	
+	Tom Kristensson
+David Arhusiander
+M-Sport Ford WRT
+	0.20	0	0
+-	
+	Lauri Joona
+Mikael Korhonen
+Team Flying Finn
+	0.20	0	0
