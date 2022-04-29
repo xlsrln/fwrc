@@ -1,235 +1,196 @@
-	Driver Name	Cost	Expected	Actual 	Price Adj
-
+	Driver	Score	Before	After	Change
 
 	Adrien Fourmaux
 Alexandre Coria
 M-Sport Ford WRT
-	0.82	134	18	-0.07
-
+	18	0.82	0.75	-0.07
 
 	Armin Kremer
 Timo Gottschalk
   
-	0.22	36	6	-0.02
-
+	6	0.22	0.20	-0.02
 
 	Benito Guerra Jr.
 Daniel Cué
   
-	0.26	42	6	-0.02
-
+	6	0.26	0.24	-0.02
 
 	Chris Ingram
 Craig Drew
   
-	0.24	39	121	+0.05
-
+	121	0.24	0.29	+0.05
 
 	Craig Breen
 Paul Nagle
 M-Sport Ford WRT
-	2.65	433	488	+0.04
-
+	488	2.65	2.69	+0.04
 
 	Elfyn Evans
 Scott Martin
 Toyota Gazoo Racing WRT
-	3.43	560	488	-0.04
-
+	488	3.43	3.39	-0.04
 
 	Emil Lindholm
 Reeta Hämäläinen
 Toksport WRT 2
-	0.28	46	268	+0.14
-
+	268	0.28	0.42	+0.14
 
 	Enrico Brazzoli
 Manuel Fenoli
   
-	0.20	33	6	-
-
+	6	0.20	0.20	-
 
 	Eric Camilli
 Thibault de la Haye
 Saintéloc Junior Team
-	0.52	85	89	-
-
+	89	0.52	0.52	-
 
 	Erik Cais
 Petr Těšínský
 Yacco ACCR Team
-	0.31	51	46	-
-
+	46	0.31	0.31	-
 
 	Esapekka Lappi
 Janne Ferm
 Toyota Gazoo Racing WRT
-	2.65	433	158	-0.17
-
+	158	2.65	2.48	-0.17
 
 	Georg Linnamäe
 James Morgan
 ALM Motorsport
-	0.47	77	15	-0.04
-
+	15	0.47	0.43	-0.04
 
 	Grégoire Munster
 Louis Louka
   
-	0.29	47	18	-0.02
-
+	18	0.29	0.27	-0.02
 
 	Gus Greensmith
 Jonas Andersson
 M-Sport Ford WRT
-	1.49	243	159	-0.05
-
+	159	1.49	1.44	-0.05
 
 	Jari Huttunen
 Mikko Lukka
 M-Sport Ford WRT
-	0.75	122	45	-0.05
-
+	45	0.75	0.70	-0.05
 
 	Johannes Keferböck
 Ilka Minor
   
-	0.20	33	6	-
-
+	6	0.20	0.20	-
 
 	Jon Armstrong
 Brian Hoy
   
-	0.20	33	9	-
-
+	9	0.20	0.20	-
 
 	Kajetan Kajetanowicz
 Maciej Szczepaniak
   
-	0.51	83	179	+0.06
-
+	179	0.51	0.57	+0.06
 
 	Kalle Rovanperä
 Jonne Halttunen
 Toyota Gazoo Racing WRT
-	2.90	473	808	+0.21
-
+	808	2.90	3.11	+0.21
 
 	Lauri Joona
 Mikael Korhonen
   
-	0.20	33	6	-
-
+	6	0.20	0.20	-
 
 	Mauro Miele
 Luca Beltrame
   
-	0.20	33	9	-
-
+	9	0.20	0.20	-
 
 	Mikko Heikkilä
 Samu Vaaleri
   
-	0.22	36	6	-0.02
-
+	6	0.22	0.20	-0.02
 
 	Mikołaj Marczyk
 Szymon Gospodarczyk
   
-	0.20	33	11	-
-
+	11	0.20	0.20	-
 
 	Niko Pulić
 Aleksandra Kovačić
   
-	0.20	33	6	-
-
+	6	0.20	0.20	-
 
 	Nikolay Gryazin
 Konstantin Aleksandrov
 Toksport WRT 2
-	0.48	78	143	+0.04
-
+	143	0.48	0.52	+0.04
 
 	Oliver Solberg
 Elliott Edmondson
 Hyundai Shell Mobis WRT
-	0.84	137	75	-0.04
-
+	75	0.84	0.80	-0.04
 
 	Olivier Burri
 Anderson Levratti
   
-	0.32	52	6	-0.03
-
+	6	0.32	0.29	-0.03
 
 	Ott Tänak
 Martin Järveoja
 Hyundai Shell Mobis WRT
-	3.08	503	686	+0.12
-
+	686	3.08	3.20	+0.12
 
 	Pierre Ragues
 Julien Pesenti
 Yacco ACCR Team
-	0.20	33	6	-
-
+	6	0.20	0.20	-
 
 	Pierre-Louis Loubet
 Vincent Landais
 M-Sport Ford WRT
-	0.53	87	79	-
-
+	79	0.53	0.53	-
 
 	Ricardo Triviño
 Marc Martí
   
-	0.29	47	6	-0.03
-
+	6	0.29	0.26	-0.03
 
 	Robert Virves
 Aleks Lesk
-  
-	0.20	33	11	-
-
+Starter Energy Racing
+	11	0.20	0.20	-
 
 	Sami Pajari
 Enni Mälkönen
   
-	0.20	33	14	-
-
+	14	0.20	0.20	-
 
 	Sean Johnston
 Alexander Kihurani
 Saintéloc Junior Team
-	0.25	41	12	-0.02
-
+	12	0.25	0.23	-0.02
 
 	Stéphane Lefebvre
 Andy Malfoy
   
-	0.52	85	118	+0.02
-
+	118	0.52	0.54	+0.02
 
 	Takamoto Katsuta
 Aaron Johnston
 Toyota Gazoo Racing WRT NG
-	1.56	255	263	+0.01
-
+	263	1.56	1.57	+0.01
 
 	Thierry Neuville
 Martijn Wydaeghe
 Hyundai Shell Mobis WRT
-	3.58	584	537	-0.02
-
+	537	3.58	3.56	-0.02
 
 	William Creighton
 Liam Regan
-  
-	0.20	33	10	-
-
+Motorsport Ireland Rally Academy
+	10	0.20	0.20	-
 
 	Yohan Rossel
 Valentin Sarreaud
 PH Sport
-	0.54	88	217	+0.08
+	217	0.54	0.62	+0.08
