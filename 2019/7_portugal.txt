@@ -1,0 +1,171 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Ott Tänak
+Martin Järveoja
+Toyota Gazoo Racing WRT
+	4.05	797	197
+2nd	
+	Thierry Neuville
+Nicolas Gilsoul
+Hyundai Shell Mobis WRT
+	3.66	713	195
+3rd	
+	Sébastien Ogier
+Julien Ingrassia
+Citroën Total WRT
+	4.14	592	143
+4th	
+	Teemu Suninen
+Marko Salminen
+M-Sport Ford WRT
+	1.59	469	295
+5th	
+	Jari-Matti Latvala
+Miikka Anttila
+Toyota Gazoo Racing WRT
+	2.73	362	133
+6th	
+	Elfyn Evans
+Scott Martin
+M-Sport Ford WRT
+	2.30	290	126
+7th	
+	Dani Sordo
+Carlos del Barrio
+Hyundai Shell Mobis WRT
+	2.69	289	107
+8th	
+	Kris Meeke
+Sebastian Marshall
+Toyota Gazoo Racing WRT
+	2.64	248	94
+9th	
+	Kalle Rovanperä
+Jonne Halttunen
+Škoda Motorsport
+	0.58	207	357
+10th	
+	Jan Kopecký
+Pavel Dresler
+Škoda Motorsport
+	0.96	149	155
+11th	
+	Esapekka Lappi
+Janne Ferm
+Citroën Total WRT
+	2.14	137	64
+12th	
+	Sébastien Loeb
+Daniel Elena
+Hyundai Shell Mobis WRT
+	3.59	132	37
+13th	
+	Pierre-Louis Loubet
+Vincent Landais
+  
+	0.20	120	600
+14th	
+	Gus Greensmith
+Elliott Edmondson
+M-Sport Ford WRT
+	0.45	96	213
+15th	
+	Emil Bergkvist
+Patrik Barth
+  
+	0.21	92	438
+16th	
+	Henning Solberg
+Ilka Minor
+  
+	0.73	79	108
+17th	
+	Nikolay Gryazin
+Yaroslav Fedorov
+  
+	0.38	70	184
+18th	
+	Eerik Pietarinen
+Juhana Raitanen
+  
+	0.70	64	91
+19th	
+	Mads Østberg
+Torstein Eriksen
+Citroën Total
+	1.81	52	29
+20th	
+	Benito Guerra Jr.
+Jaime Zapata Ortega
+  
+	0.33	30	91
+21st	
+	Takamoto Katsuta
+Daniel Barritt
+  
+	0.24	24	100
+22nd	
+	Ole Christian Veiby
+Jonas Andersson
+  
+	0.41	23	56
+23rd	
+	Alberto Heller
+José Luis Díaz
+  
+	0.51	15	29
+24th	
+	Łukasz Pieniążek
+Jakub Gerber
+M-Sport Ford WRT
+	0.23	11	48
+25th	
+	Simone Tempestini
+Sergiu Itu
+  
+	0.23	5	22
+26th	
+	Rhys Yates
+James Morgan
+  
+	0.20	1	5
+-	
+	Ricardo Teodósio
+José Teixeira
+  
+	0.20	0	0
+-	
+	Pedro Meireles
+Mário Castro
+  
+	0.20	0	0
+-	
+	Bruno Magalhães
+Hugo Magalhães
+  
+	0.22	0	0
+-	
+	Diogo Salvi
+Paulo Babo
+  
+	0.20	0	0
+-	
+	Guillaume de Mevius
+Martijn Wydaeghe
+  
+	0.20	0	0
+-	
+	Massimo Pedretti
+Emanuele Baldaccini
+  
+	0.20	0	0
+-	
+	Armindo Araújo
+Luís Ramalho
+  
+	0.51	0	0
+-	
+	Jari Huttunen
+Antti Linnaketo
+  
+	0.42	0	0
