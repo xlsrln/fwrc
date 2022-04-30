@@ -1,0 +1,116 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Sébastien Ogier
+Julien Ingrassia
+Citroën Total WRT
+	3.77	738	196
+2nd	
+	Esapekka Lappi
+Janne Ferm
+Citroën Total WRT
+	2.22	569	256
+3rd	
+	Andreas Mikkelsen
+Anders Jæger
+Hyundai Shell Mobis WRT
+	2.47	489	198
+4th	
+	Teemu Suninen
+Jarmo Lehtinen
+M-Sport Ford WRT
+	2.02	482	239
+5th	
+	Thierry Neuville
+Nicolas Gilsoul
+Hyundai Shell Mobis WRT
+	3.79	469	124
+6th	
+	Jari-Matti Latvala
+Miikka Anttila
+Toyota Gazoo Racing WRT
+	2.93	467	159
+7th	
+	Dani Sordo
+Carlos del Barrio
+Hyundai Shell Mobis WRT
+	2.91	362	124
+8th	
+	Kris Meeke
+Sebastian Marshall
+Toyota Gazoo Racing WRT
+	2.61	284	109
+9th	
+	Ott Tänak
+Martin Järveoja
+Toyota Gazoo Racing WRT
+	4.36	238	55
+10th	
+	Pontus Tidemand
+Ola Fløene
+M-Sport Ford WRT
+	0.84	203	242
+11th	
+	Gus Greensmith
+Elliott Edmondson
+M-Sport Ford WRT
+	0.56	136	243
+12th	
+	Jan Kopecký
+Pavel Dresler
+Škoda Motorsport
+	0.96	116	121
+13th	
+	Kajetan Kajetanowicz
+Maciej Szczepaniak
+  
+	0.39	99	254
+14th	
+	Marco Bulacia
+Fabian Cretu
+  
+	0.38	85	224
+16th	
+	Fabio Andolfi
+Emanuele Inglesi
+  
+	0.23	53	230
+15th	
+	Kalle Rovanperä
+Jonne Halttunen
+Škoda Motorsport
+	0.73	53	73
+17th	
+	Henning Solberg
+Ilka Minor
+  
+	0.66	39	59
+18th	
+	Gaurav Gill
+Glenn Macneall
+  
+	0.22	6	27
+19th	
+	Murat Bostanci
+Onur Vatansever
+  
+	0.20	2	10
+-	
+	Paulo Nobre
+Gabriel Morales
+  
+	0.20	0	0
+-	
+	Massimo Pedretti
+Emanuele Baldaccini
+  
+	0.20	0	0
+-	
+	Burak Cukurova
+Vedat Bostanci
+  
+	0.56	0	0
+-	
+	Diogo Salvi
+Hugo Magalhães
+  
+	0.20	0	0
