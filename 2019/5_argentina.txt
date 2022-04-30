@@ -1,0 +1,101 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Thierry Neuville
+Nicolas Gilsoul
+Hyundai Shell Mobis WRT
+	3.82	796	208
+2nd	
+	Sébastien Ogier
+Julien Ingrassia
+Citroën Total WRT
+	4.05	628	155
+3rd	
+	Andreas Mikkelsen
+Anders Jæger
+Hyundai Shell Mobis WRT
+	2.07	552	267
+4th	
+	Jari-Matti Latvala
+Miikka Anttila
+Toyota Gazoo Racing WRT
+	2.64	498	189
+5th	
+	Ott Tänak
+Martin Järveoja
+Toyota Gazoo Racing WRT
+	3.96	459	116
+6th	
+	Dani Sordo
+Carlos del Barrio
+Hyundai Shell Mobis WRT
+	2.65	450	170
+7th	
+	Kris Meeke
+Sebastian Marshall
+Toyota Gazoo Racing WRT
+	2.61	422	162
+8th	
+	Teemu Suninen
+Marko Salminen
+M-Sport Ford WRT
+	1.50	264	176
+9th	
+	Mads Østberg
+Torstein Eriksen
+Citroën Total
+	1.93	198	103
+10th	
+	Pedro Heller
+Marc Martí
+  
+	0.23	137	596
+12th	
+	Alejandro Galanti
+Marcelo Toyotoshi
+  
+	0.64	96	150
+11th	
+	Benito Guerra Jr.
+Jaime Zapata Ortega
+  
+	0.34	96	282
+13th	
+	Gus Greensmith
+Elliott Edmondson
+M-Sport Ford WRT
+	0.40	86	215
+14th	
+	Elfyn Evans
+Scott Martin
+M-Sport Ford WRT
+	2.45	77	31
+15th	
+	Alberto Heller
+José Luis Díaz
+  
+	0.57	70	123
+16th	
+	Paulo Nobre
+Gabriel Morales
+  
+	0.20	61	305
+17th	
+	Esapekka Lappi
+Janne Ferm
+Citroën Total WRT
+	2.36	45	19
+18th	
+	Takamoto Katsuta
+Daniel Barritt
+  
+	0.21	43	205
+19th	
+	Marco Bulacia
+Fabian Cretu
+Škoda Motorsport
+	0.44	21	48
+20th	
+	Kajetan Kajetanowicz
+Maciej Szczepaniak
+  
+	0.42	2	5
