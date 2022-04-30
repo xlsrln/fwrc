@@ -1,0 +1,171 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Ott Tänak
+Martin Järveoja
+Toyota Gazoo Racing WRT
+	4.09	878	215
+2nd	
+	Thierry Neuville
+Nicolas Gilsoul
+Hyundai Shell Mobis WRT
+	3.73	738	198
+3rd	
+	Sébastien Ogier
+Julien Ingrassia
+Citroën Total WRT
+	3.90	639	164
+4th	
+	Elfyn Evans
+Scott Martin
+M-Sport Ford WRT
+	2.45	603	246
+5th	
+	Kris Meeke
+Sebastian Marshall
+Toyota Gazoo Racing WRT
+	2.54	442	174
+6th	
+	Andreas Mikkelsen
+Anders Jæger
+Hyundai Shell Mobis WRT
+	2.56	393	154
+7th	
+	Craig Breen
+Paul Nagle
+Hyundai Shell Mobis WRT
+	1.95	289	148
+8th	
+	Esapekka Lappi
+Janne Ferm
+Citroën Total WRT
+	2.39	283	118
+9th	
+	Pontus Tidemand
+Ola Fløene
+M-Sport Ford WRT
+	0.89	246	276
+10th	
+	Kalle Rovanperä
+Jonne Halttunen
+Škoda Motorsport
+	0.69	167	242
+11th	
+	Petter Solberg
+Phil Mills
+  
+	2.43	141	58
+12th	
+	Teemu Suninen
+Jarmo Lehtinen
+M-Sport Ford WRT
+	2.15	138	64
+13th	
+	Tom Cave
+Dale Furniss
+  
+	0.22	106	482
+14th	
+	Pierre-Louis Loubet
+Vincent Landais
+  
+	0.34	89	262
+15th	
+	Jari-Matti Latvala
+Miikka Anttila
+Toyota Gazoo Racing WRT
+	2.96	75	25
+16th	
+	Nikolay Gryazin
+Yaroslav Fedorov
+  
+	0.38	72	189
+17th	
+	Gus Greensmith
+Elliott Edmondson
+M-Sport Ford WRT
+	0.60	45	75
+18th	
+	Takamoto Katsuta
+Daniel Barritt
+Tommi Mäkinen Racing
+	0.30	43	143
+19th	
+	Hayden Paddon
+John Kennard
+M-Sport Ford WRT
+	2.23	40	18
+20th	
+	Adrien Fourmaux
+Renaud Jamoul
+  
+	0.20	30	150
+21st	
+	Mads Østberg
+Torstein Eriksen
+Citroën Total
+	1.43	29	20
+22nd	
+	Jan Kopecký
+Jan Hloušek
+Škoda Motorsport
+	0.94	25	27
+23rd	
+	Ole Christian Veiby
+Jonas Andersson
+  
+	0.38	18	47
+24th	
+	Oliver Solberg
+Aaron Johnston
+  
+	0.20	16	80
+25th	
+	Fabio Andolfi
+Emanuele Inglesi
+  
+	0.24	14	58
+30th	
+	Marco Bulacia
+Fabian Cretu
+  
+	0.40	12	30
+29th	
+	Benito Guerra Jr.
+Daniel Cué
+  
+	0.32	12	38
+28th	
+	Alberto Heller
+José Luis Díaz
+  
+	0.47	12	26
+31st	
+	Guillaume de Mevius
+Martijn Wydaeghe
+  
+	0.20	12	60
+27th	
+	Rhys Yates
+James Morgan
+  
+	0.20	12	60
+26th	
+	Paulo Nobre
+Gabriel Morales
+  
+	0.20	12	60
+32nd	
+	Eamonn Boland
+Michael Joseph Morrissey
+  
+	0.20	12	60
+33rd	
+	Matt Edwards
+Mark Glennerster
+  
+	0.20	6	30
+34th	
+	Kajetan Kajetanowicz
+Maciej Szczepaniak
+  
+	0.42	1	2
