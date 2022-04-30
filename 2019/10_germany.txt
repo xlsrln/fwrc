@@ -1,0 +1,171 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Ott Tänak
+Martin Järveoja
+Toyota Gazoo Racing WRT
+	4.30	712	166
+2nd	
+	Thierry Neuville
+Nicolas Gilsoul
+Hyundai Shell Mobis WRT
+	3.69	679	184
+3rd	
+	Kris Meeke
+Sebastian Marshall
+Toyota Gazoo Racing WRT
+	2.39	655	274
+4th	
+	Jari-Matti Latvala
+Miikka Anttila
+Toyota Gazoo Racing WRT
+	2.79	600	215
+5th	
+	Dani Sordo
+Carlos del Barrio
+Hyundai Shell Mobis WRT
+	2.86	479	167
+6th	
+	Sébastien Ogier
+Julien Ingrassia
+Citroën Total WRT
+	3.85	437	114
+7th	
+	Teemu Suninen
+Jarmo Lehtinen
+M-Sport Ford WRT
+	2.00	317	159
+8th	
+	Esapekka Lappi
+Janne Ferm
+Citroën Total WRT
+	2.22	313	141
+9th	
+	Andreas Mikkelsen
+Anders Jæger
+Hyundai Shell Mobis WRT
+	2.51	303	121
+10th	
+	Gus Greensmith
+Elliott Edmondson
+M-Sport Ford WRT
+	0.45	220	489
+11th	
+	Takamoto Katsuta
+Daniel Barritt
+Tommi Mäkinen Racing
+	0.21	164	781
+12th	
+	Jan Kopecký
+Pavel Dresler
+Škoda Motorsport
+	0.98	108	110
+13th	
+	Fabian Kreim
+Tobias Braun
+  
+	0.24	74	308
+14th	
+	Marijan Griebel
+Pirmin Winklhofer
+  
+	0.33	66	200
+15th	
+	Kalle Rovanperä
+Jonne Halttunen
+Škoda Motorsport
+	0.77	55	71
+17th	
+	Kajetan Kajetanowicz
+Maciej Szczepaniak
+  
+	0.41	37	90
+16th	
+	Eric Camilli
+Benjamin Veillas
+M-Sport Ford WRT
+	0.42	37	88
+18th	
+	Nicolas Ciamin
+Yannick Roche
+  
+	0.21	25	119
+19th	
+	Mads Østberg
+Torstein Eriksen
+Citroën Total
+	1.57	22	14
+20th	
+	Stéphane Lefebvre
+Thomas Dubois
+  
+	0.68	17	25
+21st	
+	Fabio Andolfi
+Simone Scattolin
+  
+	0.25	6	24
+22nd	
+	Simone Tempestini
+Sergiu Itu
+  
+	0.23	4	17
+24th	
+	Adrien Fourmaux
+Renaud Jamoul
+  
+	0.20	1	5
+23rd	
+	Nikolay Gryazin
+Yaroslav Fedorov
+  
+	0.42	1	2
+-	
+	Hermann Gassner Jr.
+Ursula Mayrhofer
+  
+	0.20	0	0
+-	
+	Kristian Poulsen
+Ole R. Frederiksen
+  
+	0.20	0	0
+-	
+	Hermann Gassner Sr.
+Karin Thannhäuser
+  
+	0.20	0	0
+-	
+	Eamonn Boland
+Michael Joseph Morrissey
+  
+	0.20	0	0
+-	
+	Pieter Tsjoen
+Pieter Vyncke
+  
+	0.22	0	0
+-	
+	Guillaume de Mevius
+Martijn Wydaeghe
+  
+	0.20	0	0
+-	
+	Massimo Pedretti
+Emanuele Baldaccini
+  
+	0.20	0	0
+-	
+	Rhys Yates
+James Morgan
+  
+	0.20	0	0
+-	
+	Enrico Brazzoli
+Manuel Fenoli
+  
+	0.20	0	0
+-	
+	Stéphane Sarrazin
+Jacques-Julien Renucci
+  
+	1.19	0	0
