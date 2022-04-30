@@ -1,0 +1,156 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Thierry Neuville
+Nicolas Gilsoul
+Hyundai Shell Mobis WRT
+	3.66	766	209
+2nd	
+	Sébastien Ogier
+Julien Ingrassia
+Citroën Total WRT
+	4.05	591	146
+3rd	
+	Ott Tänak
+Martin Järveoja
+Toyota Gazoo Racing WRT
+	3.95	589	149
+4th	
+	Elfyn Evans
+Scott Martin
+M-Sport Ford WRT
+	2.31	537	232
+5th	
+	Kris Meeke
+Sebastian Marshall
+Toyota Gazoo Racing WRT
+	2.54	466	183
+6th	
+	Teemu Suninen
+Marko Salminen
+M-Sport Ford WRT
+	1.33	445	335
+7th	
+	Dani Sordo
+Carlos del Barrio
+Hyundai Shell Mobis WRT
+	2.65	381	144
+8th	
+	Sébastien Loeb
+Daniel Elena
+Hyundai Shell Mobis WRT
+	3.68	278	76
+9th	
+	Esapekka Lappi
+Janne Ferm
+Citroën Total WRT
+	2.41	273	113
+10th	
+	Jari-Matti Latvala
+Miikka Anttila
+Toyota Gazoo Racing WRT
+	2.77	213	77
+11th	
+	Fabio Andolfi
+Simone Scattolin
+  
+	0.21	113	538
+12th	
+	Nikolay Gryazin
+Yaroslav Fedorov
+  
+	0.34	103	303
+13th	
+	Kajetan Kajetanowicz
+Maciej Szczepaniak
+  
+	0.41	74	180
+14th	
+	Eric Camilli
+François-Xavier Buresi
+  
+	0.44	62	141
+15th	
+	Takamoto Katsuta
+Daniel Barritt
+  
+	0.20	46	230
+16th	
+	Yoann Bonato
+Benjamin Boulloud
+  
+	0.35	41	117
+17th	
+	Ole Christian Veiby
+Jonas Andersson
+  
+	0.43	38	88
+18th	
+	Rhys Yates
+James Morgan
+  
+	0.20	23	115
+19th	
+	Nicolas Ciamin
+Yannick Roche
+  
+	0.22	19	86
+20th	
+	Simone Tempestini
+Sergiu Itu
+  
+	0.25	12	48
+21st	
+	Adrien Fourmaux
+Renaud Jamoul
+  
+	0.23	8	35
+22nd	
+	Pierre-Louis Loubet
+Vincent Landais
+  
+	0.20	7	35
+23rd	
+	Andrea Nucita
+Giuseppe Princiotto
+  
+	0.20	7	35
+27th	
+	Alain Vauthier
+Gilbert Dini
+  
+	0.20	6	30
+26th	
+	Massimo Pedretti
+Emanuele Baldaccini
+  
+	0.20	6	30
+25th	
+	Armando Pereira
+Rémi Tutélaire
+  
+	0.20	6	30
+24th	
+	Enrico Brazzoli
+Manuel Fenoli
+  
+	0.20	6	30
+28th	
+	Kalle Rovanperä
+Jonne Halttunen
+Škoda Motorsport
+	0.54	1	2
+-	
+	Guillaume de Mevius
+Martijn Wydaeghe
+  
+	0.20	0	0
+-	
+	Łukasz Pieniążek
+Kamil Heller
+M-Sport Ford WRT
+	0.26	0	0
+-	
+	Nil Solans
+Marc Martí
+  
+	0.21	0	0
