@@ -1,0 +1,111 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Sébastien Ogier
+Julien Ingrassia
+Citroën Total WRT
+	3.93	883	225
+2nd	
+	Ott Tänak
+Martin Järveoja
+Toyota Gazoo Racing WRT
+	3.99	618	155
+3rd	
+	Thierry Neuville
+Nicolas Gilsoul
+Hyundai Shell Mobis WRT
+	3.70	565	153
+4th	
+	Kris Meeke
+Sebastian Marshall
+Toyota Gazoo Racing WRT
+	2.49	511	205
+5th	
+	Elfyn Evans
+Scott Martin
+M-Sport Ford WRT
+	2.24	503	225
+6th	
+	Dani Sordo
+Carlos del Barrio
+Hyundai Shell Mobis WRT
+	2.66	441	166
+7th	
+	Jari-Matti Latvala
+Miikka Anttila
+Toyota Gazoo Racing WRT
+	2.83	384	136
+8th	
+	Esapekka Lappi
+Janne Ferm
+Citroën Total WRT
+	2.50	267	107
+9th	
+	Benito Guerra Jr.
+Jaime Zapata Ortega
+  
+	0.22	249	1132
+10th	
+	Marco Bulacia
+Fabian Cretu
+  
+	0.34	230	676
+11th	
+	Andreas Mikkelsen
+Anders Jæger
+Hyundai Shell Mobis WRT
+	2.17	194	89
+12th	
+	Ricardo Triviño
+Marc Martí
+  
+	0.20	136	680
+13th	
+	Łukasz Pieniążek
+Kamil Heller
+M-Sport Ford WRT
+	0.20	133	665
+14th	
+	Alberto Heller
+José Luis Díaz
+  
+	0.56	117	209
+15th	
+	Pedro Heller
+Axel Coronado Jiménez
+  
+	0.23	45	196
+16th	
+	Javier Ortuño
+Lorenzo Goicoechea
+  
+	0.21	32	152
+17th	
+	Jason Bailey
+Shayne Peterson
+  
+	0.20	23	115
+18th	
+	Ricardo Cordero Jr.
+Marco Hernández
+  
+	0.40	15	38
+19th	
+	Deividas Jocius
+Donatas Zvicevičius
+  
+	0.20	9	45
+20th	
+	Óscar Uribe Balsa
+Diego Rivas
+  
+	0.20	6	30
+21st	
+	Teemu Suninen
+Marko Salminen
+M-Sport Ford WRT
+	1.48	3	2
+-	
+	Julián Jaramillo
+Gabriel Marín Jr.
+  
+	0.20	0	0
