@@ -1,0 +1,161 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Thierry Neuville
+Nicolas Gilsoul
+Hyundai Shell Mobis WRT
+	3.92	781	199
+2nd	
+	Ott Tänak
+Martin Järveoja
+Toyota Gazoo Racing WRT
+	4.35	702	161
+3rd	
+	Dani Sordo
+Carlos del Barrio
+Hyundai Shell Mobis WRT
+	2.87	609	212
+4th	
+	Elfyn Evans
+Scott Martin
+M-Sport Ford WRT
+	2.66	440	165
+5th	
+	Sébastien Loeb
+Daniel Elena
+Hyundai Shell Mobis WRT
+	3.33	405	122
+6th	
+	Sébastien Ogier
+Julien Ingrassia
+Citroën Total WRT
+	3.99	381	95
+7th	
+	Jari-Matti Latvala
+Miikka Anttila
+Toyota Gazoo Racing WRT
+	2.72	357	131
+8th	
+	Teemu Suninen
+Jarmo Lehtinen
+M-Sport Ford WRT
+	2.04	282	138
+9th	
+	Mads Østberg
+Torstein Eriksen
+Citroën Total WRT
+	1.31	149	114
+10th	
+	Kris Meeke
+Sebastian Marshall
+Toyota Gazoo Racing WRT
+	2.62	142	54
+11th	
+	Eric Camilli
+Benjamin Veillas
+  
+	0.40	135	338
+12th	
+	Jan Kopecký
+Jan Hloušek
+Škoda Motorsport
+	0.86	119	138
+13th	
+	Kalle Rovanperä
+Jonne Halttunen
+Škoda Motorsport
+	0.75	97	129
+14th	
+	Takamoto Katsuta
+Daniel Barritt
+Tommi Mäkinen Racing
+	0.30	70	233
+15th	
+	Nil Solans
+Marc Martí
+  
+	0.20	58	290
+16th	
+	Emil Lindholm
+Mikael Korhonen
+  
+	0.24	53	221
+17th	
+	Esapekka Lappi
+Janne Ferm
+Citroën Total WRT
+	2.37	35	15
+18th	
+	Kajetan Kajetanowicz
+Maciej Szczepaniak
+  
+	0.38	33	87
+19th	
+	Ole Christian Veiby
+Jonas Andersson
+  
+	0.36	20	56
+21st	
+	Pierre-Louis Loubet
+Vincent Landais
+  
+	0.37	15	41
+20th	
+	Gus Greensmith
+Elliott Edmondson
+M-Sport Ford WRT
+	0.57	15	26
+22nd	
+	Adrien Fourmaux
+Renaud Jamoul
+  
+	0.20	7	35
+23rd	
+	José Antonio Suárez
+Alberto Iglesias Pin
+  
+	0.20	7	35
+24th	
+	Fabio Andolfi
+Emanuele Inglesi
+  
+	0.23	6	26
+25th	
+	Nikolay Gryazin
+Yaroslav Fedorov
+  
+	0.40	4	10
+26th	
+	Simone Tempestini
+Sergiu Itu
+  
+	0.21	2	10
+-	
+	Benito Guerra Jr.
+Daniel Cué
+  
+	0.30	0	0
+-	
+	Marco Bulacia
+Fabian Cretu
+  
+	0.37	0	0
+-	
+	Massimo Pedretti
+Emanuele Baldaccini
+  
+	0.20	0	0
+-	
+	Guillaume de Mevius
+Martijn Wydaeghe
+  
+	0.20	0	0
+-	
+	Paulo Nobre
+Gabriel Morales
+  
+	0.20	0	0
+-	
+	Eamonn Boland
+Michael Joseph Morrissey
+  
+	0.20	0	0
