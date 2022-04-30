@@ -1,0 +1,171 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Dani Sordo
+Carlos del Barrio
+Hyundai Shell Mobis WRT
+	2.65	681	257
+2nd	
+	Andreas Mikkelsen
+Anders Jæger
+Hyundai Shell Mobis WRT
+	2.18	629	289
+3rd	
+	Teemu Suninen
+Jarmo Lehtinen
+M-Sport Ford WRT
+	1.80	606	337
+4th	
+	Elfyn Evans
+Scott Martin
+M-Sport Ford WRT
+	2.30	545	237
+5th	
+	Ott Tänak
+Martin Järveoja
+Toyota Gazoo Racing WRT
+	4.27	524	123
+6th	
+	Thierry Neuville
+Nicolas Gilsoul
+Hyundai Shell Mobis WRT
+	3.85	448	116
+7th	
+	Esapekka Lappi
+Janne Ferm
+Citroën Total WRT
+	2.03	325	160
+8th	
+	Kris Meeke
+Sebastian Marshall
+Toyota Gazoo Racing WRT
+	2.57	305	119
+9th	
+	Jari-Matti Latvala
+Miikka Anttila
+Toyota Gazoo Racing WRT
+	2.74	277	101
+10th	
+	Sébastien Ogier
+Julien Ingrassia
+Citroën Total WRT
+	4.19	230	55
+11th	
+	Kalle Rovanperä
+Jonne Halttunen
+Škoda Motorsport
+	0.68	160	235
+12th	
+	Jan Kopecký
+Pavel Dresler
+Škoda Motorsport
+	0.98	140	143
+13th	
+	Pierre-Louis Loubet
+Vincent Landais
+  
+	0.27	122	452
+14th	
+	Juho Hänninen
+Tomi Tuominen
+Tommi Mäkinen Racing
+	1.71	98	57
+15th	
+	Mads Østberg
+Torstein Eriksen
+Citroën Total
+	1.67	95	57
+16th	
+	Kajetan Kajetanowicz
+Maciej Szczepaniak
+  
+	0.38	91	239
+17th	
+	Simone Tempestini
+Sergiu Itu
+  
+	0.21	65	310
+18th	
+	Ole Christian Veiby
+Jonas Andersson
+  
+	0.39	47	121
+19th	
+	Marco Bulacia
+Fabian Cretu
+  
+	0.39	46	118
+20th	
+	Nikolay Gryazin
+Yaroslav Fedorov
+  
+	0.40	31	78
+21st	
+	Martin Prokop
+Jan Tománek
+MP-Sports
+	0.84	31	37
+22nd	
+	Takamoto Katsuta
+Daniel Barritt
+  
+	0.23	26	113
+23rd	
+	Stéphane Consani
+Thibault de la Haye
+Project Team SRL
+	0.20	21	105
+24th	
+	Andrea Crugnola
+Pietro Elia Ometto
+  
+	0.20	19	95
+25th	
+	Nil Solans
+Marc Martí
+  
+	0.20	18	90
+26th	
+	Giandomenico Basso
+Lorenzo Granai
+Sport & Comunicazione
+	0.20	17	85
+31st	
+	Luca Rossetti
+Eleonora Mori
+F.P.F. Sport
+	0.36	16	44
+30th	
+	Simone Campedelli
+Tania Canton
+Orange 1 M-Sport Rally Team
+	0.20	16	80
+29th	
+	Giuseppe Dettori
+Carlo Pisano
+  
+	0.45	16	36
+27th	
+	Umberto Scandola
+Guido D'Amore
+S.A. Motorsport Italia Srl
+	0.20	16	80
+28th	
+	Adrien Fourmaux
+Renaud Jamoul
+  
+	0.21	16	76
+32nd	
+	Fabio Andolfi
+Simone Scattolin
+  
+	0.27	12	44
+33rd	
+	Gus Greensmith
+Elliott Edmondson
+M-Sport Ford WRT
+	0.48	5	10
+-	
+	Guillaume de Mevius
+Martijn Wydaeghe
+  
+	0.20	0	0
