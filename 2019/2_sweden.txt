@@ -1,0 +1,156 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Ott Tänak
+Martin Järveoja
+Toyota Gazoo Racing WRT
+	3.71	775	209
+2nd	
+	Esapekka Lappi
+Janne Ferm
+Citroën Total WRT
+	2.23	593	266
+3rd	
+	Thierry Neuville
+Nicolas Gilsoul
+Hyundai Shell Mobis WRT
+	3.58	576	161
+4th	
+	Elfyn Evans
+Scott Martin
+M-Sport Ford WRT
+	2.04	478	234
+5th	
+	Andreas Mikkelsen
+Anders Jæger
+Hyundai Shell Mobis WRT
+	2.07	363	175
+6th	
+	Kris Meeke
+Sebastian Marshall
+Toyota Gazoo Racing WRT
+	2.49	298	120
+7th	
+	Sébastien Ogier
+Julien Ingrassia
+Citroën Total WRT
+	4.09	297	73
+8th	
+	Sébastien Loeb
+Daniel Elena
+Hyundai Shell Mobis WRT
+	3.83	281	73
+9th	
+	Pontus Tidemand
+Ola Fløene
+M-Sport Ford WRT
+	0.74	207	280
+10th	
+	Jari-Matti Latvala
+Miikka Anttila
+Toyota Gazoo Racing WRT
+	2.96	200	68
+11th	
+	Teemu Suninen
+Marko Salminen
+M-Sport Ford WRT
+	1.47	189	129
+12th	
+	Ole Christian Veiby
+Jonas Andersson
+  
+	0.34	151	444
+13th	
+	Janne Tuohino
+Mikko Markkula
+  
+	0.55	105	191
+14th	
+	Mads Østberg
+Torstein Eriksen
+Citroën Total
+	2.07	85	41
+15th	
+	Johan Kristoffersson
+Stig Rune Kjærnsli
+  
+	0.20	75	375
+16th	
+	Emil Lindholm
+Mikael Korhonen
+  
+	0.20	64	320
+17th	
+	Jari Huttunen
+Antti Linnaketo
+  
+	0.41	59	144
+18th	
+	Kalle Rovanperä
+Jonne Halttunen
+Škoda Motorsport
+	0.56	42	75
+19th	
+	Emil Bergkvist
+Patrik Barth
+  
+	0.20	33	165
+20th	
+	Marcus Grönholm
+Timo Rautiainen
+GRX Team
+	3.21	22	7
+21st	
+	Nikolay Gryazin
+Yaroslav Fedorov
+  
+	0.36	17	47
+22nd	
+	Eerik Pietarinen
+Juhana Raitanen
+Škoda Motorsport
+	0.77	6	8
+23rd	
+	Patrik Flodin
+Göran Bergsten
+  
+	0.23	3	13
+24th	
+	Takamoto Katsuta
+Daniel Barritt
+  
+	0.21	2	10
+-	
+	Rhys Yates
+James Morgan
+  
+	0.21	0	0
+-	
+	Adrien Fourmaux
+Renaud Jamoul
+  
+	0.26	0	0
+-	
+	Eyvind Brynildsen
+Veronica Gulbæk Engan
+  
+	0.20	0	0
+-	
+	Gus Greensmith
+Elliott Edmondson
+M-Sport Ford WRT
+	0.44	0	0
+-	
+	Lorenzo Bertelli
+Simone Scattolin
+M-Sport Ford WRT
+	0.39	0	0
+-	
+	Łukasz Pieniążek
+Kamil Heller
+M-Sport Ford WRT
+	0.21	0	0
+-	
+	Henning Solberg
+Ilka Minor
+  
+	0.81	0	0
