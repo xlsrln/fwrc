@@ -1,0 +1,131 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Ott Tänak
+Martin Järveoja
+Toyota Gazoo Racing WRT
+	4.21	885	210
+2nd	
+	Jari-Matti Latvala
+Miikka Anttila
+Toyota Gazoo Racing WRT
+	2.66	688	259
+3rd	
+	Esapekka Lappi
+Janne Ferm
+Citroën Total WRT
+	2.05	640	312
+4th	
+	Andreas Mikkelsen
+Anders Jæger
+Hyundai Shell Mobis WRT
+	2.40	600	250
+5th	
+	Sébastien Ogier
+Julien Ingrassia
+Citroën Total WRT
+	3.93	533	136
+6th	
+	Thierry Neuville
+Nicolas Gilsoul
+Hyundai Shell Mobis WRT
+	3.78	502	133
+7th	
+	Craig Breen
+Paul Nagle
+Hyundai Shell Mobis WRT
+	1.93	367	190
+8th	
+	Teemu Suninen
+Jarmo Lehtinen
+M-Sport Ford WRT
+	2.04	276	135
+9th	
+	Kalle Rovanperä
+Jonne Halttunen
+Škoda Motorsport
+	0.72	204	283
+10th	
+	Kris Meeke
+Sebastian Marshall
+Toyota Gazoo Racing WRT
+	2.53	198	78
+11th	
+	Nikolay Gryazin
+Yaroslav Fedorov
+  
+	0.38	132	347
+12th	
+	Jari Huttunen
+Mikko Lukka
+  
+	0.38	122	321
+13th	
+	Gus Greensmith
+Elliott Edmondson
+M-Sport Ford WRT
+	0.44	101	230
+14th	
+	Johan Kristoffersson
+Stig Rune Kjærnsli
+  
+	0.24	83	346
+15th	
+	Pierre-Louis Loubet
+Vincent Landais
+  
+	0.33	77	233
+16th	
+	Emil Lindholm
+Mikael Korhonen
+  
+	0.23	64	278
+17th	
+	Eric Camilli
+Benjamin Veillas
+M-Sport Ford WRT
+	0.44	49	111
+18th	
+	Teemu Asunmaa
+Jani Salo
+  
+	0.37	31	84
+19th	
+	Henning Solberg
+Ilka Minor
+  
+	0.72	16	22
+20th	
+	Takamoto Katsuta
+Daniel Barritt
+  
+	0.23	4	17
+21st	
+	Ville Pynnönen
+Timo Hantunen
+  
+	0.20	1	5
+-	
+	Patrik Flodin
+Göran Bergsten
+  
+	0.21	0	0
+-	
+	Marc Amourette
+Anaïs Gauduin
+  
+	0.20	0	0
+-	
+	Eerik Pietarinen
+Juhana Raitanen
+Škoda Motorsport
+	0.68	0	0
+-	
+	Adrien Fourmaux
+Renaud Jamoul
+  
+	0.20	0	0
+-	
+	Paulo Nobre
+Gabriel Morales
+  
+	0.20	0	0
