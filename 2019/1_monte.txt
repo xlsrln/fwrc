@@ -1,0 +1,151 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Sébastien Ogier
+Julien Ingrassia
+Citroën Total WRT
+	3.90	767	197
+2nd	
+	Thierry Neuville
+Nicolas Gilsoul
+Hyundai Shell Mobis WRT
+	3.40	689	203
+3rd	
+	Ott Tänak
+Martin Järveoja
+Toyota Gazoo Racing WRT
+	3.59	636	177
+4th	
+	Kris Meeke
+Sebastian Marshall
+Toyota Gazoo Racing WRT
+	2.35	500	213
+5th	
+	Sébastien Loeb
+Daniel Elena
+Hyundai Shell Mobis WRT
+	3.93	385	98
+6th	
+	Jari-Matti Latvala
+Miikka Anttila
+Toyota Gazoo Racing WRT
+	2.99	359	120
+7th	
+	Teemu Suninen
+Marko Salminen
+M-Sport Ford WRT
+	1.39	287	206
+8th	
+	Gus Greensmith
+Elliott Edmondson
+M-Sport Ford WRT
+	0.34	184	541
+9th	
+	Yoann Bonato
+Benjamin Boulloud
+  
+	0.25	167	668
+10th	
+	Stéphane Sarrazin
+Jacques-Julien Renucci
+  
+	1.19	162	136
+11th	
+	Adrien Fourmaux
+Renaud Jamoul
+  
+	0.20	104	520
+12th	
+	Ole Christian Veiby
+Jonas Andersson
+  
+	0.30	93	310
+13th	
+	Andreas Mikkelsen
+Anders Jæger
+Hyundai Shell Mobis WRT
+	2.22	92	41
+14th	
+	Elfyn Evans
+Scott Martin
+M-Sport Ford WRT
+	2.20	79	36
+15th	
+	Pontus Tidemand
+Ola Fløene
+M-Sport Ford WRT
+	0.76	73	96
+16th	
+	Kalle Rovanperä
+Jonne Halttunen
+Škoda Motorsport
+	0.56	70	125
+17th	
+	Nicolas Ciamin
+Yannick Roche
+  
+	0.20	57	285
+18th	
+	Takamoto Katsuta
+Daniel Barritt
+Tommi Mäkinen Racing
+	0.20	45	225
+19th	
+	Esapekka Lappi
+Janne Ferm
+Citroën Total WRT
+	2.45	37	15
+20th	
+	Rhys Yates
+Denis Giraudet
+  
+	0.20	34	170
+21st	
+	Guillaume de Mevius
+Martijn Wydaeghe
+  
+	0.20	33	165
+22nd	
+	Andrea Nucita
+Giuseppe Princiotto
+  
+	0.20	16	80
+23rd	
+	Olivier Burri
+Anderson Levratti
+  
+	0.47	15	32
+24th	
+	Davide Caffoni
+Massimo Minazzi
+  
+	0.20	1	5
+-	
+	Eamonn Boland
+Michael Joseph Morrissey
+  
+	0.20	0	0
+-	
+	Renaud Dolce
+Jean-Pierre Ayasse
+  
+	0.20	0	0
+-	
+	Matteo Gamba
+Nicola Arena
+  
+	0.87	0	0
+-	
+	Manuel Villa
+Daniele Michi
+Sportec Engineering
+	0.20	0	0
+-	
+	Marco Blanc
+Luca Lattanzi
+  
+	0.20	0	0
+-	
+	Yohan Rossel
+Benoît Fulcrand
+  
+	0.36	0	0
