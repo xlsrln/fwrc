@@ -1,0 +1,136 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Thierry Neuville
+Nicolas Gilsoul
+Hyundai Shell Mobis WRT
+	3.94	890	226
+2nd	
+	Sébastien Ogier
+Julien Ingrassia
+M-Sport Ford WRT
+	3.76	780	207
+3rd	
+	Esapekka Lappi
+Janne Ferm
+Toyota Gazoo Racing WRT
+	2.16	474	219
+4th	
+	Ott Tänak
+Martin Järveoja
+Toyota Gazoo Racing WRT
+	3.16	469	148
+5th	
+	Hayden Paddon
+Sebastian Marshall
+Hyundai Shell Mobis WRT
+	1.92	378	197
+6th	
+	Jari-Matti Latvala
+Miikka Anttila
+Toyota Gazoo Racing WRT
+	2.28	373	164
+7th	
+	Mads Østberg
+Torstein Eriksen
+Citroën Total Abu Dhabi WRT
+	1.87	351	188
+8th	
+	Andreas Mikkelsen
+Anders Jæger
+Hyundai Shell Mobis WRT
+	2.55	306	120
+9th	
+	Craig Breen
+Scott Martin
+Citroën Total Abu Dhabi WRT
+	1.72	281	163
+10th	
+	Teemu Suninen
+Mikko Markkula
+M-Sport Ford WRT
+	1.28	279	218
+11th	
+	Elfyn Evans
+Daniel Barritt
+M-Sport Ford WRT
+	2.20	253	115
+12th	
+	Jan Kopecký
+Pavel Dresler
+Škoda Motorsport II
+	0.91	169	186
+13th	
+	Ole Christian Veiby
+Stig Rune Skjærmoen
+Škoda Motorsport II
+	0.40	114	285
+14th	
+	Martin Prokop
+Jan Tománek
+MP-Sports
+	0.87	92	106
+15th	
+	Nicolas Ciamin
+Thibault de la Haye
+  
+	0.20	58	290
+16th	
+	Stéphane Lefebvre
+Gabin Moreau
+Citroën Total
+	1.05	34	32
+17th	
+	Fabio Andolfi
+Simone Scattolin
+ACI Team Italia
+	0.23	32	139
+18th	
+	Łukasz Pieniążek
+Przemysław Mazur
+Printsport Oy
+	0.27	25	93
+19th	
+	Pierre-Louis Loubet
+Vincent Landais
+BRC Racing Team
+	0.26	16	62
+21st	
+	Hiroki Arai
+Jarmo Lehtinen
+Tommi Mäkinen Racing
+	0.24	10	42
+20th	
+	Kajetan Kajetanowicz
+Maciej Szczepaniak
+Lotos Rally Team
+	0.39	10	26
+22nd	
+	Benito Guerra Jr.
+Borja Rozada
+Motorsport Italia
+	0.30	2	7
+24th	
+	Simone Tempestini
+Sergiu Itu
+Citroën Total
+	0.20	1	5
+23rd	
+	Takamoto Katsuta
+Marko Salminen
+Tommi Mäkinen Racing
+	0.21	1	5
+-	
+	Gaurav Gill
+Glenn Macneall
+Team MRF Tyres
+	0.20	0	0
+-	
+	Yazeed Al-Rajhi
+Michael Orr
+Yazeed Racing
+	0.20	0	0
+-	
+	Giuseppe Dettori
+Carlo Pisano
+  
+	0.50	0	0
