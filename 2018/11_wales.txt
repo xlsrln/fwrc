@@ -1,0 +1,151 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Sébastien Ogier
+Julien Ingrassia
+M-Sport Ford WRT
+	3.75	787	210
+2nd	
+	Jari-Matti Latvala
+Miikka Anttila
+Toyota Gazoo Racing WRT
+	2.57	739	288
+3rd	
+	Esapekka Lappi
+Janne Ferm
+Toyota Gazoo Racing WRT
+	2.19	571	261
+4th	
+	Thierry Neuville
+Nicolas Gilsoul
+Hyundai Shell Mobis WRT
+	3.75	515	137
+5th	
+	Craig Breen
+Scott Martin
+Citroën Total Abu Dhabi WRT
+	1.81	418	231
+6th	
+	Ott Tänak
+Martin Järveoja
+Toyota Gazoo Racing WRT
+	3.78	414	110
+7th	
+	Andreas Mikkelsen
+Anders Jæger
+Hyundai Shell Mobis WRT
+	2.34	383	164
+8th	
+	Mads Østberg
+Torstein Eriksen
+Citroën Total Abu Dhabi WRT
+	1.89	332	176
+9th	
+	Hayden Paddon
+Sebastian Marshall
+Hyundai Shell Mobis WRT
+	2.12	308	145
+10th	
+	Kalle Rovanperä
+Jonne Halttunen
+Škoda Motorsport II
+	0.45	175	389
+11th	
+	Elfyn Evans
+Daniel Barritt
+M-Sport Ford WRT
+	2.00	172	86
+12th	
+	Pontus Tidemand
+Jonas Andersson
+Škoda Motorsport II
+	0.75	133	177
+13th	
+	Gus Greensmith
+Alessandro Gelsomino
+  
+	0.30	104	347
+14th	
+	Jari Huttunen
+Antti Linnaketo
+Hyundai Motorsport
+	0.45	73	162
+15th	
+	Teemu Suninen
+Mikko Markkula
+M-Sport Ford WRT
+	1.57	65	41
+16th	
+	Stéphane Lefebvre
+Gabin Moreau
+Citroën Total
+	0.80	53	66
+17th	
+	Tom Cave
+James Morgan
+  
+	0.22	42	191
+18th	
+	Łukasz Pieniążek
+Przemysław Mazur
+Printsport Oy
+	0.23	30	130
+19th	
+	Eric Camilli
+Benjamin Veillas
+M-Sport World Rally Team
+	0.49	28	57
+20th	
+	Simone Tempestini
+Sergiu Itu
+  
+	0.30	15	50
+21st	
+	David Bogie
+John Rowan
+  
+	0.27	11	41
+22nd	
+	Fabio Andolfi
+Emanuele Inglesi
+ACI Team Italia
+	0.25	7	28
+23rd	
+	Ole Christian Veiby
+Stig Rune Skjærmoen
+PH Sport
+	0.37	3	8
+24th	
+	Nil Solans
+Marc Martí
+  
+	0.20	1	5
+-	
+	Paulo Nobre
+Gabriel Morales
+Palmeirinha Rally
+	0.20	0	0
+-	
+	Marco Bulacia
+Fabian Cretu
+  
+	0.42	0	0
+-	
+	Pierre-Louis Loubet
+Vincent Landais
+BRC Racing Team
+	0.21	0	0
+-	
+	Chris Ingram
+Ross Whittock
+Toksport WRT
+	0.27	0	0
+-	
+	Gaurav Gill
+Glenn Macneall
+Team MRF Tyres
+	0.20	0	0
+-	
+	Eamonn Boland
+Michael Joseph Morrissey
+  
+	0.20	0	0
