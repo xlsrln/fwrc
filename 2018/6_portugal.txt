@@ -1,0 +1,171 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Thierry Neuville
+Nicolas Gilsoul
+Hyundai Shell Mobis WRT
+	3.74	826	221
+2nd	
+	Elfyn Evans
+Daniel Barritt
+M-Sport Ford WRT
+	1.94	652	336
+3rd	
+	Teemu Suninen
+Mikko Markkula
+M-Sport Ford WRT
+	0.97	590	608
+4th	
+	Dani Sordo
+Carlos del Barrio
+Hyundai Shell Mobis WRT
+	2.51	574	229
+5th	
+	Esapekka Lappi
+Janne Ferm
+Toyota Gazoo Racing WRT
+	1.98	539	272
+6th	
+	Craig Breen
+Scott Martin
+Citroën Total Abu Dhabi WRT
+	1.67	312	187
+7th	
+	Mads Østberg
+Torstein Eriksen
+Citroën Total Abu Dhabi WRT
+	1.84	310	168
+8th	
+	Sébastien Ogier
+Julien Ingrassia
+M-Sport Ford WRT
+	4.01	214	53
+9th	
+	Pontus Tidemand
+Jonas Andersson
+Škoda Motorsport
+	0.77	198	257
+10th	
+	Jari-Matti Latvala
+Miikka Anttila
+Toyota Gazoo Racing WRT
+	2.38	192	81
+11th	
+	Kris Meeke
+Paul Nagle
+Citroën Total Abu Dhabi WRT
+	2.49	153	61
+12th	
+	Andreas Mikkelsen
+Anders Jæger
+Hyundai Shell Mobis WRT
+	2.72	150	55
+13th	
+	Stéphane Lefebvre
+Gabin Moreau
+Citroën Total
+	1.06	134	126
+14th	
+	Łukasz Pieniążek
+Przemysław Mazur
+Printsport Oy
+	0.20	127	635
+15th	
+	Pierre-Louis Loubet
+Vincent Landais
+BRC Racing Team
+	0.21	98	467
+16th	
+	Hiroki Arai
+Glenn Macneall
+Tommi Mäkinen Racing
+	0.20	90	450
+17th	
+	Hayden Paddon
+Sebastian Marshall
+Hyundai Shell Mobis WRT
+	2.07	88	43
+18th	
+	Juuso Nordgren
+Tapio Suominen
+Škoda Motorsport
+	0.20	88	440
+19th	
+	Gus Greensmith
+Craig Parry
+  
+	0.32	54	169
+20th	
+	Armindo Araújo
+Luís Ramalho
+Team Hyundai Portugal
+	0.54	41	76
+21st	
+	Benito Guerra Jr.
+Borja Rozada
+Motorsport Italia
+	0.31	26	84
+22nd	
+	Nil Solans
+Miquel Ibáñez Sotos
+  
+	0.20	17	85
+24th	
+	Pedro Heller
+Pablo Olmos
+  
+	0.25	13	52
+23rd	
+	Ott Tänak
+Martin Järveoja
+Toyota Gazoo Racing WRT
+	3.50	13	4
+25th	
+	Emil Bergkvist
+Joakim Sjöberg
+  
+	0.20	11	55
+26th	
+	Yazeed Al-Rajhi
+Michael Orr
+Yazeed Racing
+	0.20	11	55
+27th	
+	Radik Shaymiev
+Maxim Tsvetkov
+TAIF Motorsport
+	0.20	11	55
+28th	
+	Simone Tempestini
+Sergiu Itu
+  
+	0.20	9	45
+29th	
+	Jari Huttunen
+Antti Linnaketo
+Hyundai Motorsport
+	0.55	8	15
+30th	
+	Fabio Andolfi
+Simone Scattolin
+ACI Team Italia
+	0.25	6	24
+31st	
+	Takamoto Katsuta
+Marko Salminen
+Tommi Mäkinen Racing
+	0.23	2	9
+-	
+	Kevin Abbring
+Pieter Tsjoen
+  
+	0.41	0	0
+-	
+	Max Vatanen
+Christopher Guieu
+  
+	0.20	0	0
+-	
+	Pedro Meireles
+Mário Castro
+  
+	0.20	0	0
