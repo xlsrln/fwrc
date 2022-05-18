@@ -1,0 +1,111 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Jari-Matti Latvala
+Miikka Anttila
+Toyota Gazoo Racing WRT
+	2.80	808	289
+2nd	
+	Mads Østberg
+Torstein Eriksen
+Citroën Total Abu Dhabi WRT
+	1.91	612	320
+3rd	
+	Hayden Paddon
+Sebastian Marshall
+Hyundai Shell Mobis WRT
+	2.10	590	281
+4th	
+	Esapekka Lappi
+Janne Ferm
+Toyota Gazoo Racing WRT
+	2.34	586	250
+5th	
+	Sébastien Ogier
+Julien Ingrassia
+M-Sport Ford WRT
+	4.01	493	123
+6th	
+	Elfyn Evans
+Daniel Barritt
+M-Sport Ford WRT
+	2.16	432	200
+7th	
+	Craig Breen
+Scott Martin
+Citroën Total Abu Dhabi WRT
+	1.92	351	183
+8th	
+	Ott Tänak
+Martin Järveoja
+Toyota Gazoo Racing WRT
+	3.77	337	89
+9th	
+	Andreas Mikkelsen
+Anders Jæger
+Hyundai Shell Mobis WRT
+	2.31	249	108
+10th	
+	Thierry Neuville
+Nicolas Gilsoul
+Hyundai Shell Mobis WRT
+	3.66	185	51
+11th	
+	Alberto Heller
+José Luis Díaz
+M-Sport World Rally Team
+	0.51	170	333
+12th	
+	Teemu Suninen
+Mikko Markkula
+M-Sport Ford WRT
+	1.45	149	103
+13th	
+	Steve Glenney
+Andrew Sarandis
+  
+	0.89	134	151
+14th	
+	Jourdan Serderidis
+Lara Vanneste
+M-Sport World Rally Team
+	0.21	100	476
+15th	
+	Eli Evans
+Ben Searcy
+  
+	0.20	81	405
+16th	
+	Gaurav Gill
+Glenn Macneall
+Team MRF Tyres
+	0.20	64	320
+17th	
+	Gianluca Linari
+Pietro Elia Ometto
+  
+	0.20	60	300
+18th	
+	Lewis Bates
+Anthony McLoughlin
+  
+	0.23	35	152
+19th	
+	Pedro Heller
+Pablo Olmos
+  
+	0.25	14	56
+20th	
+	Harry Bates
+John McCarthy
+  
+	0.20	11	55
+21st	
+	Armin Kremer
+Pirmin Winklhofer
+Motorsport Italia
+	0.32	10	31
+22nd	
+	Raana Horan
+Michael Connor
+  
+	0.20	6	30
