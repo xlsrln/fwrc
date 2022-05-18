@@ -1,0 +1,176 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Ott Tänak
+Martin Järveoja
+Toyota Gazoo Racing WRT
+	3.38	804	238
+2nd	
+	Sébastien Ogier
+Julien Ingrassia
+M-Sport Ford WRT
+	3.75	630	168
+3rd	
+	Thierry Neuville
+Nicolas Gilsoul
+Hyundai Shell Mobis WRT
+	3.90	625	160
+4th	
+	Esapekka Lappi
+Janne Ferm
+Toyota Gazoo Racing WRT
+	2.16	577	267
+5th	
+	Craig Breen
+Scott Martin
+Citroën Total Abu Dhabi WRT
+	1.80	429	238
+6th	
+	Teemu Suninen
+Mikko Markkula
+M-Sport Ford WRT
+	1.40	304	217
+7th	
+	Andreas Mikkelsen
+Anders Jæger
+Hyundai Shell Mobis WRT
+	2.35	276	117
+8th	
+	Dani Sordo
+Carlos del Barrio
+Hyundai Shell Mobis WRT
+	2.66	199	75
+9th	
+	Jari-Matti Latvala
+Miikka Anttila
+Toyota Gazoo Racing WRT
+	2.49	190	76
+10th	
+	Marijan Griebel
+Alexander Rath
+  
+	0.22	190	864
+11th	
+	Jan Kopecký
+Pavel Dresler
+Škoda Motorsport II
+	0.92	163	177
+12th	
+	Kalle Rovanperä
+Jonne Halttunen
+Škoda Motorsport II
+	0.40	127	318
+13th	
+	Elfyn Evans
+Daniel Barritt
+M-Sport Ford WRT
+	2.11	109	52
+14th	
+	Fabio Andolfi
+Emanuele Inglesi
+ACI Team Italia
+	0.21	92	438
+15th	
+	Fabian Kreim
+Frank Christian
+Škoda Auto Deutschland
+	0.20	83	415
+16th	
+	Mads Østberg
+Torstein Eriksen
+Citroën Total Abu Dhabi WRT
+	2.18	80	37
+17th	
+	Kajetan Kajetanowicz
+Maciej Szczepaniak
+Lotos Rally Team
+	0.36	51	142
+18th	
+	Łukasz Pieniążek
+Przemysław Mazur
+Printsport Oy
+	0.23	30	130
+19th	
+	Nicolas Ciamin
+Thibault de la Haye
+  
+	0.20	23	115
+20th	
+	Stéphane Lefebvre
+Gabin Moreau
+Citroën Total
+	0.88	16	18
+21st	
+	Ole Christian Veiby
+Stig Rune Skjærmoen
+Printsport Oy
+	0.40	8	20
+22nd	
+	Eric Camilli
+Benjamin Veillas
+M-Sport World Rally Team
+	0.54	7	13
+23rd	
+	Nil Solans
+Miquel Ibáñez Sotos
+  
+	0.20	7	35
+24th	
+	Jari Huttunen
+Antti Linnaketo
+Hyundai Motorsport
+	0.50	6	12
+25th	
+	Jourdan Serderidis
+Frédéric Miclotte
+M-Sport World Rally Team
+	0.23	5	22
+26th	
+	Yoann Bonato
+Benjamin Boulloud
+CHL Sport Auto
+	0.27	4	15
+27th	
+	Umberto Scandola
+Andrea Gaspari
+S.A. Motorsport Italia Srl
+	0.20	2	10
+28th	
+	Gus Greensmith
+Stuart Loudon
+  
+	0.33	1	3
+-	
+	Pierre-Louis Loubet
+Vincent Landais
+BRC Racing Team
+	0.23	0	0
+-	
+	Benito Guerra Jr.
+Borja Rozada
+S.A. Motorsport Italia Srl
+	0.24	0	0
+-	
+	Simone Tempestini
+Sergiu Itu
+Citroën Total
+	0.20	0	0
+-	
+	José Antonio Suárez
+Cándido Carrera
+Hyundai Motor España
+	0.20	0	0
+-	
+	Eamonn Boland
+Michael Joseph Morrissey
+  
+	0.20	0	0
+-	
+	Hermann Gassner Jr.
+Ursula Mayrhofer
+  
+	0.20	0	0
+-	
+	Hermann Gassner Sr.
+Karin Thannhäuser
+  
+	0.20	0	0
