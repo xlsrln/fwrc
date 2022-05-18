@@ -1,0 +1,126 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Ott Tänak
+Martin Järveoja
+Toyota Gazoo Racing WRT
+	3.27	863	264
+2nd	
+	Thierry Neuville
+Nicolas Gilsoul
+Hyundai Shell Mobis WRT
+	3.63	741	204
+3rd	
+	Sébastien Ogier
+Julien Ingrassia
+M-Sport Ford WRT
+	4.07	547	134
+4th	
+	Dani Sordo
+Carlos del Barrio
+Hyundai Shell Mobis WRT
+	2.42	515	213
+5th	
+	Andreas Mikkelsen
+Anders Jæger
+Hyundai Shell Mobis WRT
+	2.67	493	185
+6th	
+	Kris Meeke
+Paul Nagle
+Citroën Total Abu Dhabi WRT
+	2.44	462	189
+7th	
+	Elfyn Evans
+Daniel Barritt
+M-Sport Ford WRT
+	1.94	307	158
+8th	
+	Esapekka Lappi
+Janne Ferm
+Toyota Gazoo Racing WRT
+	1.99	292	147
+9th	
+	Teemu Suninen
+Mikko Markkula
+M-Sport Ford WRT
+	0.91	230	253
+10th	
+	Pontus Tidemand
+Jonas Andersson
+Škoda Motorsport
+	0.74	169	228
+11th	
+	Ole Christian Veiby
+Stig Rune Skjærmoen
+  
+	0.36	120	333
+12th	
+	Craig Breen
+Scott Martin
+Citroën Total Abu Dhabi WRT
+	1.78	109	61
+13th	
+	Gus Greensmith
+Craig Parry
+  
+	0.29	99	341
+14th	
+	Kalle Rovanperä
+Jonne Halttunen
+Škoda Motorsport
+	0.37	70	189
+15th	
+	Alejandro Cancio
+Santiago Garcia
+  
+	0.20	58	290
+16th	
+	Khalid Al-Qassimi
+Chris Patterson
+Citroën Total Abu Dhabi WRT
+	0.24	44	183
+17th	
+	Pedro Heller
+Pablo Olmos
+  
+	0.25	32	128
+18th	
+	Jari-Matti Latvala
+Miikka Anttila
+Toyota Gazoo Racing WRT
+	2.63	18	7
+19th	
+	Nil Solans
+Miquel Ibáñez Sotos
+  
+	0.20	15	75
+20th	
+	Gustavo Saba
+Marcelo Der Ohannesian
+  
+	0.42	7	17
+21st	
+	Diego Dominguez Sr.
+Edgardo Galindo
+  
+	0.66	4	6
+22nd	
+	Alberto Heller
+José Luis Díaz
+M-Sport World Rally Team
+	0.57	1	2
+23rd	
+	Cristóbal Vidaurre
+Ruben Garcia
+  
+	0.20	1	5
+-	
+	Marco Bulacia
+Fernando Mussano
+  
+	0.47	0	0
+-	
+	Geronimo Padilla
+Nicolas Garcia
+  
+	0.63	0	0
