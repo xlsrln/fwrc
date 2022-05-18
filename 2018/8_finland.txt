@@ -1,0 +1,156 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Ott Tänak
+Martin Järveoja
+Toyota Gazoo Racing WRT
+	3.13	909	290
+2nd	
+	Mads Østberg
+Torstein Eriksen
+Citroën Total Abu Dhabi WRT
+	1.90	760	400
+3rd	
+	Jari-Matti Latvala
+Miikka Anttila
+Toyota Gazoo Racing WRT
+	2.28	705	309
+4th	
+	Sébastien Ogier
+Julien Ingrassia
+M-Sport Ford WRT
+	3.86	452	117
+5th	
+	Hayden Paddon
+Sebastian Marshall
+Hyundai Shell Mobis WRT
+	1.96	424	216
+6th	
+	Craig Breen
+Scott Martin
+Citroën Total Abu Dhabi WRT
+	1.72	406	236
+7th	
+	Thierry Neuville
+Nicolas Gilsoul
+Hyundai Shell Mobis WRT
+	4.09	350	86
+8th	
+	Teemu Suninen
+Mikko Markkula
+M-Sport Ford WRT
+	1.32	336	255
+9th	
+	Elfyn Evans
+Daniel Barritt
+M-Sport Ford WRT
+	2.14	299	140
+10th	
+	Esapekka Lappi
+Janne Ferm
+Toyota Gazoo Racing WRT
+	2.24	235	105
+11th	
+	Andreas Mikkelsen
+Anders Jæger
+Hyundai Shell Mobis WRT
+	2.48	196	79
+12th	
+	Eerik Pietarinen
+Juhana Raitanen
+TGS Worldwide OU
+	0.78	117	150
+13th	
+	Kalle Rovanperä
+Jonne Halttunen
+Škoda Motorsport
+	0.38	96	253
+14th	
+	Jari Huttunen
+Antti Linnaketo
+Hyundai Motorsport
+	0.50	77	154
+15th	
+	Gus Greensmith
+Craig Parry
+  
+	0.33	54	164
+16th	
+	Emil Lindholm
+Mikael Korhonen
+Printsport Oy
+	0.20	18	90
+17th	
+	Ole Christian Veiby
+Stig Rune Skjærmoen
+Škoda Motorsport
+	0.43	17	40
+18th	
+	Pierre-Louis Loubet
+Vincent Landais
+BRC Racing Team
+	0.24	17	71
+19th	
+	Jarkko Nikara
+Sayaka Adachi
+Tommi Mäkinen Racing 2
+	0.31	13	42
+20th	
+	Teemu Asunmaa
+Ville Mannisenmäki
+  
+	0.41	9	22
+21st	
+	Stéphane Lefebvre
+Gabin Moreau
+Citroën Total
+	0.97	7	7
+22nd	
+	Fabio Andolfi
+Emanuele Inglesi
+ACI Team Italia
+	0.23	3	13
+-	
+	Takamoto Katsuta
+Marko Salminen
+Tommi Mäkinen Racing
+	0.20	0	0
+-	
+	Benito Guerra Jr.
+Borja Rozada
+Motorsport Italia
+	0.27	0	0
+-	
+	Emil Bergkvist
+Joakim Sjöberg
+  
+	0.20	0	0
+-	
+	Łukasz Pieniążek
+Przemysław Mazur
+Printsport Oy
+	0.26	0	0
+-	
+	Simone Tempestini
+Sergiu Itu
+Citroën Total
+	0.20	0	0
+-	
+	Gaurav Gill
+Glenn Macneall
+Team MRF Tyres
+	0.20	0	0
+-	
+	Nicolas Ciamin
+Thibault de la Haye
+  
+	0.22	0	0
+-	
+	Hiroki Arai
+Jarmo Lehtinen
+Tommi Mäkinen Racing
+	0.22	0	0
+-	
+	Khalid Al-Qassimi
+Chris Patterson
+Citroën Total Abu Dhabi WRT
+	0.24	0	0
