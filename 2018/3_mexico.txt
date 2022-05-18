@@ -1,0 +1,111 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Sébastien Ogier
+Julien Ingrassia
+M-Sport Ford WRT
+	3.86	735	190
+2nd	
+	Dani Sordo
+Carlos del Barrio
+Hyundai Shell Mobis WRT
+	2.28	604	265
+3rd	
+	Sébastien Loeb
+Daniel Elena
+Citroën Total Abu Dhabi WRT
+	3.86	570	148
+4th	
+	Kris Meeke
+Paul Nagle
+Citroën Total Abu Dhabi WRT
+	2.26	568	251
+5th	
+	Andreas Mikkelsen
+Anders Jæger
+Hyundai Shell Mobis WRT
+	2.71	552	204
+6th	
+	Jari-Matti Latvala
+Miikka Anttila
+Toyota Gazoo Racing WRT
+	2.86	478	167
+7th	
+	Thierry Neuville
+Nicolas Gilsoul
+Hyundai Shell Mobis WRT
+	3.78	464	123
+8th	
+	Ott Tänak
+Martin Järveoja
+Toyota Gazoo Racing WRT
+	3.22	380	118
+9th	
+	Pontus Tidemand
+Jonas Andersson
+Škoda Motorsport
+	0.67	232	346
+10th	
+	Esapekka Lappi
+Janne Ferm
+Toyota Gazoo Racing WRT
+	1.83	226	123
+11th	
+	Teemu Suninen
+Mikko Markkula
+M-Sport Ford WRT
+	0.88	192	218
+12th	
+	Gus Greensmith
+Craig Parry
+  
+	0.20	162	810
+13th	
+	Pedro Heller
+Pablo Olmos
+  
+	0.20	119	595
+14th	
+	Marco Bulacia
+Fernando Mussano
+  
+	0.47	70	149
+15th	
+	Kalle Rovanperä
+Jonne Halttunen
+Škoda Motorsport
+	0.37	65	176
+16th	
+	Elfyn Evans
+Daniel Barritt
+M-Sport Ford WRT
+	2.11	51	24
+17th	
+	Jari Huttunen
+Antti Linnaketo
+Hyundai Motorsport
+	0.59	29	49
+18th	
+	Nil Solans
+Miquel Ibáñez Sotos
+  
+	0.20	13	65
+19th	
+	Ricardo Triviño
+Marc Martí
+  
+	0.20	9	45
+20th	
+	Ricardo Cordero Jr.
+Marco Hernández
+  
+	0.44	8	18
+21st	
+	Julián Jaramillo
+Gabriel Marín Jr.
+  
+	0.20	4	20
+22nd	
+	Francisco Name Guzzy
+Armando Zapata
+  
+	0.21	3	14
