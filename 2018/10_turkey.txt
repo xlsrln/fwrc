@@ -1,0 +1,146 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Ott Tänak
+Martin Järveoja
+Toyota Gazoo Racing WRT
+	3.62	756	209
+2nd	
+	Jari-Matti Latvala
+Miikka Anttila
+Toyota Gazoo Racing WRT
+	2.38	625	263
+3rd	
+	Sébastien Ogier
+Julien Ingrassia
+M-Sport Ford WRT
+	3.82	455	119
+4th	
+	Hayden Paddon
+Sebastian Marshall
+Hyundai Shell Mobis WRT
+	2.03	423	208
+5th	
+	Andreas Mikkelsen
+Anders Jæger
+Hyundai Shell Mobis WRT
+	2.31	374	162
+6th	
+	Teemu Suninen
+Mikko Markkula
+M-Sport Ford WRT
+	1.48	342	231
+7th	
+	Elfyn Evans
+Daniel Barritt
+M-Sport Ford WRT
+	1.98	314	159
+8th	
+	Thierry Neuville
+Nicolas Gilsoul
+Hyundai Shell Mobis WRT
+	3.96	274	69
+9th	
+	Henning Solberg
+Ilka Minor
+  
+	0.84	213	254
+10th	
+	Jan Kopecký
+Pavel Dresler
+Škoda Motorsport II
+	0.94	208	221
+11th	
+	Simone Tempestini
+Sergiu Itu
+  
+	0.20	175	875
+12th	
+	Kajetan Kajetanowicz
+Maciej Szczepaniak
+Lotos Rally Team
+	0.36	152	422
+13th	
+	Chris Ingram
+Ross Whittock
+Toksport WRT
+	0.20	132	660
+14th	
+	Craig Breen
+Scott Martin
+Citroën Total Abu Dhabi WRT
+	1.93	112	58
+15th	
+	Mads Østberg
+Torstein Eriksen
+Citroën Total Abu Dhabi WRT
+	2.02	110	54
+16th	
+	Esapekka Lappi
+Janne Ferm
+Toyota Gazoo Racing WRT
+	2.36	102	43
+17th	
+	Pedro Heller
+Pablo Olmos
+  
+	0.23	62	270
+18th	
+	Gus Greensmith
+Alessandro Gelsomino
+  
+	0.30	37	123
+19th	
+	Burak Cukurova
+Vedat Bostanci
+BC Vision Motorsport
+	0.60	32	53
+20th	
+	Khalid Al-Qassimi
+Chris Patterson
+Citroën Total Abu Dhabi WRT
+	0.22	31	141
+21st	
+	Yazeed Al-Rajhi
+Michael Orr
+Yazeed Racing
+	0.20	12	60
+22nd	
+	Pontus Tidemand
+Jonas Andersson
+Škoda Motorsport II
+	0.83	11	13
+23rd	
+	Diogo Salvi
+Hugo Magalhães
+Motorsport Italia
+	0.20	4	20
+24th	
+	Callum Devine
+Brian Hoy
+  
+	0.20	4	20
+25th	
+	Murat Bostanci
+Onur Vatansever
+Castrol Ford Team Türkiye
+	0.20	3	15
+26th	
+	David Holder
+Jason Farmer
+Holder Brothers Racing
+	0.20	3	15
+27th	
+	Emil Bergkvist
+Patrik Barth
+  
+	0.20	2	10
+-	
+	Yağiz Avci
+Ersan Alkir
+Ford Motorsport Turkey
+	0.28	0	0
+-	
+	Burcu Çetinkaya
+Inessa Tushkanova
+Ford Motorsport Turkey
+	0.20	0	0
