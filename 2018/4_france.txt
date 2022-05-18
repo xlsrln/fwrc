@@ -1,0 +1,136 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Sébastien Ogier
+Julien Ingrassia
+M-Sport Ford WRT
+	3.92	734	187
+2nd	
+	Ott Tänak
+Martin Järveoja
+Toyota Gazoo Racing WRT
+	3.13	618	197
+3rd	
+	Esapekka Lappi
+Janne Ferm
+Toyota Gazoo Racing WRT
+	1.78	528	297
+4th	
+	Thierry Neuville
+Nicolas Gilsoul
+Hyundai Shell Mobis WRT
+	3.68	427	116
+5th	
+	Kris Meeke
+Paul Nagle
+Citroën Total Abu Dhabi WRT
+	2.38	409	172
+6th	
+	Sébastien Loeb
+Daniel Elena
+Citroën Total Abu Dhabi WRT
+	3.82	361	95
+7th	
+	Dani Sordo
+Carlos del Barrio
+Hyundai Shell Mobis WRT
+	2.42	322	133
+8th	
+	Elfyn Evans
+Phil Mills
+M-Sport Ford WRT
+	1.93	281	146
+9th	
+	Andreas Mikkelsen
+Anders Jæger
+Hyundai Shell Mobis WRT
+	2.77	242	87
+10th	
+	Jan Kopecký
+Pavel Dresler
+Škoda Motorsport II
+	0.86	180	209
+11th	
+	Yoann Bonato
+Benjamin Boulloud
+  
+	0.20	124	620
+12th	
+	Ole Christian Veiby
+Stig Rune Skjærmoen
+Škoda Motorsport II
+	0.32	103	322
+13th	
+	Fabio Andolfi
+Simone Scattolin
+ACI Team Italia
+	0.20	97	485
+14th	
+	Jari-Matti Latvala
+Miikka Anttila
+Toyota Gazoo Racing WRT
+	2.86	78	27
+15th	
+	Gus Greensmith
+Craig Parry
+  
+	0.28	55	196
+16th	
+	Bryan Bouffier
+Xavier Panseri
+M-Sport Ford WRT
+	0.77	51	66
+17th	
+	Łukasz Pieniążek
+Przemysław Mazur
+Printsport Oy
+	0.20	22	110
+19th	
+	Pierre-Louis Loubet
+Vincent Landais
+  
+	0.22	17	77
+18th	
+	Nicolas Ciamin
+Thibault de la Haye
+  
+	0.20	17	85
+20th	
+	Stéphane Lefebvre
+Gabin Moreau
+Citroën Total
+	1.17	15	13
+21st	
+	Nil Solans
+Miquel Ibáñez Sotos
+  
+	0.20	1	5
+-	
+	Takamoto Katsuta
+Marko Salminen
+Tommi Mäkinen Racing
+	0.26	0	0
+-	
+	Armando Pereira
+Rémi Tutélaire
+  
+	0.20	0	0
+-	
+	Emil Bergkvist
+Ola Fløene
+  
+	0.20	0	0
+-	
+	Andrea Nucita
+Marco Vozzo
+  
+	0.20	0	0
+-	
+	Hiroki Arai
+Glenn Macneall
+Tommi Mäkinen Racing
+	0.20	0	0
+-	
+	Alain Vauthier
+Stevie Nollet
+  
+	0.20	0	0
