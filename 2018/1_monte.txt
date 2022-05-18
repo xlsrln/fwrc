@@ -1,0 +1,146 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Sébastien Ogier
+Julien Ingrassia
+M-Sport Ford WRT
+	3.92	821	209
+2nd	
+	Ott Tänak
+Martin Järveoja
+Toyota Gazoo Racing WRT
+	3.17	651	205
+3rd	
+	Thierry Neuville
+Nicolas Gilsoul
+Hyundai Shell Mobis WRT
+	3.58	628	175
+4th	
+	Jari-Matti Latvala
+Miikka Anttila
+Toyota Gazoo Racing WRT
+	2.86	589	206
+5th	
+	Kris Meeke
+Paul Nagle
+Citroën Total Abu Dhabi WRT
+	2.35	526	224
+6th	
+	Elfyn Evans
+Daniel Barritt
+M-Sport Ford WRT
+	2.22	423	191
+7th	
+	Esapekka Lappi
+Janne Ferm
+Toyota Gazoo Racing WRT
+	1.52	360	237
+8th	
+	Andreas Mikkelsen
+Anders Jæger
+Hyundai Shell Mobis WRT
+	2.59	343	132
+9th	
+	Craig Breen
+Scott Martin
+Citroën Total Abu Dhabi WRT
+	1.53	272	178
+10th	
+	Bryan Bouffier
+Xavier Panseri
+M-Sport Ford WRT
+	0.69	253	367
+11th	
+	Jan Kopecký
+Pavel Dresler
+Škoda Motorsport II
+	0.85	164	193
+12th	
+	Dani Sordo
+Carlos del Barrio
+Hyundai Shell Mobis WRT
+	2.45	123	50
+13th	
+	Kalle Rovanperä
+Jonne Halttunen
+  
+	0.34	113	332
+14th	
+	Olivier Burri
+Anderson Levratti
+  
+	0.47	71	151
+15th	
+	Teemu Suninen
+Mikko Markkula
+M-Sport World Rally Team
+	0.84	51	61
+16th	
+	Eddie Sciessere
+Flavio Zanella
+  
+	0.24	36	150
+17th	
+	Eric Camilli
+Benjamin Veillas
+M-Sport World Rally Team
+	0.58	30	52
+18th	
+	Stéphane Sarrazin
+Jacques-Julien Renucci
+  
+	1.30	30	23
+19th	
+	Ole Christian Veiby
+Stig Rune Skjærmoen
+  
+	0.33	28	85
+20th	
+	Kevin Abbring
+Pieter Tsjoen
+  
+	0.48	27	56
+21st	
+	Andrea Nucita
+Marco Vozzo
+  
+	0.20	20	100
+22nd	
+	Yoann Bonato
+Benjamin Boulloud
+  
+	0.20	18	90
+23rd	
+	Guillaume de Mevius
+Louis Louka
+  
+	0.20	17	85
+24th	
+	Quentin Giordano
+Vincent Landais
+  
+	0.20	7	35
+25th	
+	Manuel Villa
+Daniele Michi
+  
+	0.20	5	25
+26th	
+	Eamonn Boland
+Michael Joseph Morrissey
+  
+	0.20	2	10
+-	
+	Gus Greensmith
+Craig Parry
+  
+	0.20	0	0
+-	
+	Renaud Dolce
+Jean-Pierre Ayasse
+  
+	0.20	0	0
+-	
+	Mathieu Arzeno
+Romain Roche
+  
+	0.22	0	0
