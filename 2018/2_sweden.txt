@@ -1,0 +1,151 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Thierry Neuville
+Nicolas Gilsoul
+Hyundai Shell Mobis WRT
+	3.60	756	210
+2nd	
+	Andreas Mikkelsen
+Anders Jæger
+Hyundai Shell Mobis WRT
+	2.54	591	233
+3rd	
+	Esapekka Lappi
+Janne Ferm
+Toyota Gazoo Racing WRT
+	1.59	552	347
+4th	
+	Craig Breen
+Scott Martin
+Citroën Total Abu Dhabi WRT
+	1.54	549	356
+5th	
+	Ott Tänak
+Martin Järveoja
+Toyota Gazoo Racing WRT
+	3.25	412	127
+6th	
+	Hayden Paddon
+Sebastian Marshall
+Hyundai Shell Mobis WRT
+	2.02	351	174
+7th	
+	Mads Østberg
+Torstein Eriksen
+Citroën Total Abu Dhabi WRT
+	1.78	335	188
+8th	
+	Sébastien Ogier
+Julien Ingrassia
+M-Sport Ford WRT
+	4.03	319	79
+9th	
+	Jari-Matti Latvala
+Miikka Anttila
+Toyota Gazoo Racing WRT
+	2.93	307	105
+10th	
+	Teemu Suninen
+Mikko Markkula
+M-Sport Ford WRT
+	0.79	235	297
+11th	
+	Elfyn Evans
+Daniel Barritt
+M-Sport Ford WRT
+	2.26	109	48
+12th	
+	Takamoto Katsuta
+Marko Salminen
+Tommi Mäkinen Racing
+	0.20	105	525
+13th	
+	Kris Meeke
+Paul Nagle
+Citroën Total Abu Dhabi WRT
+	2.44	92	38
+14th	
+	Pontus Tidemand
+Jonas Andersson
+Škoda Motorsport
+	0.68	78	115
+15th	
+	Ole Christian Veiby
+Stig Rune Skjærmoen
+Škoda Motorsport
+	0.31	52	168
+16th	
+	Mattias Adielsson
+Andreas Johansson
+  
+	0.20	17	85
+17th	
+	Jari Huttunen
+Antti Linnaketo
+Hyundai Motorsport
+	0.65	12	18
+18th	
+	Henning Solberg
+Cato Menkerud
+  
+	0.93	11	12
+19th	
+	Hiroki Arai
+Glenn Macneall
+Tommi Mäkinen Racing
+	0.20	11	55
+20th	
+	Jarkko Nikara
+Sayaka Adachi
+Tommi Mäkinen Racing
+	0.34	8	24
+21st	
+	Janne Tuohino
+Reeta Hämäläinen
+Toksport WRT
+	0.61	6	10
+22nd	
+	Johan Kristoffersson
+Patrik Barth
+  
+	0.20	3	15
+23rd	
+	Kevin Abbring
+Pieter Tsjoen
+  
+	0.45	2	4
+24th	
+	Fredrik Åhlin
+Joakim Sjöberg
+  
+	0.20	1	5
+-	
+	Emil Bergkvist
+Ola Fløene
+  
+	0.20	0	0
+-	
+	Gianluca Linari
+Nicola Arena
+  
+	0.20	0	0
+-	
+	Umberto Scandola
+Andrea Gaspari
+S.A. Motorsport Italia Srl
+	0.22	0	0
+-	
+	Yazeed Al-Rajhi
+Michael Orr
+Yazeed Racing
+	0.20	0	0
+-	
+	Radik Shaymiev
+Maxim Tsvetkov
+TAIF Motorsport
+	0.20	0	0
+-	
+	Yuriy Protasov
+Pavlo Cherepin
+Go+Cars Atlas Ward
+	0.37	0	0
