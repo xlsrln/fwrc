@@ -1,0 +1,161 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Sébastien Loeb
+Daniel Elena
+Citroën Total Abu Dhabi WRT
+	3.70	727	196
+2nd	
+	Sébastien Ogier
+Julien Ingrassia
+M-Sport Ford WRT
+	3.88	631	163
+3rd	
+	Ott Tänak
+Martin Järveoja
+Toyota Gazoo Racing WRT
+	3.67	571	156
+4th	
+	Elfyn Evans
+Daniel Barritt
+M-Sport Ford WRT
+	1.91	535	280
+5th	
+	Dani Sordo
+Carlos del Barrio
+Hyundai Shell Mobis WRT
+	2.54	453	178
+6th	
+	Thierry Neuville
+Nicolas Gilsoul
+Hyundai Shell Mobis WRT
+	3.70	404	109
+7th	
+	Jari-Matti Latvala
+Miikka Anttila
+Toyota Gazoo Racing WRT
+	2.78	364	131
+8th	
+	Esapekka Lappi
+Janne Ferm
+Toyota Gazoo Racing WRT
+	2.34	291	124
+9th	
+	Craig Breen
+Scott Martin
+Citroën Total Abu Dhabi WRT
+	1.90	250	132
+10th	
+	Andreas Mikkelsen
+Anders Jæger
+Hyundai Shell Mobis WRT
+	2.35	233	99
+11th	
+	Teemu Suninen
+Mikko Markkula
+M-Sport Ford WRT
+	1.45	172	119
+12th	
+	Kalle Rovanperä
+Jonne Halttunen
+Škoda Motorsport
+	0.52	106	204
+13th	
+	Jan Kopecký
+Pavel Dresler
+Škoda Motorsport
+	0.99	81	82
+14th	
+	Petter Solberg
+Veronica Gulbæk Engan
+Volkswagen Motorsport
+	2.66	38	14
+16th	
+	Nil Solans
+Marc Martí
+  
+	0.20	32	160
+15th	
+	Eric Camilli
+Benjamin Veillas
+Volkswagen Motorsport
+	0.46	32	70
+17th	
+	Kajetan Kajetanowicz
+Maciej Szczepaniak
+Lotos Rally Team
+	0.43	23	53
+18th	
+	Jari Huttunen
+Antti Linnaketo
+Hyundai Motorsport
+	0.45	9	20
+19th	
+	Fabio Andolfi
+Simone Scattolin
+ACI Team Italia
+	0.23	6	26
+20th	
+	Łukasz Pieniążek
+Przemysław Mazur
+Printsport Oy
+	0.23	6	26
+21st	
+	Pierre-Louis Loubet
+Vincent Landais
+BRC Racing Team
+	0.20	4	20
+22nd	
+	Takamoto Katsuta
+Marko Salminen
+Tommi Mäkinen Racing
+	0.20	3	15
+23rd	
+	Stéphane Lefebvre
+Gabin Moreau
+Citroën Total WRT
+	0.75	2	3
+24th	
+	Henning Solberg
+Ilka Minor
+Toksport WRT
+	0.90	2	2
+25th	
+	José Antonio Suárez
+Cándido Carrera
+  
+	0.20	2	10
+26th	
+	Ole Christian Veiby
+Stig Rune Skjærmoen
+Citroën Total WRT
+	0.33	1	3
+-	
+	Marco Bulacia
+Fabian Cretu
+  
+	0.38	0	0
+-	
+	Ken Block
+Alessandro Gelsomino
+Hoonigan Racing Division
+	0.62	0	0
+-	
+	Simone Tempestini
+Sergiu Itu
+  
+	0.28	0	0
+-	
+	Eamonn Boland
+Michael Joseph Morrissey
+  
+	0.20	0	0
+-	
+	Khalid Al-Qassimi
+Chris Patterson
+Citroën Total Abu Dhabi WRT
+	0.22	0	0
+-	
+	Sylvain Michel
+Anthony Gorguilo
+  
+	0.20	0	0
