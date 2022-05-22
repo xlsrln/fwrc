@@ -1,0 +1,241 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Kalle Rovanperä
+Jonne Halttunen
+Toyota Gazoo Racing WRT
+	3.11	839	270
+2nd	
+	Elfyn Evans
+Scott Martin
+Toyota Gazoo Racing WRT
+	3.39	736	217
+3rd	
+	Dani Sordo
+Cándido Carrera
+Hyundai Shell Mobis WRT
+	3.18	551	173
+4th	
+	Thierry Neuville
+Martijn Wydaeghe
+Hyundai Shell Mobis WRT
+	3.56	531	149
+5th	
+	Ott Tänak
+Martin Järveoja
+Hyundai Shell Mobis WRT
+	3.20	503	157
+6th	
+	Takamoto Katsuta
+Aaron Johnston
+Toyota Gazoo Racing WRT NG
+	1.57	423	269
+7th	
+	Pierre-Louis Loubet
+Vincent Landais
+M-Sport Ford WRT
+	0.53	283	534
+8th	
+	Craig Breen
+Paul Nagle
+M-Sport Ford WRT
+	2.69	269	100
+9th	
+	Adrien Fourmaux
+Alexandre Coria
+M-Sport Ford WRT
+	0.75	216	288
+10th	
+	Yohan Rossel
+Valentin Sarreaud
+PH Sport
+	0.62	135	218
+11th	
+	Gus Greensmith
+Jonas Andersson
+M-Sport Ford WRT
+	1.44	130	90
+12th	
+	Kajetan Kajetanowicz
+Maciej Szczepaniak
+  
+	0.57	111	195
+13th	
+	Sébastien Ogier
+Benjamin Veillas
+Toyota Gazoo Racing WRT
+	4.06	108	27
+14th	
+	Chris Ingram
+Craig Drew
+  
+	0.29	63	217
+15th	
+	Teemu Suninen
+Mikko Markkula
+Hyundai Motorsport N
+	1.37	59	43
+16th	
+	Mikołaj Marczyk
+Szymon Gospodarczyk
+  
+	0.20	55	275
+17th	
+	Sébastien Loeb
+Isabelle Galmiche
+M-Sport Ford WRT
+	3.48	51	15
+18th	
+	Armindo Araújo
+Luís Ramalho
+  
+	0.42	45	107
+19th	
+	Nikolay Gryazin
+Konstantin Aleksandrov
+Toksport WRT 2
+	0.52	43	83
+20th	
+	Oliver Solberg
+Elliott Edmondson
+Hyundai Motorsport N
+	0.80	29	36
+21st	
+	Andreas Mikkelsen
+Torstein Eriksen
+Toksport WRT
+	1.56	21	13
+22nd	
+	Ricardo Teodósio
+José Teixeira
+  
+	0.20	20	100
+23rd	
+	Josh McErlean
+James Fulton
+  
+	0.20	13	65
+24th	
+	Eerik Pietarinen
+Antti Linnaketo
+  
+	0.43	5	12
+25th	
+	Bruno Bulacia
+Marc Martí
+  
+	0.20	5	25
+26th	
+	Martin Prokop
+Michal Ernst
+  
+	0.41	3	7
+29th	
+	Erik Cais
+Petr Těšínský
+Yacco ACCR Team
+	0.31	2	6
+28th	
+	Georg Linnamäe
+James Morgan
+ALM Motorsport
+	0.43	2	5
+27th	
+	Jan Solans
+Rodrigo Sanjuan de Eusebio
+  
+	0.26	2	8
+31st	
+	Emilio Fernández
+Axel Coronado Jiménez
+  
+	0.20	1	5
+30th	
+	Marco Bulacia
+Marcelo Der Ohannesian
+Toksport WRT
+	0.38	1	3
+-	
+	William Creighton
+Liam Regan
+Motorsport Ireland Rally Academy
+	0.20	0	0
+-	
+	Eric Camilli
+Thibault de la Haye
+Saintéloc Junior Team
+	0.52	0	0
+-	
+	Robert Virves
+Aleks Lesk
+Starter Energy Racing
+	0.20	0	0
+-	
+	Sami Pajari
+Enni Mälkönen
+  
+	0.20	0	0
+-	
+	Paulo Nobre
+Gabriel Morales
+  
+	0.20	0	0
+-	
+	Lauri Joona
+Mikael Korhonen
+  
+	0.20	0	0
+-	
+	Pepe López
+Borja Rozada
+  
+	0.25	0	0
+-	
+	Pedro Meireles
+Pedro Alves
+  
+	0.20	0	0
+-	
+	Bruno Magalhães
+Carlos Magalhães
+  
+	0.20	0	0
+-	
+	Miguel Campos
+Nuno Silva
+  
+	0.25	0	0
+-	
+	Diogo Salvi
+Miguel Ramalho
+  
+	0.20	0	0
+-	
+	Benito Guerra Jr.
+Daniel Cué
+  
+	0.24	0	0
+-	
+	Jon Armstrong
+Brian Hoy
+  
+	0.20	0	0
+-	
+	Armin Kremer
+Timo Gottschalk
+  
+	0.20	0	0
+-	
+	Fabrizio Zaldivar
+Carlos del Barrio
+Hyundai Motorsport N
+	0.20	0	0
+-	
+	Stéphane Lefebvre
+Andy Malfoy
+  
+	0.54	0	0
+-	
+	Sean Johnston
+Alexander Kihurani
+Saintéloc Junior Team
+	0.23	0	0
