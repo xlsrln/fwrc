@@ -145,6 +145,12 @@ Toyota Gazoo Racing WRT
 	3.51	487	0	-
 
 
+	Luke Anear
+Andrew Sarandis
+  
+	0.20	28	0	-
+
+
 	Marco Bulacia
 Marcelo Der Ohannesian
 Toksport WRT
@@ -221,3 +227,4 @@ Hyundai Shell Mobis WRT
 Valentin Sarreaud
 PH Sport
 	0.67	93	0	-
+
