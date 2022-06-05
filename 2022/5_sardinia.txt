@@ -1,0 +1,186 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Ott Tänak
+Martin Järveoja
+Hyundai Shell Mobis WRT
+	3.31	736	222
+2nd	
+	Craig Breen
+Paul Nagle
+M-Sport Ford WRT
+	2.65	570	215
+3rd	
+	Dani Sordo
+Cándido Carrera
+Hyundai Shell Mobis WRT
+	3.33	495	149
+4th	
+	Kalle Rovanperä
+Jonne Halttunen
+Toyota Gazoo Racing WRT
+	3.51	463	132
+5th	
+	Pierre-Louis Loubet
+Vincent Landais
+M-Sport Ford WRT
+	0.72	386	536
+6th	
+	Takamoto Katsuta
+Aaron Johnston
+Toyota Gazoo Racing WRT NG
+	1.77	381	215
+7th	
+	Esapekka Lappi
+Janne Ferm
+Toyota Gazoo Racing WRT
+	2.48	265	107
+8th	
+	Gus Greensmith
+Jonas Andersson
+M-Sport Ford WRT
+	1.41	262	186
+9th	
+	Thierry Neuville
+Martijn Wydaeghe
+Hyundai Shell Mobis WRT
+	3.66	259	71
+10th	
+	Elfyn Evans
+Scott Martin
+Toyota Gazoo Racing WRT
+	3.68	242	66
+11th	
+	Nikolay Gryazin
+Konstantin Aleksandrov
+Toksport WRT 2
+	0.50	181	362
+12th	
+	Jari Huttunen
+Mikko Lukka
+M-Sport Ford WRT
+	0.70	159	227
+13th	
+	Jan Solans
+Rodrigo Sanjuan de Eusebio
+  
+	0.24	143	596
+14th	
+	Adrien Fourmaux
+Alexandre Coria
+M-Sport Ford WRT
+	0.86	138	160
+15th	
+	Chris Ingram
+Craig Drew
+  
+	0.31	116	374
+16th	
+	Sami Pajari
+Enni Mälkönen
+  
+	0.20	97	485
+17th	
+	Eerik Pietarinen
+Antti Linnaketo
+  
+	0.39	62	159
+18th	
+	Emilio Fernández
+Axel Coronado Jiménez
+  
+	0.20	45	225
+19th	
+	Yohan Rossel
+Valentin Sarreaud
+PH Sport
+	0.67	42	63
+20th	
+	Andreas Mikkelsen
+Torstein Eriksen
+Toksport WRT
+	1.42	38	27
+21st	
+	Teemu Suninen
+Mikko Markkula
+Hyundai Motorsport N
+	1.28	28	22
+22nd	
+	Mikołaj Marczyk
+Szymon Gospodarczyk
+  
+	0.23	22	96
+23rd	
+	Marco Bulacia
+Marcelo Der Ohannesian
+Toksport WRT
+	0.34	15	44
+24th	
+	Bruno Bulacia
+Marc Martí
+  
+	0.20	9	45
+25th	
+	Josh McErlean
+James Fulton
+  
+	0.20	8	40
+29th	
+	Martin Prokop
+Michal Ernst
+  
+	0.37	6	16
+30th	
+	Georg Linnamäe
+James Morgan
+ALM Motorsport
+	0.39	6	15
+31st	
+	Fabrizio Zaldivar
+Carlos del Barrio
+Hyundai Motorsport N
+	0.20	6	30
+28th	
+	Miguel Díaz-Aboitiz
+Jordi Hereu
+  
+	0.20	6	30
+32nd	
+	Daniel Chwist
+Kamil Heller
+  
+	0.34	6	18
+33rd	
+	Jourdan Serderidis
+Frédéric Miclotte
+  
+	0.22	6	27
+34th	
+	Freddy Loix
+Pieter Tsjoen
+  
+	1.24	6	5
+35th	
+	Erik Cais
+Petr Těšínský
+Yacco ACCR Team
+	0.28	6	21
+27th	
+	Mauro Miele
+Luca Beltrame
+  
+	0.20	6	30
+26th	
+	Enrico Brazzoli
+Manuel Fenoli
+  
+	0.20	6	30
+36th	
+	Luke Anear
+Andrew Sarandis
+  
+	0.20	6	30
+-	
+	Armin Kremer
+Ella Kremer
+  
+	0.20	0	0
