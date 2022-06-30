@@ -1,0 +1,142 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Kalle Rovanperä
+Jonne Halttunen
+Toyota Gazoo Racing WRT
+	3.50	743	212
+2nd	
+	Sébastien Ogier
+Benjamin Veillas
+Toyota Gazoo Racing WRT
+	3.75	638	170
+3rd	
+	Elfyn Evans
+Scott Martin
+Toyota Gazoo Racing WRT
+	3.49	615	176
+4th	
+	Thierry Neuville
+Martijn Wydaeghe
+Hyundai Shell Mobis WRT
+	3.48	611	176
+5th	
+	Takamoto Katsuta
+Aaron Johnston
+Toyota Gazoo Racing WRT NG
+	1.87	522	279
+6th	
+	Sébastien Loeb
+Isabelle Galmiche
+M-Sport Ford WRT
+	3.18	504	158
+7th	
+	Craig Breen
+Paul Nagle
+M-Sport Ford WRT
+	2.80	305	109
+8th	
+	Jourdan Serderidis
+Frédéric Miclotte
+M-Sport Ford WRT
+	0.20	236	1180
+9th	
+	Oliver Solberg
+Elliott Edmondson
+Hyundai Shell Mobis WRT
+	0.74	227	307
+10th	
+	Adrien Fourmaux
+Alexandre Coria
+M-Sport Ford WRT
+	0.88	220	250
+11th	
+	Gus Greensmith
+Jonas Andersson
+M-Sport Ford WRT
+	1.46	213	146
+12th	
+	Kajetan Kajetanowicz
+Maciej Szczepaniak
+  
+	0.61	199	326
+13th	
+	Ott Tänak
+Martin Järveoja
+Hyundai Shell Mobis WRT
+	3.52	187	53
+14th	
+	Sean Johnston
+Alexander Kihurani
+Saintéloc Junior Team
+	0.21	138	657
+15th	
+	Amanraaj Rai
+Gurdeep Panesar
+  
+	0.20	86	430
+16th	
+	Carl Tundo
+Tim Jessop
+  
+	1.22	81	66
+17th	
+	Jasmeet Chana
+Ravinder Chana
+  
+	0.40	35	88
+18th	
+	Karan Patel
+Tauseef Khan
+  
+	0.29	22	76
+19th	
+	Jeremy Wahome
+Victor Okundi
+  
+	0.20	20	100
+20th	
+	Evans Kavisi
+Absalom Aswani
+  
+	0.20	20	100
+21st	
+	Hamza Anwar
+Adnan Din
+  
+	0.20	17	85
+22nd	
+	Aakif Virani
+Azhar Bhatti
+  
+	0.23	15	65
+23rd	
+	Giancarlo Davite
+Sylvia Vindevogel
+  
+	0.20	14	70
+24th	
+	Martin Prokop
+Zdeněk Jůrka
+  
+	0.34	12	35
+25th	
+	Leroy Gomes
+Urshlla Gomes
+  
+	0.20	11	55
+26th	
+	Nikhil Sachania
+Deep Patel
+  
+	0.20	10	50
+27th	
+	Duncan Mubiru
+Musa Nsubuga
+  
+	0.20	5	25
+28th	
+	Gaurav Gill
+Gabriel Morales
+  
+	0.20	5	25
+
