@@ -115,7 +115,7 @@ Gabin Moreau
 Citroën Total WRT
 	0.75	2	3
 24th	
-	Henning Solberg
+	Henning HSolberg
 Ilka Minor
 Toksport WRT
 	0.90	2	2
