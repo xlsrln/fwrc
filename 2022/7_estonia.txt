@@ -1,0 +1,172 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Kalle Rovanperä
+Jonne Halttunen
+Toyota Gazoo Racing WRT
+	3.59	938	261
+2nd	
+	Elfyn Evans
+Scott Martin
+Toyota Gazoo Racing WRT
+	3.51	806	230
+3rd	
+	Ott Tänak
+Martin Järveoja
+Hyundai Shell Mobis WRT
+	3.28	555	169
+4th	
+	Esapekka Lappi
+Janne Ferm
+Toyota Gazoo Racing WRT
+	2.43	495	204
+5th	
+	Takamoto Katsuta
+Aaron Johnston
+Toyota Gazoo Racing WRT NG
+	1.99	449	226
+6th	
+	Thierry Neuville
+Martijn Wydaeghe
+Hyundai Shell Mobis WRT
+	3.50	401	115
+7th	
+	Adrien Fourmaux
+Alexandre Coria
+M-Sport Ford WRT
+	0.92	312	339
+8th	
+	Andreas Mikkelsen
+Torstein Eriksen
+Toksport WRT
+	1.31	307	234
+9th	
+	Oliver Solberg
+Elliott Edmondson
+Hyundai Shell Mobis WRT
+	0.80	188	235
+10th	
+	Teemu Suninen
+Mikko Markkula
+Hyundai Motorsport N
+	1.17	175	150
+11th	
+	Craig Breen
+Paul Nagle
+M-Sport Ford WRT
+	2.70	138	51
+12th	
+	Emil Lindholm
+Reeta Hämäläinen
+Toksport WRT 2
+	0.42	137	326
+13th	
+	Pierre-Louis Loubet
+Vincent Landais
+M-Sport Ford WRT
+	0.93	92	99
+14th	
+	Gus Greensmith
+Jonas Andersson
+M-Sport Ford WRT
+	1.44	88	61
+15th	
+	Jari Huttunen
+Mikko Lukka
+M-Sport Ford WRT
+	0.75	88	117
+16th	
+	Kajetan Kajetanowicz
+Maciej Szczepaniak
+  
+	0.67	65	97
+17th	
+	Marco Bulacia
+Diego Vallejo
+Toksport WRT
+	0.32	38	119
+18th	
+	Emilio Fernández
+Axel Coronado Jiménez
+  
+	0.21	36	171
+19th	
+	Egon Kaur
+Silver Simm
+  
+	0.25	34	136
+20th	
+	Georg Linnamäe
+James Morgan
+ALM Motorsport
+	0.36	24	67
+21st	
+	Robert Virves
+Julia Thulin
+Starter Energy Racing
+	0.20	5	25
+22nd	
+	Roope Korhonen
+Ansii Viinikka
+  
+	0.20	3	15
+23rd	
+	Fabrizio Zaldivar
+Carlos del Barrio
+Hyundai Motorsport N
+	0.20	1	5
+-	
+	Jon Armstrong
+Brian Hoy
+  
+	0.20	0	0
+-	
+	Josh McErlean
+James Fulton
+  
+	0.20	0	0
+-	
+	Hayden Paddon
+John Kennard
+  
+	2.04	0	0
+-	
+	Lauri Joona
+Mikael Korhonen
+  
+	0.20	0	0
+-	
+	Bruno Bulacia
+Marc Martí
+  
+	0.20	0	0
+-	
+	Sami Pajari
+Enni Mälkönen
+  
+	0.25	0	0
+-	
+	Sean Johnston
+Alexander Kihurani
+Saintéloc Junior Team
+	0.27	0	0
+-	
+	Mikołaj Marczyk
+Szymon Gospodarczyk
+  
+	0.22	0	0
+-	
+	William Creighton
+Liam Regan
+Motorsport Ireland Rally Academy
+	0.20	0	0
+-	
+	Luke Anear
+Andrew Sarandis
+  
+	0.20	0	0
+-	
+	Mauro Miele
+Luca Beltrame
+  
+	0.20	0	0
+
