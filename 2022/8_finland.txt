@@ -1,193 +1,176 @@
-	Driver Name	Cost	Expected	Actual 	Price Adj
-
-
-	Adrien Fourmaux
-Alexandre Coria
+Pos		Driver	Cost	Score	PPM
+1st	
+	Sébastien Loeb
+Isabelle Galmiche
 M-Sport Ford WRT
-	1.01	147	0	-
-
-
-	Andreas Mikkelsen
-Torstein Eriksen
-Toksport WRT
-	1.38	201	0	-
-
-
-	Armin Kremer
-Timo Gottschalk
-  
-	0.20	29	0	-
-
-
-	Bernd Casier
-Pieter Vyncke
-Autostal Atlantic
-	0.31	45	0	-
-
-
-	Chris Ingram
-Craig Drew
-  
-	0.36	53	0	-
-
-
-	Craig Breen
-Paul Nagle
-M-Sport Ford WRT
-	2.43	355	0	-
-
-
-	Davy Vanneste
-Kris D'alleine
-  
-	0.20	29	0	-
-
-
-	Eamonn Boland
-Michael Joseph Morrissey
-  
-	0.20	29	0	-
-
-
-	Elfyn Evans
-Scott Martin
+	3.23	784	243
+2nd	
+	Sébastien Ogier
+Benjamin Veillas
 Toyota Gazoo Racing WRT
-	3.70	540	0	-
-
-
-	Enrico Brazzoli
-Manuel Fenoli
-  
-	0.20	29	0	-
-
-
-	Esapekka Lappi
-Janne Ferm
-Toyota Gazoo Racing WRT
-	2.61	381	0	-
-
-
-	Freddy Loix
-Pieter Tsjoen
-  
-	1.01	147	0	-
-
-
-	Georg Linnamäe
-James Morgan
-ALM Motorsport
-	0.34	50	0	-
-
-
-	Grégoire Munster
-Louis Louka
-  
-	0.27	39	0	-
-
-
-	Gus Greensmith
-Jonas Andersson
-M-Sport Ford WRT
-	1.40	204	0	-
-
-
-	Jari Huttunen
-Mikko Lukka
-M-Sport Ford WRT
-	0.80	117	0	-
-
-
-	Josh McErlean
-James Fulton
-  
-	0.20	29	0	-
-
-
+	3.94	706	179
+3rd	
 	Kalle Rovanperä
 Jonne Halttunen
 Toyota Gazoo Racing WRT
-	3.98	581	0	-
-
-
-	Marco Bulacia
-Diego Vallejo
-Toksport WRT
-	0.31	45	0	-
-
-
-	Miguel Díaz-Aboitiz
-Jordi Hereu
-  
-	0.20	29	0	-
-
-
-	Nikolay Gryazin
-Konstantin Aleksandrov
-Toksport WRT 2
-	0.52	76	0	-
-
-
-	Oliver Solberg
-Elliott Edmondson
-Hyundai Shell Mobis WRT
-	0.76	111	0	-
-
-
-	Olivier Burri
-Anderson Levratti
-  
-	0.29	42	0	-
-
-
-	Ott Tänak
-Martin Järveoja
-Hyundai Shell Mobis WRT
-	3.55	518	0	-
-
-
-	Pieter Jan Michiel Cracco
-Jasper Vermeulen
-  
-	0.94	137	0	-
-
-
-	Sami Pajari
-Enni Mälkönen
-  
-	0.22	32	0	-
-
-
-	Sébastien Bedoret
-François Gilbert
-  
-	0.26	38	0	-
-
-
-	Stéphane Lefebvre
-Xavier Portier
-  
-	0.49	72	0	-
-
-
-	Takamoto Katsuta
-Aaron Johnston
-Toyota Gazoo Racing WRT NG
-	2.10	307	0	-
-
-
+	2.51	546	218
+4th	
 	Thierry Neuville
 Martijn Wydaeghe
 Hyundai Shell Mobis WRT
-	3.39	495	0	-
-
-
-	Vincent Verschueren
-Filip Cuvelier
-  
-	0.79	115	0	-
-
-
+	3.55	449	126
+5th	
+	Craig Breen
+Paul Nagle
+M-Sport Ford WRT
+	2.79	442	158
+6th	
+	Gus Greensmith
+Jonas Andersson
+M-Sport Ford WRT
+	1.33	345	259
+7th	
+	Elfyn Evans
+Scott Martin
+Toyota Gazoo Racing WRT
+	3.78	337	89
+8th	
+	Takamoto Katsuta
+Aaron Johnston
+Toyota Gazoo Racing WRT NG
+	1.36	274	201
+9th	
+	Andreas Mikkelsen
+Torstein Eriksen
+Toksport WRT
+	1.60	208	130
+10th	
+	Nikolay Gryazin
+Konstantin Aleksandrov
+Toksport WRT 2
+	0.45	148	329
+11th	
+	Erik Cais
+Petr Těšínský
+Yacco ACCR Team
+	0.22	147	668
+12th	
+	Ott Tänak
+Martin Järveoja
+Hyundai Shell Mobis WRT
+	3.43	109	32
+13th	
 	Yohan Rossel
-Valentin Sarreaud
+Benjamin Boulloud
 PH Sport
-	0.63	92	0	-
+	0.52	102	196
+14th	
+	Oliver Solberg
+Elliott Edmondson
+Hyundai Shell Mobis WRT
+	0.69	102	148
+15th	
+	Grégoire Munster
+Louis Louka
+  
+	0.24	96	400
+16th	
+	Sean Johnston
+Alexander Kihurani
+Saintéloc Junior Team
+	0.20	95	475
+17th	
+	Chris Ingram
+Ross Whittock
+  
+	0.21	70	333
+18th	
+	Raphaël Astier
+Frédéric Vauclare
+  
+	0.20	34	170
+19th	
+	Stéphane Lefebvre
+Renaud Jamoul
+DG Sport
+	0.56	28	50
+20th	
+	Adrien Fourmaux
+Alexandre Coria
+M-Sport Ford WRT
+	0.92	23	25
+21st	
+	Eric Camilli
+Yannick Roche
+Saintéloc Junior Team
+	0.57	14	25
+22nd	
+	Marco Bulacia
+Marcelo Der Ohannesian
+Toksport WRT
+	0.46	12	26
+23rd	
+	Elwis Chentre
+Massimiliano Bay
+  
+	0.20	10	50
+24th	
+	Alessandro Gino
+Daniele Michi
+  
+	0.20	10	50
+26th	
+	Matteo Gamba
+Nicolò Gonella
+  
+	0.70	9	13
+25th	
+	Mauro Miele
+Luca Beltrame
+  
+	0.20	9	45
+27th	
+	Freddy Loix
+Pieter Tsjoen
+  
+	1.37	8	6
+29th	
+	Olivier Burri
+Anderson Levratti
+  
+	0.35	7	20
+30th	
+	Jason Bailey
+Shayne Peterson
+  
+	0.20	7	35
+31st	
+	Marijan Griebel
+Alexander Rath
+  
+	0.34	7	21
+32nd	
+	Eamonn Boland
+Michael Joseph Morrissey
+  
+	0.20	7	35
+33rd	
+	François Delecour
+Jean-Rodolphe Guigonnet
+  
+	0.59	7	12
+28th	
+	Enrico Brazzoli
+Manuel Fenoli
+  
+	0.20	7	35
+34th	
+	Johannes Keferböck
+Ilka Minor
+  
+	0.20	7	35
+35th	
+	Pierre Ragues
+Julien Pesenti
+Yacco ACCR Team
+	0.20	7	35
