@@ -1,176 +1,152 @@
 Pos		Driver	Cost	Score	PPM
 1st	
-	Sébastien Loeb
-Isabelle Galmiche
-M-Sport Ford WRT
-	3.23	784	243
-2nd	
-	Sébastien Ogier
-Benjamin Veillas
-Toyota Gazoo Racing WRT
-	3.94	706	179
-3rd	
-	Kalle Rovanperä
-Jonne Halttunen
-Toyota Gazoo Racing WRT
-	2.51	546	218
-4th	
-	Thierry Neuville
-Martijn Wydaeghe
-Hyundai Shell Mobis WRT
-	3.55	449	126
-5th	
-	Craig Breen
-Paul Nagle
-M-Sport Ford WRT
-	2.79	442	158
-6th	
-	Gus Greensmith
-Jonas Andersson
-M-Sport Ford WRT
-	1.33	345	259
-7th	
-	Elfyn Evans
-Scott Martin
-Toyota Gazoo Racing WRT
-	3.78	337	89
-8th	
-	Takamoto Katsuta
-Aaron Johnston
-Toyota Gazoo Racing WRT NG
-	1.36	274	201
-9th	
-	Andreas Mikkelsen
-Torstein Eriksen
-Toksport WRT
-	1.60	208	130
-10th	
-	Nikolay Gryazin
-Konstantin Aleksandrov
-Toksport WRT 2
-	0.45	148	329
-11th	
-	Erik Cais
-Petr Těšínský
-Yacco ACCR Team
-	0.22	147	668
-12th	
 	Ott Tänak
 Martin Järveoja
 Hyundai Shell Mobis WRT
-	3.43	109	32
-13th	
-	Yohan Rossel
-Benjamin Boulloud
-PH Sport
-	0.52	102	196
-14th	
-	Oliver Solberg
-Elliott Edmondson
+	3.32	888	267
+2nd	
+	Kalle Rovanperä
+Jonne Halttunen
+Toyota Gazoo Racing WRT
+	3.85	819	213
+3rd	
+	Elfyn Evans
+Scott Martin
+Toyota Gazoo Racing WRT
+	3.69	601	163
+4th	
+	Esapekka Lappi
+Janne Ferm
+Toyota Gazoo Racing WRT
+	2.51	559	223
+5th	
+	Thierry Neuville
+Martijn Wydaeghe
 Hyundai Shell Mobis WRT
-	0.69	102	148
-15th	
-	Grégoire Munster
-Louis Louka
-  
-	0.24	96	400
-16th	
-	Sean Johnston
-Alexander Kihurani
-Saintéloc Junior Team
-	0.20	95	475
-17th	
-	Chris Ingram
-Ross Whittock
-  
-	0.21	70	333
-18th	
-	Raphaël Astier
-Frédéric Vauclare
-  
-	0.20	34	170
-19th	
-	Stéphane Lefebvre
-Renaud Jamoul
-DG Sport
-	0.56	28	50
-20th	
+	3.42	498	146
+6th	
+	Takamoto Katsuta
+Aaron Johnston
+Toyota Gazoo Racing WRT NG
+	2.09	354	169
+7th	
+	Gus Greensmith
+Jonas Andersson
+M-Sport Ford WRT
+	1.35	294	218
+8th	
+	Craig Breen
+Paul Nagle
+M-Sport Ford WRT
+	2.52	262	104
+9th	
+	Jari Huttunen
+Mikko Lukka
+M-Sport Ford WRT
+	0.73	220	301
+10th	
+	Teemu Suninen
+Mikko Markkula
+Hyundai Motorsport N
+	1.17	198	169
+11th	
+	Emil Lindholm
+Reeta Hämäläinen
+Toksport WRT 2
+	0.47	171	364
+12th	
+	Pierre-Louis Loubet
+Vincent Landais
+M-Sport Ford WRT
+	0.90	145	161
+13th	
 	Adrien Fourmaux
 Alexandre Coria
 M-Sport Ford WRT
-	0.92	23	25
+	1.03	125	121
+14th	
+	Egon Kaur
+Silver Simm
+  
+	0.25	98	392
+15th	
+	Hayden Paddon
+John Kennard
+  
+	1.84	73	40
+16th	
+	Teemu Asunmaa
+Ville Mannisenmäki
+  
+	0.33	45	136
+17th	
+	Eerik Pietarinen
+Antti Linnaketo
+  
+	0.40	42	105
+18th	
+	Sami Pajari
+Enni Mälkönen
+  
+	0.22	38	173
+19th	
+	Mikko Heikkilä
+Samu Vaaleri
+  
+	0.20	26	130
+20th	
+	Mikołaj Marczyk
+Szymon Gospodarczyk
+  
+	0.20	16	80
 21st	
-	Eric Camilli
-Yannick Roche
-Saintéloc Junior Team
-	0.57	14	25
-22nd	
-	Marco Bulacia
+	Oliver Solberg
+Elliott Edmondson
+Hyundai Shell Mobis WRT
+	0.84	4	5
+-	
+	Fabrizio Zaldivar
 Marcelo Der Ohannesian
-Toksport WRT
-	0.46	12	26
-23rd	
-	Elwis Chentre
-Massimiliano Bay
+Hyundai Motorsport N
+	0.20	0	0
+-	
+	Josh McErlean
+James Fulton
   
-	0.20	10	50
-24th	
-	Alessandro Gino
-Daniele Michi
+	0.20	0	0
+-	
+	Gaurav Gill
+Gabriel Morales
   
-	0.20	10	50
-26th	
-	Matteo Gamba
-Nicolò Gonella
+	0.20	0	0
+-	
+	Martin Prokop
+Michal Ernst
   
-	0.70	9	13
-25th	
-	Mauro Miele
-Luca Beltrame
+	0.31	0	0
+-	
+	Fabio Frisiero
+Giovanni Agnese
   
-	0.20	9	45
-27th	
+	0.20	0	0
+-	
+	Riku Tahko
+Sami Ryynänen
+  
+	0.20	0	0
+-	
 	Freddy Loix
 Pieter Tsjoen
   
-	1.37	8	6
-29th	
-	Olivier Burri
-Anderson Levratti
+	1.12	0	0
+-	
+	Lauri Joona
+Tuukka Shemeikka
   
-	0.35	7	20
-30th	
-	Jason Bailey
-Shayne Peterson
-  
-	0.20	7	35
-31st	
-	Marijan Griebel
-Alexander Rath
-  
-	0.34	7	21
-32nd	
-	Eamonn Boland
-Michael Joseph Morrissey
-  
-	0.20	7	35
-33rd	
-	François Delecour
-Jean-Rodolphe Guigonnet
-  
-	0.59	7	12
-28th	
-	Enrico Brazzoli
-Manuel Fenoli
-  
-	0.20	7	35
-34th	
-	Johannes Keferböck
-Ilka Minor
-  
-	0.20	7	35
-35th	
-	Pierre Ragues
-Julien Pesenti
-Yacco ACCR Team
-	0.20	7	35
+	0.20	0	0
+-	
+	Nikolay Gryazin
+Konstantin Aleksandrov
+Toksport WRT 2
+	0.58	0	0
+
