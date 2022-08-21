@@ -1,0 +1,181 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Ott Tänak
+Martin Järveoja
+Hyundai Shell Mobis WRT
+	3.55	820	231
+2nd	
+	Elfyn Evans
+Scott Martin
+Toyota Gazoo Racing WRT
+	3.70	779	211
+3rd	
+	Esapekka Lappi
+Janne Ferm
+Toyota Gazoo Racing WRT
+	2.61	449	172
+4th	
+	Thierry Neuville
+Martijn Wydaeghe
+Hyundai Shell Mobis WRT
+	3.39	422	124
+5th	
+	Takamoto Katsuta
+Aaron Johnston
+Toyota Gazoo Racing WRT NG
+	2.10	412	196
+6th	
+	Kalle Rovanperä
+Jonne Halttunen
+Toyota Gazoo Racing WRT
+	3.98	368	92
+7th	
+	Oliver Solberg
+Elliott Edmondson
+Hyundai Shell Mobis WRT
+	0.76	344	453
+8th	
+	Stéphane Lefebvre
+Xavier Portier
+  
+	0.49	232	473
+9th	
+	Andreas Mikkelsen
+Torstein Eriksen
+Toksport WRT
+	1.38	209	151
+10th	
+	Yohan Rossel
+Valentin Sarreaud
+PH Sport
+	0.63	169	268
+11th	
+	Adrien Fourmaux
+Alexandre Coria
+M-Sport Ford WRT
+	1.01	157	155
+12th	
+	Chris Ingram
+Craig Drew
+  
+	0.36	155	431
+13th	
+	Nikolay Gryazin
+Konstantin Aleksandrov
+Toksport WRT 2
+	0.52	121	233
+14th	
+	Gus Greensmith
+Jonas Andersson
+M-Sport Ford WRT
+	1.40	119	85
+15th	
+	Craig Breen
+Paul Nagle
+M-Sport Ford WRT
+	2.43	115	47
+16th	
+	Grégoire Munster
+Louis Louka
+  
+	0.27	105	389
+17th	
+	Vincent Verschueren
+Filip Cuvelier
+  
+	0.79	66	84
+18th	
+	Gino Bux
+Nicolas Gilsoul
+  
+	0.20	61	305
+19th	
+	Maxime Potty
+Renaud Herman
+  
+	0.20	33	165
+20th	
+	Sébastien Bedoret
+François Gilbert
+  
+	0.26	16	62
+21st	
+	Jari Huttunen
+Mikko Lukka
+M-Sport Ford WRT
+	0.81	6	7
+22nd	
+	Georg Linnamäe
+James Morgan
+ALM Motorsport
+	0.34	6	18
+23rd	
+	Alejandro Cachón
+Ángel Luis Vela
+Citroën Rally Team
+	0.20	5	25
+24th	
+	Freddy Loix
+Pieter Tsjoen
+  
+	1.01	3	3
+25th	
+	Davy Vanneste
+Kris D'alleine
+  
+	0.20	2	10
+26th	
+	Jos Verstappen
+Harm van Koppen
+  
+	0.20	1	5
+-	
+	Eamonn Boland
+Michael Joseph Morrissey
+  
+	0.20	0	0
+-	
+	Josh McErlean
+James Fulton
+  
+	0.20	0	0
+-	
+	Pieter Jan Michiel Cracco
+Jasper Vermeulen
+  
+	0.94	0	0
+-	
+	Bernd Casier
+Pieter Vyncke
+Autostal Atlantic
+	0.31	0	0
+-	
+	Armin Kremer
+Timo Gottschalk
+  
+	0.20	0	0
+-	
+	Sami Pajari
+Enni Mälkönen
+  
+	0.22	0	0
+-	
+	Olivier Burri
+Anderson Levratti
+  
+	0.29	0	0
+-	
+	Marco Bulacia
+Diego Vallejo
+Toksport WRT
+	0.31	0	0
+-	
+	Miguel Díaz-Aboitiz
+Jordi Hereu
+  
+	0.20	0	0
+-	
+	Enrico Brazzoli
+Manuel Fenoli
+  
+	0.20	0	0
