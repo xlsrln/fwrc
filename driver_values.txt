@@ -1,223 +1,110 @@
 Driver Name	Cost	Expected	Actual 	Price Adj
 
 
-	Alexandros Tsouloftas
-Ross Whittock
-  
-	0.20	24	0	-
-
-
-	Andreas Mikkelsen
-Torstein Eriksen
-Toksport WRT
-	1.39	168	0	-
+	Adrien Fourmaux
+Alexandre Coria
+M-Sport Ford WRT
+	1.02	160	0	-
 
 
 	Armin Kremer
-Timo Gottschalk
-  
-	0.20	24	0	-
-
-
-	Bruno Bulacia
-Marc Martí
-  
-	0.20	24	0	-
-
-
-	Chris Ingram
-Craig Drew
-  
-	0.43	52	0	-
+Ella Kremer
+Saintéloc Junior Team
+	0.20	31	0	-
 
 
 	Craig Breen
 Paul Nagle
 M-Sport Ford WRT
-	2.27	274	0	-
-
-
-	Dani Sordo
-Cándido Carrera
-Hyundai Shell Mobis WRT
-	3.36	405	0	-
-
-
-	Diogo Salvi
-Hugo Magalhães
-  
-	0.20	24	0	-
+	2.40	375	0	-
 
 
 	Elfyn Evans
 Scott Martin
 Toyota Gazoo Racing WRT
-	3.87	466	0	-
-
-
-	Emil Lindholm
-Reeta Hämäläinen
-Toksport WRT 2
-	0.54	65	0	-
-
-
-	Esapekka Lappi
-Janne Ferm
-Toyota Gazoo Racing WRT
-	2.66	321	0	-
-
-
-	Eyvind Brynildsen
- 
-Toksport WRT
-	0.21	25	0	-
-
-
-	Fabrizio Zaldivar
-Marcelo Der Ohannesian
-Hyundai Motorsport N
-	0.20	24	0	-
-
-
-	Gaurav Gill
-Gabriel Morales
-  
-	0.20	24	0	-
-
-
-	Georg Linnamäe
-James Morgan
-ALM Motorsport
-	0.31	37	0	-
-
-
-	Grégoire Munster
-Louis Louka
-  
-	0.32	39	0	-
+	3.61	565	0	-
 
 
 	Gus Greensmith
 Jonas Andersson
 M-Sport Ford WRT
-	1.34	162	0	-
+	1.39	217	0	-
 
 
-	Jon Armstrong
-Brian Hoy
+	Harry Bates
+John McCarthy
   
-	0.20	24	0	-
+	0.20	31	0	-
 
 
-	Jorge Martínez Fontena
-Alberto Alvarez Nicholson
+	Hayden Paddon
+John Kennard
   
-	0.20	24	0	-
+	1.71	267	0	-
 
 
-	Jourdan Serderidis
-Frédéric Miclotte
-M-Sport Ford WRT
-	0.32	39	0	-
+	Kajetan Kajetanowicz
+Maciej Szczepaniak
+  
+	0.65	102	0	-
 
 
 	Kalle Rovanperä
 Jonne Halttunen
 Toyota Gazoo Racing WRT
-	3.84	463	0	-
+	3.65	571	0	-
 
 
-	Lambros Athanassoulas
-Nikolaos Zakheos
+	Lorenzo Bertelli
+Simone Scattolin
+M-Sport Ford WRT
+	0.41	64	0	-
+
+
+	Luke Anear
+Andrew Sarandis
   
-	0.20	24	0	-
-
-
-	Lauri Joona
-Mikael Korhonen
-  
-	0.20	24	0	-
-
-
-	Martin Prokop
-Michal Ernst
-  
-	0.28	34	0	-
-
-
-	Mauro Miele
-Luca Beltrame
-  
-	0.20	24	0	-
+	0.20	31	0	-
 
 
 	Miguel Díaz-Aboitiz
 Jordi Hereu
   
-	0.20	24	0	-
+	0.20	31	0	-
 
 
-	Nikolay Gryazin
-Konstantin Aleksandrov
-Toksport WRT 2
-	0.55	66	0	-
+	Oliver Solberg
+Elliott Edmondson
+Hyundai Shell Mobis WRT
+	0.92	144	0	-
 
 
 	Ott Tänak
 Martin Järveoja
 Hyundai Shell Mobis WRT
-	3.77	454	0	-
+	3.96	619	0	-
 
 
-	Pierre-Louis Loubet
-Vincent Landais
-M-Sport Ford WRT
-	0.90	108	0	-
-
-
-	Robert Virves
-Julia Thulin
-Starter Energy Racing
-	0.20	24	0	-
-
-
-	Sami Pajari
-Enni Mälkönen
+	Raana Horan
+Michael Connor
   
-	0.20	24	0	-
+	0.20	31	0	-
 
 
-	Sébastien Loeb
-Isabelle Galmiche
-M-Sport Ford WRT
-	3.16	381	0	-
+	Sébastien Ogier
+Benjamin Veillas
+Toyota Gazoo Racing WRT
+	3.75	587	0	-
 
 
 	Takamoto Katsuta
 Aaron Johnston
 Toyota Gazoo Racing WRT NG
-	2.18	263	0	-
-
-
-	Teemu Suninen
-Mikko Markkula
-Hyundai Motorsport N
-	1.14	137	0	-
+	2.15	336	0	-
 
 
 	Thierry Neuville
 Martijn Wydaeghe
 Hyundai Shell Mobis WRT
-	3.35	404	0	-
+	3.55	555	0	-
 
-
-	William Creighton
-Liam Regan
-Motorsport Ireland Rally Academy
-	0.20	24	0	-
-
-
-	Yohan Rossel
-Valentin Sarreaud
-PH Sport
-	0.68	82	0	-
