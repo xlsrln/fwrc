@@ -1,10 +1,4 @@
-Driver Name	Cost	Expected	Actual 	Price Adj
-
-
-	Adrien Fourmaux
-Alexandre Coria
-M-Sport Ford WRT
-	1.02	160	0	-
+	Driver Name	Cost	Expected	Actual 	Price Adj
 
 
 	Armin Kremer
@@ -16,7 +10,7 @@ Saintéloc Junior Team
 	Craig Breen
 Paul Nagle
 M-Sport Ford WRT
-	2.40	375	0	-
+	2.39	374	0	-
 
 
 	Elfyn Evans
@@ -97,6 +91,12 @@ Toyota Gazoo Racing WRT
 	3.75	587	0	-
 
 
+	Shane van Gisbergen
+Glen Weston
+  
+	0.20	31	0	-
+
+
 	Takamoto Katsuta
 Aaron Johnston
 Toyota Gazoo Racing WRT NG
@@ -108,3 +108,8 @@ Martijn Wydaeghe
 Hyundai Shell Mobis WRT
 	3.55	555	0	-
 
+
+	Todd Bawden
+Paul Burborough
+  
+	0.20	31	0	-
