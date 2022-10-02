@@ -1,0 +1,126 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Kalle Rovanperä
+Jonne Halttunen
+Toyota Gazoo Racing WRT
+	3.65	805	221
+2nd	
+	Sébastien Ogier
+Benjamin Veillas
+Toyota Gazoo Racing WRT
+	3.75	664	177
+3rd	
+	Ott Tänak
+Martin Järveoja
+Hyundai Shell Mobis WRT
+	3.96	627	158
+4th	
+	Thierry Neuville
+Martijn Wydaeghe
+Hyundai Shell Mobis WRT
+	3.55	468	132
+5th	
+	Oliver Solberg
+Elliott Edmondson
+Hyundai Shell Mobis WRT
+	0.92	411	447
+6th	
+	Hayden Paddon
+John Kennard
+  
+	1.71	234	137
+7th	
+	Lorenzo Bertelli
+Lorenzo Granai
+M-Sport Ford WRT
+	0.41	211	515
+8th	
+	Craig Breen
+Paul Nagle
+M-Sport Ford WRT
+	2.39	188	79
+9th	
+	Kajetan Kajetanowicz
+Maciej Szczepaniak
+  
+	0.65	179	275
+10th	
+	Elfyn Evans
+Scott Martin
+Toyota Gazoo Racing WRT
+	3.61	165	46
+11th	
+	Shane van Gisbergen
+Glen Weston
+  
+	0.20	151	755
+12th	
+	Gus Greensmith
+Jonas Andersson
+M-Sport Ford WRT
+	1.39	133	96
+13th	
+	Harry Bates
+John McCarthy
+  
+	0.20	131	655
+14th	
+	Takamoto Katsuta
+Aaron Johnston
+Toyota Gazoo Racing WRT NG
+	2.15	104	48
+15th	
+	Matt Summerfield
+Nicole Summerfield
+  
+	0.20	88	440
+16th	
+	Armin Kremer
+Ella Kremer
+Saintéloc Junior Team
+	0.20	67	335
+17th	
+	Todd Bawden
+Paul Burborough
+  
+	0.20	47	235
+18th	
+	Luke Anear
+Andrew Sarandis
+  
+	0.20	33	165
+19th	
+	Ben Hunt
+Tony Rawstorn
+  
+	0.20	23	115
+20th	
+	Hayden Mackenzie
+Michael Goudie
+  
+	0.20	16	80
+21st	
+	Kingsley Jones
+Waverley Jones
+  
+	0.20	5	25
+22nd	
+	Jack Hawkeswood
+Sarah Brennan
+  
+	0.20	5	25
+23rd	
+	Miguel Díaz-Aboitiz
+Jordi Hereu
+  
+	0.20	1	5
+24th	
+	Robbie Stokes
+Amy Stokes
+  
+	0.20	1	5
+-	
+	Raana Horan
+Michael Connor
+  
+	0.20	0	0
