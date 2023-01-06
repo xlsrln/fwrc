@@ -1,145 +1,103 @@
-	Driver Name	Cost	Expected	Actual 	Price Adj
-
+	Driver	Score	Before	After	Change
 
 	Adrien Fourmaux
 Alexandre Coria
+Ford Fiesta Rally2
 M-Sport Ford WRT
-	1.11	159	0	-
+	-	1.11	-	-
 
-
-	Bruno Bulacia
-Gabriel Morales
-Toksport WRT 2
-	0.20	29	0	-
-
+	Alejandro Cachón
+Alejandro López Fernández
+Citroën C3 Rally2
+Sports & You
+	-	0.20	-	-
 
 	Craig Breen
 James Fulton
-M-Sport Ford WRT
-	2.24	321	0	-
-
+Hyundai i20 N Rally1
+Hyundai Shell Mobis WRT
+	-	2.19	-	-
 
 	Dani Sordo
 Cándido Carrera
+Hyundai i20 N Rally1
 Hyundai Shell Mobis WRT
-	3.40	487	0	-
-
-
-	Eamonn Boland
-Michael Joseph Morrissey
-  
-	0.20	29	0	-
-
+	-	3.06	-	-
 
 	Elfyn Evans
 Scott Martin
+Toyota GR Yaris Rally1
 Toyota Gazoo Racing WRT
-	3.28	470	0	-
+	-	3.22	-	-
 
+	Erik Cais
+Petr Těšínský
+Škoda Fabia Rally2
+  
+	-	0.26	-	-
 
-	Emil Lindholm
-Reeta Hämäläinen
+	Esapekka Lappi
+Janne Ferm
+Hyundai i20 N Rally1
+Hyundai Shell Mobis WRT
+	-	2.61	-	-
+
+	François Delecour
+Sabrina De Castelli
+Škoda Fabia Rally2
 Toksport WRT
-	0.63	90	0	-
-
-
-	Fabrizio Zaldivar
-Marcelo Der Ohannesian
-Hyundai Motorsport N
-	0.22	32	0	-
-
+	-	0.54	-	-
 
 	Grégoire Munster
 Louis Louka
-  
-	0.27	39	0	-
-
-
-	Gus Greensmith
-Jonas Andersson
+Ford Fiesta Rally2
 M-Sport Ford WRT
-	1.27	182	0	-
-
-
-	Heikki Kovalainen
-Sae Kitagawa
-  
-	0.20	29	0	-
-
-
-	Hiroki Arai
-Ilka Minor
-Ahead Japan Racing Team
-	0.20	29	0	-
-
+	-	0.39	-	-
 
 	Jourdan Serderidis
-Frédéric Miclotte
+ 
+Ford Puma Rally1
 M-Sport Ford WRT
-	0.26	37	0	-
-
-
-	Kajetan Kajetanowicz
-Maciej Szczepaniak
-  
-	0.64	92	0	-
-
+	-	0.23	-	-
 
 	Kalle Rovanperä
 Jonne Halttunen
+Toyota GR Yaris Rally1
 Toyota Gazoo Racing WRT
-	3.91	560	0	-
+	-	3.66	-	-
 
-
-	Luke Anear
-Andrew Sarandis
-  
-	0.20	29	0	-
-
-
-	Mauro Miele
-Luca Beltrame
-Toksport WRT 2
-	0.20	29	0	-
-
+	Oliver Solberg
+Elliott Edmondson
+Škoda Fabia Rally2
+Toksport WRT
+	-	1.09	-	-
 
 	Ott Tänak
 Martin Järveoja
-Hyundai Shell Mobis WRT
-	3.98	570	0	-
+Ford Puma Rally1
+M-Sport World Rally Team
+	-	3.93	-	-
 
-
-	Sami Pajari
-Enni Mälkönen
-Toksport WRT
-	0.20	29	0	-
-
-
-	Sean Johnston
-Alexander Kihurani
-Saintéloc Junior Team
-	0.24	34	0	-
-
+	Pierre-Louis Loubet
+Nicolas Gilsoul
+Ford Puma Rally1
+M-Sport Ford WRT
+	-	1.17	-	-
 
 	Sébastien Ogier
-Benjamin Veillas
+Vincent Landais
+Toyota GR Yaris Rally1
 Toyota Gazoo Racing WRT
-	4.06	581	0	-
-
+	-	3.97	-	-
 
 	Takamoto Katsuta
 Aaron Johnston
-Toyota Gazoo Racing WRT NG
-	2.03	291	0	-
-
-
-	Teemu Suninen
-Mikko Markkula
-Hyundai Motorsport N
-	1.05	150	0	-
-
+Toyota GR Yaris Rally1
+Toyota Gazoo Racing WRT
+	-	2.10	-	-
 
 	Thierry Neuville
 Martijn Wydaeghe
+Hyundai i20 N Rally1
 Hyundai Shell Mobis WRT
-	3.70	530	0	-
+	-	3.84	-	-
