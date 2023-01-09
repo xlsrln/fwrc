@@ -1,103 +1,205 @@
-	Driver	Score	Before	After	Change
+	Driver Name	Cost	Expected	Actual 	Price Adj
+
 
 	Adrien Fourmaux
 Alexandre Coria
-Ford Fiesta Rally2
 M-Sport Ford WRT
-	-	1.11	-	-
+	1.11	154	0	-
+
 
 	Alejandro Cachón
 Alejandro López Fernández
-Citroën C3 Rally2
-Sports & You
-	-	0.20	-	-
+  
+	0.20	28	0	-
 
-	Craig Breen
-James Fulton
-Hyundai i20 N Rally1
-Hyundai Shell Mobis WRT
-	-	2.19	-	-
+
+	Alessandro Gino
+Daniele Michi
+  
+	0.20	28	0	-
+
+
+	Chris Ingram
+Craig Drew
+  
+	0.39	54	0	-
+
 
 	Dani Sordo
 Cándido Carrera
-Hyundai i20 N Rally1
 Hyundai Shell Mobis WRT
-	-	3.06	-	-
+	3.06	424	0	-
+
+
+	Eamonn Boland
+Michael Joseph Morrissey
+  
+	0.20	28	0	-
+
 
 	Elfyn Evans
 Scott Martin
-Toyota GR Yaris Rally1
 Toyota Gazoo Racing WRT
-	-	3.22	-	-
+	3.22	446	0	-
+
 
 	Erik Cais
 Petr Těšínský
-Škoda Fabia Rally2
   
-	-	0.26	-	-
+	0.26	36	0	-
+
 
 	Esapekka Lappi
 Janne Ferm
-Hyundai i20 N Rally1
 Hyundai Shell Mobis WRT
-	-	2.61	-	-
+	2.61	362	0	-
+
 
 	François Delecour
 Sabrina De Castelli
-Škoda Fabia Rally2
-Toksport WRT
-	-	0.54	-	-
+  
+	0.54	75	0	-
+
+
+	Frédéric Rosati
+Philippe Marchetto
+  
+	0.20	28	0	-
+
 
 	Grégoire Munster
 Louis Louka
-Ford Fiesta Rally2
 M-Sport Ford WRT
-	-	0.39	-	-
+	0.39	54	0	-
+
+
+	Johannes Keferböck
+Ilka Minor
+  
+	0.20	28	0	-
+
+
+	Josh McErlean
+John Rowan
+Motorsport Ireland Rally Academy
+	0.20	28	0	-
+
 
 	Jourdan Serderidis
- 
-Ford Puma Rally1
+Frédéric Miclotte
 M-Sport Ford WRT
-	-	0.23	-	-
+	0.23	32	0	-
+
 
 	Kalle Rovanperä
 Jonne Halttunen
-Toyota GR Yaris Rally1
 Toyota Gazoo Racing WRT
-	-	3.66	-	-
+	3.66	507	0	-
+
+
+	Marco Bulacia
+Axel Coronado Jiménez
+Toksport WRT 2
+	0.28	39	0	-
+
+
+	Matteo Gamba
+Nicolò Gonella
+  
+	0.64	89	0	-
+
+
+	Mauro Miele
+Luca Beltrame
+  
+	0.31	43	0	-
+
+
+	Nicolas Ressegaire
+Marina Micheli
+  
+	0.20	28	0	-
+
+
+	Nikolay Gryazin
+Konstantin Aleksandrov
+Toksport WRT 2
+	0.63	87	0	-
+
 
 	Oliver Solberg
 Elliott Edmondson
-Škoda Fabia Rally2
-Toksport WRT
-	-	1.09	-	-
+  
+	1.09	151	0	-
+
+
+	Olivier Burri
+Anderson Levratti
+  
+	0.26	36	0	-
+
 
 	Ott Tänak
 Martin Järveoja
-Ford Puma Rally1
-M-Sport World Rally Team
-	-	3.93	-	-
+M-Sport Ford WRT
+	3.93	545	0	-
+
+
+	Pepe López
+Borja Rozada
+  
+	0.22	30	0	-
+
 
 	Pierre-Louis Loubet
 Nicolas Gilsoul
-Ford Puma Rally1
 M-Sport Ford WRT
-	-	1.17	-	-
+	1.17	162	0	-
+
+
+	Sami Pajari
+Enni Mälkönen
+Toksport WRT
+	0.28	39	0	-
+
+
+	Sean Johnston
+Alexander Kihurani
+  
+	0.27	37	0	-
+
 
 	Sébastien Ogier
 Vincent Landais
-Toyota GR Yaris Rally1
 Toyota Gazoo Racing WRT
-	-	3.97	-	-
+	3.97	550	0	-
+
+
+	Stéphane Lefebvre
+Andy Malfoy
+  
+	0.60	83	0	-
+
 
 	Takamoto Katsuta
 Aaron Johnston
-Toyota GR Yaris Rally1
 Toyota Gazoo Racing WRT
-	-	2.10	-	-
+	2.10	291	0	-
+
 
 	Thierry Neuville
 Martijn Wydaeghe
-Hyundai i20 N Rally1
 Hyundai Shell Mobis WRT
-	-	3.84	-	-
+	3.84	532	0	-
+
+
+	William Creighton
+Liam Regan
+Motorsport Ireland Rally Academy
+	0.20	28	0	-
+
+
+	Yohan Rossel
+Arnaud Dunand
+PH Sport
+	0.65	90	0	-
