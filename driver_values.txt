@@ -1,205 +1,193 @@
 	Driver Name	Cost	Expected	Actual 	Price Adj
 
 
-	Adrien Fourmaux
-Alexandre Coria
-M-Sport Ford WRT
-	1.11	154	0	-
+	Bruno Bulacia
+Axel Coronado Jiménez
+  
+	0.20	33	0	-
 
 
-	Alejandro Cachón
-Alejandro López Fernández
-  
-	0.20	28	0	-
-
-
-	Alessandro Gino
-Daniele Michi
-  
-	0.20	28	0	-
-
-
-	Chris Ingram
-Craig Drew
-  
-	0.39	54	0	-
-
-
-	Dani Sordo
-Cándido Carrera
+	Craig Breen
+James Fulton
 Hyundai Shell Mobis WRT
-	3.06	424	0	-
+	2.19	366	0	-
 
 
-	Eamonn Boland
-Michael Joseph Morrissey
-  
-	0.20	28	0	-
+	Egon Kaur
+Jakko Viilo
+  
+	0.30	50	0	-
 
 
 	Elfyn Evans
 Scott Martin
 Toyota Gazoo Racing WRT
-	3.22	446	0	-
+	3.34	558	0	-
 
 
-	Erik Cais
-Petr Těšínský
-  
-	0.26	36	0	-
+	Emil Lindholm
+Reeta Hämäläinen
+Toksport WRT
+	0.69	115	0	-
 
 
 	Esapekka Lappi
 Janne Ferm
 Hyundai Shell Mobis WRT
-	2.61	362	0	-
+	2.55	426	0	-
 
 
-	François Delecour
-Sabrina De Castelli
-  
-	0.54	75	0	-
+	Fabrizio Zaldivar
+Marcelo Der Ohannesian
+Hyundai Motorsport N
+	0.28	47	0	-
 
 
-	Frédéric Rosati
-Philippe Marchetto
-  
-	0.20	28	0	-
+	Georg Linnamäe
+James Morgan
+  
+	0.28	47	0	-
 
 
 	Grégoire Munster
 Louis Louka
-M-Sport Ford WRT
-	0.39	54	0	-
+  
+	0.35	58	0	-
 
 
-	Johannes Keferböck
-Ilka Minor
-  
-	0.20	28	0	-
+	Hamza Anwar
+Adnan Din
+  
+	0.20	33	0	-
 
 
-	Josh McErlean
-John Rowan
-Motorsport Ireland Rally Academy
-	0.20	28	0	-
+	Jari Huttunen
+Antti Linnaketo
+  
+	0.68	114	0	-
 
 
-	Jourdan Serderidis
-Frédéric Miclotte
-M-Sport Ford WRT
-	0.23	32	0	-
+	Joakim Roman
+Ida Lidebjer-Granberg
+  
+	0.20	33	0	-
+
+
+	Jörgen Jonasson
+Nicklas Jonasson
+  
+	0.21	35	0	-
 
 
 	Kalle Rovanperä
 Jonne Halttunen
 Toyota Gazoo Racing WRT
-	3.66	507	0	-
+	3.85	643	0	-
+
+
+	Lauri Joona
+Tuukka Shemeikka
+  
+	0.20	33	0	-
+
+
+	Lorenzo Bertelli
+Simone Scattolin
+Toyota Gazoo Racing WRT
+	0.51	85	0	-
 
 
 	Marco Bulacia
-Axel Coronado Jiménez
+Diego Vallejo
 Toksport WRT 2
-	0.28	39	0	-
-
-
-	Matteo Gamba
-Nicolò Gonella
-  
-	0.64	89	0	-
+	0.26	43	0	-
 
 
 	Mauro Miele
 Luca Beltrame
-  
-	0.31	43	0	-
+  
+	0.28	47	0	-
 
 
-	Nicolas Ressegaire
-Marina Micheli
-  
-	0.20	28	0	-
+	Michał Sołowow
+Maciej Baran
+  
+	0.20	33	0	-
+
+
+	Miguel Díaz-Aboitiz
+Rodolfo del Barrio
+  
+	0.20	33	0	-
 
 
 	Nikolay Gryazin
 Konstantin Aleksandrov
 Toksport WRT 2
-	0.63	87	0	-
+	0.71	119	0	-
+
+
+	Ole Christian Veiby
+Torstein Eriksen
+  
+	0.43	72	0	-
 
 
 	Oliver Solberg
 Elliott Edmondson
-  
-	1.09	151	0	-
-
-
-	Olivier Burri
-Anderson Levratti
-  
-	0.26	36	0	-
+  
+	1.08	181	0	-
 
 
 	Ott Tänak
 Martin Järveoja
 M-Sport Ford WRT
-	3.93	545	0	-
-
-
-	Pepe López
-Borja Rozada
-  
-	0.22	30	0	-
+	3.88	649	0	-
 
 
 	Pierre-Louis Loubet
 Nicolas Gilsoul
 M-Sport Ford WRT
-	1.17	162	0	-
+	1.09	182	0	-
+
+
+	Robert Virves
+Hugo Magalhães
+M-Sport Ford WRT
+	0.20	33	0	-
+
+
+	Roope Korhonen
+Anssi Viinikka
+  
+	0.20	33	0	-
 
 
 	Sami Pajari
 Enni Mälkönen
 Toksport WRT
-	0.28	39	0	-
-
-
-	Sean Johnston
-Alexander Kihurani
-  
-	0.27	37	0	-
-
-
-	Sébastien Ogier
-Vincent Landais
-Toyota Gazoo Racing WRT
-	3.97	550	0	-
-
-
-	Stéphane Lefebvre
-Andy Malfoy
-  
-	0.60	83	0	-
+	0.28	47	0	-
 
 
 	Takamoto Katsuta
 Aaron Johnston
 Toyota Gazoo Racing WRT
-	2.10	291	0	-
+	2.14	358	0	-
+
+
+	Teemu Suninen
+Mikko Markkula
+Hyundai Motorsport N
+	1.17	196	0	-
 
 
 	Thierry Neuville
 Martijn Wydaeghe
 Hyundai Shell Mobis WRT
-	3.84	532	0	-
+	3.91	654	0	-
 
 
 	William Creighton
 Liam Regan
 Motorsport Ireland Rally Academy
-	0.20	28	0	-
-
-
-	Yohan Rossel
-Arnaud Dunand
-PH Sport
-	0.65	90	0	-
+	0.20	33	0	-
