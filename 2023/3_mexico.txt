@@ -1,0 +1,157 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Sébastien Ogier
+Vincent Landais
+Toyota GR Yaris Rally1
+Toyota Gazoo Racing WRT
+	4.17	854	205
+2nd	
+	Thierry Neuville
+Martijn Wydaeghe
+Hyundai i20 N Rally1
+Hyundai Shell Mobis WRT
+	3.86	745	193
+3rd	
+	Elfyn Evans
+Scott Martin
+Toyota GR Yaris Rally1
+Toyota Gazoo Racing WRT
+	3.31	540	163
+4th	
+	Kalle Rovanperä
+Jonne Halttunen
+Toyota GR Yaris Rally1
+Toyota Gazoo Racing WRT
+	3.86	522	135
+5th	
+	Dani Sordo
+Cándido Carrera
+Hyundai i20 N Rally1
+Hyundai Shell Mobis WRT
+	2.96	474	160
+6th	
+	Ott Tänak
+Martin Järveoja
+Ford Puma Rally1
+M-Sport Ford WRT
+	3.98	432	109
+7th	
+	Gus Greensmith
+Jonas Andersson
+Škoda Fabia RS Rally2
+  
+	1.33	260	195
+8th	
+	Oliver Solberg
+Elliott Edmondson
+Škoda Fabia RS Rally2
+  
+	1.11	253	228
+9th	
+	Emil Lindholm
+Reeta Hämäläinen
+Škoda Fabia Rally2 evo
+Toksport WRT 2
+	0.65	244	375
+10th	
+	Esapekka Lappi
+Janne Ferm
+Hyundai i20 N Rally1
+Hyundai Shell Mobis WRT
+	2.62	201	77
+11th	
+	Kajetan Kajetanowicz
+Maciej Szczepaniak
+Škoda Fabia Rally2 evo
+  
+	0.58	162	279
+12th	
+	Martin Prokop
+Michal Ernst
+Ford Fiesta Rally2
+  
+	0.28	130	464
+13th	
+	Takamoto Katsuta
+Aaron Johnston
+Toyota GR Yaris Rally1
+Toyota Gazoo Racing WRT
+	2.04	99	49
+14th	
+	Adrien Fourmaux
+Alexandre Coria
+Ford Fiesta Rally2
+M-Sport Ford WRT
+	1.05	96	91
+15th	
+	Carlos Salas Jr.
+Jaime Zapata Ortega
+Škoda Fabia R5
+  
+	0.20	95	475
+16th	
+	Jorge Martínez Fontena
+Alberto Alvarez Nicholson
+Škoda Fabia R5
+  
+	0.20	92	460
+17th	
+	Ricardo Cordero Jr.
+Marco Hernández
+Citroën C3 Rally2
+  
+	0.37	81	219
+18th	
+	Pierre-Louis Loubet
+Nicolas Gilsoul
+Ford Puma Rally1
+M-Sport Ford WRT
+	1.17	59	50
+19th	
+	Diego Domínguez Jr.
+Rogelio Peñate
+Ford Fiesta Rally3
+  
+	0.20	47	235
+20th	
+	Eduardo Castro
+Fernando Mussano
+Škoda Fabia Rally2 evo
+  
+	0.20	36	180
+21st	
+	Alejandro Mauro Sánchez
+Diego Sanjuan de Eusebio
+Škoda Fabia Rally2 evo
+MAPO Motorsport
+	0.20	34	170
+22nd	
+	Daniel Chwist
+Kamil Heller
+Škoda Fabia Rally2 evo
+  
+	0.28	32	114
+23rd	
+	John Coyne
+Eoin Treacy
+Ford Fiesta Rally2
+  
+	0.20	32	160
+24th	
+	Jason Bailey
+Shayne Peterson
+Ford Fiesta Rally3
+  
+	0.20	32	160
+25th	
+	Jourdan Serderidis
+Frédéric Miclotte
+Ford Puma Rally1
+M-Sport Ford WRT
+	0.21	21	100
+26th	
+	Nikolay Gryazin
+Konstantin Aleksandrov
+Škoda Fabia Rally2 evo
+Toksport WRT 2
+	0.70	11	16
