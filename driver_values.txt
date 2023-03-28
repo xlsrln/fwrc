@@ -25,7 +25,7 @@ Hyundai Shell Mobis WRT
 	2.39	346	0	-
 
 
-	Diego Domínguez Jr.
+	Diego Domínguez
 Rogelio Peñate
   
 	0.21	30	0	-
@@ -145,7 +145,7 @@ M-Sport Ford WRT
 	1.09	158	0	-
 
 
-	Roberto Blach Núñez Jr.
+	Roberto Blach Núñez
 Mauro Barreiro
   
 	0.20	29	0	-
