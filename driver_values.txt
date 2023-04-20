@@ -1,187 +1,160 @@
-	Driver Name	Cost	Expected	Actual 	Price Adj
-
+	Driver	Score	Before	After	Change
 
 	Adrien Fourmaux
 Alexandre Coria
+Ford Fiesta Rally2
 M-Sport Ford WRT
-	1.01	146	0	-
+	96	1.05	1.01	-0.04
 
+	Alejandro Mauro Sánchez
+Diego Sanjuan de Eusebio
+Škoda Fabia Rally2 evo
+MAPO Motorsport
+	34	0.20	0.20	-
 
-	Alejandro Cachón
-Alejandro López Fernández
+	Carlos Salas Jr.
+Jaime Zapata Ortega
+Škoda Fabia R5
   
-	0.20	29	0	-
+	95	0.20	0.24	+0.04
 
-
-	Armin Kremer
-Ella Kremer
-  
-	0.20	29	0	-
-
-
-	Craig Breen
-James Fulton
+	Dani Sordo
+Cándido Carrera
+Hyundai i20 N Rally1
 Hyundai Shell Mobis WRT
-	2.39	346	0	-
+	474	2.96	2.97	+0.01
 
+	Daniel Chwist
+Kamil Heller
+Škoda Fabia Rally2 evo
+  
+	32	0.28	0.27	-0.01
 
-	Diego Domínguez
+	Diego Domínguez Jr.
 Rogelio Peñate
+Ford Fiesta Rally3
   
-	0.21	30	0	-
+	47	0.20	0.21	+0.01
 
-
-	Eamonn Boland
-Michael Joseph Morrissey
+	Eduardo Castro
+Fernando Mussano
+Škoda Fabia Rally2 evo
   
-	0.20	29	0	-
-
+	36	0.20	0.20	-
 
 	Elfyn Evans
 Scott Martin
+Toyota GR Yaris Rally1
 Toyota Gazoo Racing WRT
-	3.33	481	0	-
-
+	540	3.31	3.33	+0.02
 
 	Emil Lindholm
 Reeta Hämäläinen
-Toksport WRT
-	0.74	107	0	-
-
-
-	Erik Cais
-Petr Těšínský
-  
-	0.32	46	0	-
-
+Škoda Fabia Rally2 evo
+Toksport WRT 2
+	244	0.65	0.74	+0.09
 
 	Esapekka Lappi
 Janne Ferm
+Hyundai i20 N Rally1
 Hyundai Shell Mobis WRT
-	2.49	360	0	-
-
-
-	Georg Linnamäe
-James Morgan
-  
-	0.30	43	0	-
-
-
-	Grégoire Munster
-Louis Louka
-  
-	0.31	45	0	-
-
+	201	2.62	2.49	-0.13
 
 	Gus Greensmith
 Jonas Andersson
-Toksport WRT 2
-	1.36	197	0	-
-
-
-	Hamza Anwar
-Adnan Din
+Škoda Fabia RS Rally2
   
-	0.20	29	0	-
+	260	1.33	1.36	+0.03
 
-
-	Henk Vossen
-Radboud van Hoek
+	Jason Bailey
+Shayne Peterson
+Ford Fiesta Rally3
   
-	0.20	29	0	-
+	32	0.20	0.20	-
 
-
-	Johannes Keferböck
-Ilka Minor
+	John Coyne
+Eoin Treacy
+Ford Fiesta Rally2
   
-	0.20	29	0	-
+	32	0.20	0.20	-
 
+	Jorge Martínez Fontena
+Alberto Alvarez Nicholson
+Škoda Fabia R5
+  
+	92	0.20	0.24	+0.04
 
-	Josh McErlean
-John Rowan
-Motorsport Ireland Rally Academy
-	0.20	29	0	-
+	Jourdan Serderidis
+Frédéric Miclotte
+Ford Puma Rally1
+M-Sport Ford WRT
+	21	0.21	0.20	-0.01
 
+	Kajetan Kajetanowicz
+Maciej Szczepaniak
+Škoda Fabia Rally2 evo
+  
+	162	0.58	0.63	+0.05
 
 	Kalle Rovanperä
 Jonne Halttunen
+Toyota GR Yaris Rally1
 Toyota Gazoo Racing WRT
-	3.81	551	0	-
+	522	3.86	3.81	-0.05
 
-
-	Mauro Miele
-Luca Beltrame
+	Martin Prokop
+Michal Ernst
+Ford Fiesta Rally2
   
-	0.25	36	0	-
-
-
-	Nicolas Ciamin
-Yannick Roche
-  
-	0.25	36	0	-
-
+	130	0.28	0.34	+0.06
 
 	Nikolay Gryazin
 Konstantin Aleksandrov
+Škoda Fabia Rally2 evo
 Toksport WRT 2
-	0.64	93	0	-
-
+	11	0.70	0.64	-0.06
 
 	Oliver Solberg
 Elliott Edmondson
+Škoda Fabia RS Rally2
   
-	1.16	168	0	-
-
+	253	1.11	1.16	+0.05
 
 	Ott Tänak
 Martin Järveoja
+Ford Puma Rally1
 M-Sport Ford WRT
-	3.86	558	0	-
-
+	432	3.98	3.86	-0.12
 
 	Pierre-Louis Loubet
 Nicolas Gilsoul
+Ford Puma Rally1
 M-Sport Ford WRT
-	1.09	158	0	-
+	59	1.17	1.09	-0.08
 
-
-	Roberto Blach Núñez
-Mauro Barreiro
+	Ricardo Cordero Jr.
+Marco Hernández
+Citroën C3 Rally2
   
-	0.20	29	0	-
-
-
-	Sami Pajari
-Enni Mälkönen
-Toksport WRT
-	0.35	51	0	-
-
+	81	0.37	0.39	+0.02
 
 	Sébastien Ogier
 Vincent Landais
+Toyota GR Yaris Rally1
 Toyota Gazoo Racing WRT
-	4.30	622	0	-
-
+	854	4.17	4.30	+0.13
 
 	Takamoto Katsuta
 Aaron Johnston
+Toyota GR Yaris Rally1
 Toyota Gazoo Racing WRT
-	1.90	275	0	-
-
+	99	2.04	1.90	-0.14
 
 	Thierry Neuville
 Martijn Wydaeghe
+Hyundai i20 N Rally1
 Hyundai Shell Mobis WRT
-	3.95	571	0	-
+	745	3.86	3.95	+0.09
 
 
-	William Creighton
-Liam Regan
-Motorsport Ireland Rally Academy
-	0.20	29	0	-
 
-
-	Yohan Rossel
-Arnaud Dunand
-PH Sport
-	0.72	104	0	-
