@@ -4,157 +4,196 @@
 Alexandre Coria
 Ford Fiesta Rally2
 M-Sport Ford WRT
-	96	1.05	1.01	-0.04
+	-	1.01	-	-
 
-	Alejandro Mauro Sánchez
-Diego Sanjuan de Eusebio
-Škoda Fabia Rally2 evo
-MAPO Motorsport
-	34	0.20	0.20	-
-
-	Carlos Salas Jr.
-Jaime Zapata Ortega
-Škoda Fabia R5
+	Alejandro Cachón
+Alejandro López Fernández
+Citroën C3 Rally2
   
-	95	0.20	0.24	+0.04
+	-	0.20	-	-
 
-	Dani Sordo
-Cándido Carrera
-Hyundai i20 N Rally1
-Hyundai Shell Mobis WRT
-	474	2.96	2.97	+0.01
-
-	Daniel Chwist
-Kamil Heller
-Škoda Fabia Rally2 evo
+	Armin Kremer
+Ella Kremer
+Škoda Fabia RS Rally2
   
-	32	0.28	0.27	-0.01
+	-	0.20	-	-
 
-	Diego Domínguez Jr.
+	Craig Breen
+ 
+ 
+  
+	-	0.00	-	-
+
+	Diego Domínguez
 Rogelio Peñate
 Ford Fiesta Rally3
   
-	47	0.20	0.21	+0.01
+	-	0.21	-	-
 
-	Eduardo Castro
-Fernando Mussano
-Škoda Fabia Rally2 evo
+	Eamonn Boland
+Michael Joseph Morrissey
+Citroën C3 Rally2
   
-	36	0.20	0.20	-
+	-	0.20	-	-
+
+	Eamonn Kelly
+Conor Mohan
+Ford Fiesta Rally3
+Motorsport Ireland Rally Academy
+	-	0.20	-	-
 
 	Elfyn Evans
 Scott Martin
 Toyota GR Yaris Rally1
 Toyota Gazoo Racing WRT
-	540	3.31	3.33	+0.02
+	-	3.33	-	-
 
 	Emil Lindholm
 Reeta Hämäläinen
-Škoda Fabia Rally2 evo
-Toksport WRT 2
-	244	0.65	0.74	+0.09
+Škoda Fabia RS Rally2
+Toksport WRT
+	-	0.74	-	-
+
+	Erik Cais
+Petr Těšínský
+Škoda Fabia RS Rally2
+  
+	-	0.32	-	-
 
 	Esapekka Lappi
 Janne Ferm
 Hyundai i20 N Rally1
 Hyundai Shell Mobis WRT
-	201	2.62	2.49	-0.13
+	-	2.49	-	-
+
+	Georg Linnamäe
+James Morgan
+Hyundai i20 N Rally2
+  
+	-	0.30	-	-
+
+	Grégoire Munster
+Louis Louka
+Ford Fiesta Rally2
+  
+	-	0.31	-	-
 
 	Gus Greensmith
 Jonas Andersson
 Škoda Fabia RS Rally2
-  
-	260	1.33	1.36	+0.03
+Toksport WRT 2
+	-	1.36	-	-
 
-	Jason Bailey
-Shayne Peterson
+	Hamza Anwar
+Adnan Din
 Ford Fiesta Rally3
   
-	32	0.20	0.20	-
+	-	0.20	-	-
 
-	John Coyne
-Eoin Treacy
-Ford Fiesta Rally2
-  
-	32	0.20	0.20	-
-
-	Jorge Martínez Fontena
-Alberto Alvarez Nicholson
-Škoda Fabia R5
-  
-	92	0.20	0.24	+0.04
-
-	Jourdan Serderidis
-Frédéric Miclotte
-Ford Puma Rally1
-M-Sport Ford WRT
-	21	0.21	0.20	-0.01
-
-	Kajetan Kajetanowicz
-Maciej Szczepaniak
+	Henk Vossen
+Radboud van Hoek
 Škoda Fabia Rally2 evo
   
-	162	0.58	0.63	+0.05
+	-	0.20	-	-
+
+	Johannes Keferböck
+Ilka Minor
+Škoda Fabia Rally2 evo
+  
+	-	0.20	-	-
+
+	Josh McErlean
+John Rowan
+Hyundai i20 N Rally2
+Motorsport Ireland Rally Academy
+	-	0.20	-	-
 
 	Kalle Rovanperä
 Jonne Halttunen
 Toyota GR Yaris Rally1
 Toyota Gazoo Racing WRT
-	522	3.86	3.81	-0.05
+	-	3.81	-	-
 
-	Martin Prokop
-Michal Ernst
-Ford Fiesta Rally2
+	Mauro Miele
+Luca Beltrame
+Škoda Fabia RS Rally2
   
-	130	0.28	0.34	+0.06
+	-	0.25	-	-
+
+	Nicolas Ciamin
+Yannick Roche
+Volkswagen Polo GTI R5
+  
+	-	0.25	-	-
 
 	Nikolay Gryazin
 Konstantin Aleksandrov
-Škoda Fabia Rally2 evo
+Škoda Fabia RS Rally2
 Toksport WRT 2
-	11	0.70	0.64	-0.06
+	-	0.64	-	-
 
 	Oliver Solberg
 Elliott Edmondson
 Škoda Fabia RS Rally2
   
-	253	1.11	1.16	+0.05
+	-	1.16	-	-
 
 	Ott Tänak
 Martin Järveoja
 Ford Puma Rally1
 M-Sport Ford WRT
-	432	3.98	3.86	-0.12
+	-	3.86	-	-
+
+	Patrick O'Brien
+Stephen O'Brien
+Hyundai i20 N Rally2
+Motorsport Ireland Rally Academy
+	-	0.20	-	-
 
 	Pierre-Louis Loubet
 Nicolas Gilsoul
 Ford Puma Rally1
 M-Sport Ford WRT
-	59	1.17	1.09	-0.08
+	-	1.09	-	-
 
-	Ricardo Cordero Jr.
-Marco Hernández
-Citroën C3 Rally2
+	Roberto Blach Núñez
+Mauro Barreiro
+Ford Fiesta Rally3
   
-	81	0.37	0.39	+0.02
+	-	0.20	-	-
+
+	Sami Pajari
+Enni Mälkönen
+Škoda Fabia RS Rally2
+Toksport WRT
+	-	0.35	-	-
 
 	Sébastien Ogier
 Vincent Landais
 Toyota GR Yaris Rally1
 Toyota Gazoo Racing WRT
-	854	4.17	4.30	+0.13
+	-	4.30	-	-
 
 	Takamoto Katsuta
 Aaron Johnston
 Toyota GR Yaris Rally1
 Toyota Gazoo Racing WRT
-	99	2.04	1.90	-0.14
+	-	1.90	-	-
 
 	Thierry Neuville
 Martijn Wydaeghe
 Hyundai i20 N Rally1
 Hyundai Shell Mobis WRT
-	745	3.86	3.95	+0.09
+	-	3.95	-	-
 
+	William Creighton
+Liam Regan
+Ford Fiesta Rally3
+Motorsport Ireland Rally Academy
+	-	0.20	-	-
 
-
+	Yohan Rossel
+Arnaud Dunand
+Citroën C3 Rally2
+PH Sport
+	-	0.72	-	-
