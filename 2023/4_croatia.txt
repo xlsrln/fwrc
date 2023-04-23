@@ -1,0 +1,133 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Elfyn Evans
+Scott Martin
+Toyota GR Yaris Rally1
+Toyota Gazoo Racing WRT
+	3.33	661	198
+2nd	
+	Kalle Rovanperä
+Jonne Halttunen
+Toyota GR Yaris Rally1
+Toyota Gazoo Racing WRT
+	3.81	641	168
+3rd	
+	Sébastien Ogier
+Vincent Landais
+Toyota GR Yaris Rally1
+Toyota Gazoo Racing WRT
+	4.30	625	145
+4th	
+	Ott Tänak
+Martin Järveoja
+Ford Puma Rally1
+M-Sport Ford WRT
+	3.86	578	150
+5th	
+	Esapekka Lappi
+Janne Ferm
+Hyundai i20 N Rally1
+Hyundai Shell Mobis WRT
+	2.49	562	226
+6th	
+	Takamoto Katsuta
+Aaron Johnston
+Toyota GR Yaris Rally1
+Toyota Gazoo Racing WRT
+	1.90	440	232
+7th	
+	Thierry Neuville
+Martijn Wydaeghe
+Hyundai i20 N Rally1
+Hyundai Shell Mobis WRT
+	3.95	362	92
+8th	
+	Pierre-Louis Loubet
+Nicolas Gilsoul
+Ford Puma Rally1
+M-Sport Ford WRT
+	1.09	275	252
+9th	
+	Yohan Rossel
+Arnaud Dunand
+Citroën C3 Rally2
+PH Sport
+	0.72	214	297
+10th	
+	Nikolay Gryazin
+Konstantin Aleksandrov
+Škoda Fabia RS Rally2
+Toksport WRT 2
+	0.64	196	306
+11th	
+	Oliver Solberg
+Elliott Edmondson
+Škoda Fabia RS Rally2
+  
+	1.16	155	134
+12th	
+	Emil Lindholm
+Reeta Hämäläinen
+Škoda Fabia RS Rally2
+Toksport WRT
+	0.74	152	205
+13th	
+	Adrien Fourmaux
+Alexandre Coria
+Ford Fiesta Rally2
+M-Sport Ford WRT
+	1.01	116	115
+14th	
+	Gus Greensmith
+Jonas Andersson
+Škoda Fabia RS Rally2
+Toksport WRT 2
+	1.36	91	67
+15th	
+	Sami Pajari
+Enni Mälkönen
+Škoda Fabia RS Rally2
+Toksport WRT
+	0.35	87	249
+16th	
+	Nicolas Ciamin
+Yannick Roche
+Volkswagen Polo GTI R5
+  
+	0.25	49	196
+17th	
+	Alejandro Cachón
+Alejandro López Fernández
+Citroën C3 Rally2
+  
+	0.20	25	125
+18th	
+	Armin Kremer
+Ella Kremer
+Škoda Fabia RS Rally2
+  
+	0.20	15	75
+19th	
+	Erik Cais
+Petr Těšínský
+Škoda Fabia RS Rally2
+  
+	0.32	6	19
+20th	
+	Grégoire Munster
+Louis Louka
+Ford Fiesta Rally2
+  
+	0.31	5	16
+21st	
+	Georg Linnamäe
+James Morgan
+Hyundai i20 N Rally2
+  
+	0.30	4	13
+22nd	
+	Norbert Herczig
+Ramón Ferencz
+Škoda Fabia Rally2 evo
+  
+	0.20	2	10
