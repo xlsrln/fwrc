@@ -48,7 +48,7 @@ Kamil Heller
 	0.27	29	0	-
 
 
-	Diego Domínguez Jr.
+	Diego Domínguez
 Rogelio Peñate
   
 	0.20	22	0	-
@@ -180,7 +180,7 @@ Luca Beltrame
 	0.22	24	0	-
 
 
-	Miguel Zaldivar Sr.
+	Miguel MZaldivar
 José Luis Díaz
   
 	0.20	22	0	-
@@ -240,7 +240,7 @@ Hugo Magalhães
 	0.20	22	0	-
 
 
-	Roberto Blach Núñez Jr.
+	Roberto Blach Núñez
 Mauro Barreiro
   
 	0.20	22	0	-
