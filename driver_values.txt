@@ -1,34 +1,22 @@
 	Driver Name	Cost	Expected	Actual 	Price Adj
 
 
-	Adrien Fourmaux
-Alexandre Coria
-M-Sport Ford WRT
-	0.98	107	0	-
-
-
-	Alejandro Cachón
-Alejandro López Fernández
+	Aakif Virani
+Azhar Bhatti
   
-	0.20	22	0	-
-
-
-	Andreas Mikkelsen
-Torstein Eriksen
-Toksport WRT 3
-	1.40	152	0	-
+	0.22	34	0	-
 
 
 	Armin Kremer
 Timo Gottschalk
   
-	0.20	22	0	-
+	0.20	31	0	-
 
 
-	Bruno Bulacia
-Axel Coronado Jiménez
+	Carl Tundo
+Tim Jessop
   
-	0.20	22	0	-
+	1.15	177	0	-
 
 
 	Craig Breen
@@ -39,256 +27,154 @@ Axel Coronado Jiménez
 	Dani Sordo
 Cándido Carrera
 Hyundai Shell Mobis WRT
-	3.21	349	0	-
+	3.03	468	0	-
 
 
 	Daniel Chwist
 Kamil Heller
   
-	0.27	29	0	-
+	0.25	39	0	-
 
 
 	Diego Domínguez Jr.
 Rogelio Peñate
   
-	0.20	22	0	-
-
-
-	Eamonn Kelly
-Conor Mohan
-Motorsport Ireland Rally Academy
-	0.20	22	0	-
-
-
-	Eduardo Castro
-Fernando Mussano
-  
-	0.20	22	0	-
+	0.20	31	0	-
 
 
 	Elfyn Evans
 Scott Martin
 Toyota Gazoo Racing WRT
-	3.16	343	0	-
-
-
-	Emil Lindholm
-Reeta Hämäläinen
-Toksport WRT
-	0.77	84	0	-
-
-
-	Erik Cais
-Petr Těšínský
-  
-	0.26	28	0	-
+	3.26	503	0	-
 
 
 	Esapekka Lappi
 Janne Ferm
 Hyundai Shell Mobis WRT
-	2.86	311	0	-
+	3.09	477	0	-
 
 
-	Fabrizio Zaldivar
-Marcelo Der Ohannesian
-Hyundai Motorsport N
-	0.23	25	0	-
-
-
-	Georg Linnamäe
-James Morgan
+	Evans Kavisi
+Absalom Aswani
   
-	0.25	27	0	-
+	0.20	31	0	-
 
 
-	Giuseppe Dettori
-Carlo Pisano
+	Giancarlo Davite
+Sylvia Vindevogel
   
-	0.42	46	0	-
+	0.20	31	0	-
 
 
 	Grégoire Munster
 Louis Louka
 M-Sport Ford WRT
-	0.25	27	0	-
-
-
-	Gregor Jeets
-Timo Taniel
-  
-	0.20	22	0	-
-
-
-	Gus Greensmith
-Jonas Andersson
-Toksport WRT 3
-	1.34	146	0	-
+	0.30	46	0	-
 
 
 	Hamza Anwar
 Adnan Din
+Rally Stars Program Kenya
+	0.20	31	0	-
+
+
+	Jasmeet Chana
+Ravinder Chana
   
-	0.20	22	0	-
+	0.38	59	0	-
 
 
-	Johannes Keferböck
-Ilka Minor
+	Jason Bailey
+Jamie Willetts
   
-	0.20	22	0	-
+	0.20	31	0	-
 
 
-	Josh McErlean
-John Rowan
-Motorsport Ireland Rally Academy
-	0.23	25	0	-
+	Jeremiah Wahome
+Victor Okundi
+Rally Stars Program Kenya
+	0.20	31	0	-
+
+
+	Jourdan Serderidis
+Andy Malfoy
+M-Sport Ford WRT
+	0.20	31	0	-
 
 
 	Kajetan Kajetanowicz
 Maciej Szczepaniak
   
-	0.63	68	0	-
+	0.72	111	0	-
 
 
 	Kalle Rovanperä
 Jonne Halttunen
 Toyota Gazoo Racing WRT
-	4.17	453	0	-
+	4.26	657	0	-
 
 
-	Lauri Joona
-Tuukka Shemeikka
+	Karan Patel
+Tauseef Khan
   
-	0.20	22	0	-
+	0.27	42	0	-
 
 
 	Martin Prokop
-Michal Ernst
+Zdeněk Jůrka
   
-	0.34	37	0	-
+	0.36	56	0	-
 
 
-	Matteo Gamba
-Nicolò Gonella
+	Miguel Díaz-Aboitiz
+Rodrigo Sanjuan de Eusebio
   
-	0.58	63	0	-
+	0.20	31	0	-
 
 
-	Mauro Miele
-Luca Beltrame
+	Nikhil Sachania
+Deep Patel
   
-	0.22	24	0	-
-
-
-	Miguel Zaldivar Sr.
-José Luis Díaz
-  
-	0.20	22	0	-
-
-
-	Mikołaj Marczyk
-Szymon Gospodarczyk
-  
-	0.21	23	0	-
-
-
-	Nicolas Ciamin
-Yannick Roche
-  
-	0.26	28	0	-
-
-
-	Nikolay Gryazin
-Konstantin Aleksandrov
-Toksport WRT 2
-	0.68	74	0	-
-
-
-	Norbert Herczig
-Ramón Ferencz
-  
-	0.20	22	0	-
+	0.20	31	0	-
 
 
 	Oliver Solberg
 Elliott Edmondson
   
-	1.22	133	0	-
+	1.16	179	0	-
 
 
 	Ott Tänak
 Martin Järveoja
 M-Sport Ford WRT
-	3.94	428	0	-
-
-
-	Patrick O'Brien
-Stephen O'Brien
-Motorsport Ireland Rally Academy
-	0.20	22	0	-
+	3.77	582	0	-
 
 
 	Pierre-Louis Loubet
 Nicolas Gilsoul
 M-Sport Ford WRT
-	1.18	128	0	-
-
-
-	Robert Virves
-Hugo Magalhães
-  
-	0.20	22	0	-
-
-
-	Roberto Blach Núñez Jr.
-Mauro Barreiro
-  
-	0.20	22	0	-
-
-
-	Roope Korhonen
-Anssi Viinikka
-Rautio Motorsport
-	0.20	22	0	-
-
-
-	Sami Pajari
-Enni Mälkönen
-Toksport WRT
-	0.37	40	0	-
+	1.12	173	0	-
 
 
 	Sébastien Ogier
 Vincent Landais
 Toyota Gazoo Racing WRT
-	4.31	468	0	-
+	4.20	648	0	-
 
 
 	Takamoto Katsuta
 Aaron Johnston
 Toyota Gazoo Racing WRT
-	2.02	220	0	-
-
-
-	Teemu Suninen
-Mikko Markkula
-Hyundai Motorsport N
-	1.12	122	0	-
+	2.03	313	0	-
 
 
 	Thierry Neuville
 Martijn Wydaeghe
 Hyundai Shell Mobis WRT
-	3.71	403	0	-
+	3.93	607	0	-
 
 
-	William Creighton
-Liam Regan
-Motorsport Ireland Rally Academy
-	0.20	22	0	-
-
-
-	Yohan Rossel
-Arnaud Dunand
-PH Sport
-	0.83	90	0	-
+	Yasin Nasser
+Ali Katumba
+  
+	0.20	31	0	-
