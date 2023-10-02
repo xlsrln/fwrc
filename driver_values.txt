@@ -1,162 +1,56 @@
 	Driver Name	Cost	Expected	Actual 	Price Adj
 
 
-	Alberto Heller
-Luis Ernesto Allende
-M-Sport Ford WRT
-	0.26	41	0	-
-
-
-	Bruno BBulacia
-Axel Coronado Jiménez
-  
-	0.20	32	0	-
-
-
-	Craig Breen
-  
-	0.00	0	0	-
-
-
-	Diego Domínguez Jr.
-Rogelio Peñate
-  
-	0.20	32	0	-
-
-
-	Eduardo Castro
-Fernando Mussano
-  
-	0.20	32	0	-
-
-
 	Elfyn Evans
 Scott Martin
 Toyota Gazoo Racing WRT
-	3.80	602	0	-
-
-
-	Emil Lindholm
-Reeta Hämäläinen
-Hyundai Motorsport N
-	0.72	114	0	-
-
-
-	Emilio Fernández
-Borja Rozada
-  
-	0.20	32	0	-
+	3.84	602	0	-
 
 
 	Esapekka Lappi
 Janne Ferm
 Hyundai Shell Mobis WRT
-	2.87	455	0	-
-
-
-	Fabrizio Zaldivar
-Marcelo Der Ohannesian
-Hyundai Motorsport N
-	0.20	32	0	-
-
-
-	Grégoire Munster
-Louis Louka
-M-Sport Ford WRT
-	0.35	55	0	-
+	2.58	455	0	-
 
 
 	Gus Greensmith
 Jonas Andersson
 Toksport WRT
-	1.09	173	0	-
-
-
-	Jorge Martínez Fontena
-Alberto Alvarez Nicholson
-  
-	0.22	35	0	-
-
-
-	Kajetan Kajetanowicz
-Maciej Szczepaniak
-  
-	0.77	122	0	-
+	1.14	173	0	-
 
 
 	Kalle Rovanperä
 Jonne Halttunen
 Toyota Gazoo Racing WRT
-	4.38	694	0	-
-
-
-	Mads Østberg
-Patrik Barth
-  
-	1.07	169	0	-
-
-
-	Marco MBulacia
-Diego Vallejo
-Toksport WRT
-	0.32	51	0	-
-
-
-	Nikolay Gryazin
-Konstantin Aleksandrov
-Toksport WRT 2
-	0.67	106	0	-
-
-
-	Oliver Solberg
-Elliott Edmondson
-  
-	1.09	173	0	-
+	4.31	694	0	-
 
 
 	Ott Tänak
 Martin Järveoja
 M-Sport Ford WRT
-	3.42	542	0	-
-
-
-	Pedro PHeller
-Pablo Olmos
-  
-	0.27	43	0	-
+	3.61	542	0	-
 
 
 	Pierre-Louis Loubet
 Nicolas Gilsoul
 M-Sport Ford WRT
-	1.09	173	0	-
-
-
-	Sami Pajari
-Enni Mälkönen
-Toksport WRT 2
-	0.56	89	0	-
+	1.00	173	0	-
 
 
 	Takamoto Katsuta
 Aaron Johnston
 Toyota Gazoo Racing WRT
-	2.35	372	0	-
+	2.39	372	0	-
 
 
 	Teemu Suninen
 Mikko Markkula
 Hyundai Shell Mobis WRT
-	1.58	250	0	-
+	1.59	250	0	-
 
 
 	Thierry Neuville
 Martijn Wydaeghe
 Hyundai Shell Mobis WRT
-	3.76	596	0	-
+	3.84	596	0	-
 
-
-	Yohan Rossel
-Arnaud Dunand
-PH Sport
-	0.85	135	0	-
