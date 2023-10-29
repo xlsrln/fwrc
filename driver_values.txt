@@ -96,7 +96,7 @@ Toksport WRT 3
 	0.69	103	0	-
 
 
-	Norihiko Katsuta
+	Norihiko NKatsuta
 Yusuke Kimura
 Toyota Gazoo Racing WRJ
 	0.20	30	0	-
