@@ -3,26 +3,14 @@
 
 	Adrien Fourmaux
 Alexandre Coria
-M-Sport World Rally Team
-	1.01	133	0	-
-
-
-	Alejandro Cachón
-Alejandro López Fernández
-  
-	0.20	26	0	-
+M-Sport Ford WRT
+	1.06	158	0	-
 
 
 	Andreas Mikkelsen
 Torstein Eriksen
 Toksport WRT 3
-	1.45	190	0	-
-
-
-	Armin Kremer
-Ella Kremer
-  
-	0.21	28	0	-
+	1.32	197	0	-
 
 
 	Craig Breen
@@ -30,187 +18,115 @@ Ella Kremer
 	0.00	0	0	-
 
 
+	Dani Sordo
+Cándido Carrera
+Hyundai Shell Mobis WRT
+	3.12	465	0	-
+
+
+	Daniel Chwist
+Kamil Heller
+  
+	0.24	36	0	-
+
+
 	Eamonn Boland
 Michael Joseph Morrissey
   
-	0.20	26	0	-
+	0.20	30	0	-
 
 
 	Elfyn Evans
 Scott Martin
 Toyota Gazoo Racing WRT
-	3.84	504	0	-
-
-
-	Emil Lindholm
-Reeta Hämäläinen
-Hyundai Motorsport N
-	0.68	89	0	-
-
-
-	Erik Cais
-Daniel Trunkát
-  
-	0.32	42	0	-
+	3.74	558	0	-
 
 
 	Esapekka Lappi
 Janne Ferm
 Hyundai Shell Mobis WRT
-	2.58	339	0	-
-
-
-	Fabrizio Zaldivar
-Marcelo Der Ohannesian
-Hyundai Motorsport N
-	0.21	28	0	-
-
-
-	Georg Linnamäe
-James Morgan
-  
-	0.24	32	0	-
+	2.36	352	0	-
 
 
 	Grégoire Munster
 Louis Louka
 M-Sport Ford WRT
-	0.41	54	0	-
+	0.59	88	0	-
 
 
-	Gus Greensmith
-Jonas Andersson
-Toksport WRT 3
-	1.14	150	0	-
-
-
-	Henk Vossen
-Radboud van Hoek
+	Heikki Kovalainen
+Sae Kitagawa
   
-	0.20	26	0	-
+	0.28	42	0	-
 
 
-	Johannes Keferböck
-Ilka Minor
+	Hiroki Arai
+Hiroki Tachikui
   
-	0.20	26	0	-
+	0.20	30	0	-
 
 
-	Josh McErlean
-James Fulton
+	Jason Bailey
+Shayne Peterson
   
-	0.20	26	0	-
+	0.20	30	0	-
 
 
 	Kajetan Kajetanowicz
 Maciej Szczepaniak
   
-	0.72	95	0	-
+	0.71	106	0	-
 
 
 	Kalle Rovanperä
 Jonne Halttunen
 Toyota Gazoo Racing WRT
-	4.31	566	0	-
-
-
-	Lauri Joona
-Janni Hussi
-  
-	0.29	38	0	-
-
-
-	Matteo Gamba
-Nicolò Gonella
-  
-	0.53	70	0	-
+	4.30	641	0	-
 
 
 	Miguel Díaz-Aboitiz
 Diego Sanjuan de Eusebio
   
-	0.20	26	0	-
-
-
-	Mikołaj Marczyk
-Szymon Gospodarczyk
-  
-	0.29	38	0	-
-
-
-	Nicolas Ciamin
-Yannick Roche
-  
-	0.21	28	0	-
+	0.20	30	0	-
 
 
 	Nikolay Gryazin
 Konstantin Aleksandrov
-Toksport WRT 2
-	0.71	93	0	-
+Toksport WRT 3
+	0.69	103	0	-
+
+
+	Norihiko Katsuta
+Yusuke Kimura
+Toyota Gazoo Racing WRJ
+	0.20	30	0	-
 
 
 	Osamu Fukunaga
 Misako Saida
   
-	0.20	26	0	-
+	0.20	30	0	-
 
 
 	Ott Tänak
 Martin Järveoja
 M-Sport Ford WRT
-	3.61	474	0	-
-
-
-	Pierre-Louis Loubet
-Nicolas Gilsoul
-M-Sport Ford WRT
-	1.00	131	0	-
-
-
-	Roope Korhonen
-Anssi Viinikka
-  
-	0.20	26	0	-
-
-
-	Sami Pajari
-Enni Mälkönen
-Toksport WRT 2
-	0.64	84	0	-
+	3.67	547	0	-
 
 
 	Sébastien Ogier
 Vincent Landais
 Toyota Gazoo Racing WRT
-	4.21	553	0	-
-
-
-	Štěpán Vojtěch
-Michal Ernst
-  
-	0.20	26	0	-
+	4.23	631	0	-
 
 
 	Takamoto Katsuta
 Aaron Johnston
 Toyota Gazoo Racing WRT
-	2.39	314	0	-
-
-
-	Teemu Suninen
-Mikko Markkula
-Hyundai Shell Mobis WRT
-	1.59	209	0	-
+	2.50	373	0	-
 
 
 	Thierry Neuville
 Martijn Wydaeghe
 Hyundai Shell Mobis WRT
-	3.84	504	0	-
-
-
-	Yohan Rossel
-Arnaud Dunand
-PH Sport
-	0.88	116	0	-
+	4.08	608	0	-
