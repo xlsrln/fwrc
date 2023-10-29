@@ -1,0 +1,151 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Thierry Neuville
+Martijn Wydaeghe
+Hyundai i20 N Rally1
+Hyundai Shell Mobis WRT
+	3.70	711	192
+2nd	
+	Ott Tänak
+Martin Järveoja
+Hyundai i20 N Rally1
+Hyundai Shell Mobis WRT
+	3.98	486	122
+3rd	
+	Sébastien Ogier
+Vincent Landais
+Toyota GR Yaris Rally1
+Toyota Gazoo Racing WRT
+	4.06	442	109
+4th	
+	Takamoto Katsuta
+Aaron Johnston
+Toyota GR Yaris Rally1
+Toyota Gazoo Racing WRT NG
+	2.03	384	189
+5th	
+	Elfyn Evans
+Scott Martin
+Toyota GR Yaris Rally1
+Toyota Gazoo Racing WRT
+	3.28	375	114
+6th	
+	Teemu Suninen
+Mikko Markkula
+Hyundai i20 N Rally2
+Hyundai Motorsport N
+	1.05	318	303
+7th	
+	Gus Greensmith
+Jonas Andersson
+Ford Puma Rally1
+M-Sport Ford WRT
+	1.27	262	206
+8th	
+	Craig Breen
+James Fulton
+Ford Puma Rally1
+M-Sport Ford WRT
+	2.24	240	107
+9th	
+	Grégoire Munster
+Louis Louka
+Hyundai i20 N Rally2
+  
+	0.27	207	767
+10th	
+	Kalle Rovanperä
+Jonne Halttunen
+Toyota GR Yaris Rally1
+Toyota Gazoo Racing WRT
+	3.91	197	50
+11th	
+	Mauro Miele
+Luca Beltrame
+Škoda Fabia Rally2 evo
+Toksport WRT 2
+	0.20	177	885
+12th	
+	Emil Lindholm
+Reeta Hämäläinen
+Škoda Fabia Rally2 evo
+Toksport WRT
+	0.63	170	270
+13th	
+	Heikki Kovalainen
+Sae Kitagawa
+Škoda Fabia R5
+  
+	0.20	143	715
+14th	
+	Sami Pajari
+Enni Mälkönen
+Škoda Fabia Rally2 evo
+Toksport WRT
+	0.20	142	710
+15th	
+	Fabrizio Zaldivar
+Marcelo Der Ohannesian
+Hyundai i20 N Rally2
+Hyundai Motorsport N
+	0.22	120	545
+16th	
+	Sean Johnston
+Alexander Kihurani
+Citroën C3 Rally2
+Saintéloc Junior Team
+	0.24	81	338
+17th	
+	Hiroki Arai
+Ilka Minor
+Peugeot 208 Rally4
+Ahead Japan Racing Team
+	0.20	28	140
+18th	
+	Bruno Bulacia
+Gabriel Morales
+Škoda Fabia Rally2 evo
+Toksport WRT 2
+	0.20	27	135
+19th	
+	Frédéric Rosati
+Patrick Chiappe
+Hyundai i20 N Rally2
+  
+	0.20	14	70
+20th	
+	Jean-Michel Raoux
+Laurent Magat
+Volkswagen Polo GTI R5
+  
+	0.20	11	55
+21st	
+	Luke Anear
+Andrew Sarandis
+Ford Fiesta Rally2
+  
+	0.20	10	50
+23rd	
+	Osamu Fukunaga
+Misako Saida
+Škoda Fabia R5
+  
+	0.20	9	45
+22nd	
+	Eamonn Boland
+Michael Joseph Morrissey
+Ford Fiesta Rally2
+  
+	0.20	9	45
+24th	
+	Dani Sordo
+Cándido Carrera
+Hyundai i20 N Rally1
+Hyundai Shell Mobis WRT
+	3.40	2	1
+-	
+	Kajetan Kajetanowicz
+Maciej Szczepaniak
+Škoda Fabia Rally2 evo
+  
+	0.64	0	0
