@@ -4,129 +4,166 @@
 	Adrien Fourmaux
 Alexandre Coria
 M-Sport Ford WRT
-	1.06	158	0	-
+	0.96	169	0	-
+
+
+	Alejandro Mauro Sánchez
+Adrián Pérez Fernández
+  
+	0.20	35	0	-
 
 
 	Andreas Mikkelsen
 Torstein Eriksen
-Toksport WRT 3
-	1.32	197	0	-
-
-
-	Craig Breen
-  
-	0.00	0	0	-
-
-
-	Dani Sordo
-Cándido Carrera
 Hyundai Shell Mobis WRT
-	3.12	465	0	-
+	1.37	241	0	-
 
 
-	Daniel Chwist
-Kamil Heller
+	Bryan Bouffier
+Frédéric Vauclare
   
-	0.24	36	0	-
+	0.73	128	0	-
+
+
+	Chris Ingram
+Hannah McKillop
+  
+	0.37	65	0	-
 
 
 	Eamonn Boland
 Michael Joseph Morrissey
   
-	0.20	30	0	-
+	0.21	37	0	-
 
 
 	Elfyn Evans
 Scott Martin
 Toyota Gazoo Racing WRT
-	3.74	558	0	-
-
-
-	Esapekka Lappi
-Janne Ferm
-Hyundai Shell Mobis WRT
-	2.36	352	0	-
+	3.80	668	0	-
 
 
 	Grégoire Munster
 Louis Louka
 M-Sport Ford WRT
-	0.59	88	0	-
+	0.60	105	0	-
 
 
-	Heikki Kovalainen
-Sae Kitagawa
+	Henk Vossen
+Willem Vissenberg
   
-	0.28	42	0	-
+	0.20	35	0	-
 
 
-	Hiroki Arai
-Hiroki Tachikui
+	Jan Solans
+Rodrigo Sanjuan de Eusebio
   
-	0.20	30	0	-
+	0.29	51	0	-
 
 
-	Jason Bailey
-Shayne Peterson
+	Jordan Berfa
+Chloé Thomas
   
-	0.20	30	0	-
+	0.20	35	0	-
 
 
-	Kajetan Kajetanowicz
-Maciej Szczepaniak
+	Jourdan Serderidis
+Frédéric Miclotte
   
-	0.71	106	0	-
+	0.20	35	0	-
 
 
-	Kalle Rovanperä
-Jonne Halttunen
-Toyota Gazoo Racing WRT
-	4.30	641	0	-
-
-
-	Miguel Díaz-Aboitiz
-Diego Sanjuan de Eusebio
+	Mauro Miele
+Luca Beltrame
   
-	0.20	30	0	-
+	0.20	35	0	-
+
+
+	Nicolas Ciamin
+Yannick Roche
+  
+	0.31	54	0	-
+
+
+	Nicolas Ressegaire
+Hervé Orciere
+  
+	0.20	35	0	-
 
 
 	Nikolay Gryazin
 Konstantin Aleksandrov
-Toksport WRT 3
-	0.69	103	0	-
+AEC - DG Sport Competition
+	0.78	137	0	-
 
 
-	Norihiko NKatsuta
-Yusuke Kimura
-Toyota Gazoo Racing WRJ
-	0.20	30	0	-
+	Oliver Solberg
+Elliott Edmondson
+Toksport WRT
+	1.15	202	0	-
 
 
-	Osamu Fukunaga
-Misako Saida
+	Olivier Burri
+Anderson Levratti
   
-	0.20	30	0	-
+	0.23	40	0	-
 
 
 	Ott Tänak
 Martin Järveoja
-M-Sport Ford WRT
-	3.67	547	0	-
+Hyundai Shell Mobis WRT
+	3.64	639	0	-
+
+
+	Pepe López
+David Vázquez Liste
+  
+	0.29	51	0	-
+
+
+	Raphaël Astier
+Denis Giraudet
+  
+	0.20	35	0	-
+
+
+	Renaud Dolce
+Quentin Giroud
+  
+	0.20	35	0	-
+
+
+	Sami Pajari
+Enni Mälkönen
+Printsport
+	0.62	109	0	-
 
 
 	Sébastien Ogier
 Vincent Landais
 Toyota Gazoo Racing WRT
-	4.23	631	0	-
+	4.24	745	0	-
+
+
+	Stéphane Lefebvre
+Andy Malfoy
+  
+	0.58	102	0	-
 
 
 	Takamoto Katsuta
 Aaron Johnston
 Toyota Gazoo Racing WRT
-	2.50	373	0	-
+	2.66	467	0	-
 
 
 	Thierry Neuville
 Martijn Wydaeghe
 Hyundai Shell Mobis WRT
-	4.08	608	0	-
+	3.98	699	0	-
+
+
+	Yohan Rossel
+Arnaud Dunand
+AEC - DG Sport Competition
+	0.79	139	0	-
