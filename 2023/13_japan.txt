@@ -1,0 +1,145 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Elfyn Evans
+Scott Martin
+Toyota GR Yaris Rally1
+Toyota Gazoo Racing WRT
+	3.74	628	168
+2nd	
+	Sébastien Ogier
+Vincent Landais
+Toyota GR Yaris Rally1
+Toyota Gazoo Racing WRT
+	4.23	627	148
+3rd	
+	Takamoto Katsuta
+Aaron Johnston
+Toyota GR Yaris Rally1
+Toyota Gazoo Racing WRT
+	2.50	585	234
+4th	
+	Esapekka Lappi
+Janne Ferm
+Hyundai i20 N Rally1
+Hyundai Shell Mobis WRT
+	2.36	516	219
+5th	
+	Ott Tänak
+Martin Järveoja
+Ford Puma Rally1
+M-Sport Ford WRT
+	3.67	488	133
+6th	
+	Thierry Neuville
+Martijn Wydaeghe
+Hyundai i20 N Rally1
+Hyundai Shell Mobis WRT
+	4.08	450	110
+7th	
+	Kalle Rovanperä
+Jonne Halttunen
+Toyota GR Yaris Rally1
+Toyota Gazoo Racing WRT
+	4.30	426	99
+8th	
+	Andreas Mikkelsen
+Torstein Eriksen
+Škoda Fabia RS Rally2
+Toksport WRT 3
+	1.32	263	199
+9th	
+	Nikolay Gryazin
+Konstantin Aleksandrov
+Škoda Fabia RS Rally2
+Toksport WRT 3
+	0.69	231	335
+10th	
+	Kajetan Kajetanowicz
+Maciej Szczepaniak
+Škoda Fabia RS Rally2
+  
+	0.71	166	234
+11th	
+	Hiroki Arai
+Hiroki Tachikui
+Peugeot 208 Rally4
+Ahead Japan Racing Team
+	0.20	135	675
+12th	
+	Osamu Fukunaga
+Misako Saida
+Škoda Fabia Rally2 evo
+  
+	0.20	106	530
+13th	
+	Grégoire Munster
+Louis Louka
+Ford Fiesta Rally2
+M-Sport Ford WRT
+	0.59	101	171
+14th	
+	Daniel Chwist
+Kamil Heller
+Škoda Fabia Rally2 evo
+  
+	0.24	78	325
+15th	
+	Eamonn Boland
+Michael Joseph Morrissey
+Citroën C3 Rally2
+  
+	0.20	46	230
+16th	
+	Heikki Kovalainen
+Sae Kitagawa
+Škoda Fabia R5
+  
+	0.28	45	161
+17th	
+	Tomoyuki Shinkai
+Yuichi Ando
+Toyota GR Yaris GR4 DAT Rally
+  
+	0.20	41	205
+18th	
+	Norihiko Katsuta
+Yusuke Kimura
+Toyota GR Yaris Rally2 Concept
+Toyota Gazoo Racing WRJ
+	0.20	27	135
+19th	
+	Toshihiro Arai
+Yuichi Matsumoto
+Subaru WRX S4 JP4 (VB)
+  
+	0.20	17	85
+20th	
+	Dani Sordo
+Cándido Carrera
+Hyundai i20 N Rally1
+Hyundai Shell Mobis WRT
+	3.12	7	2
+23rd	
+	Satoshi Imai
+Jason Farmer
+Citroën C3 Rally2
+  
+	0.20	6	30
+22nd	
+	Jason Bailey
+Shayne Peterson
+Ford Fiesta Rally3
+  
+	0.20	6	30
+21st	
+	Miguel Díaz-Aboitiz
+Rodrigo Sanjuan de Eusebio
+Škoda Fabia RS Rally2
+  
+	0.20	6	30
+24th	
+	Adrien Fourmaux
+Alexandre Coria
+Ford Puma Rally1
+M-Sport Ford WRT
+	1.06	4	4
