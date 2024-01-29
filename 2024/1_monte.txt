@@ -1,0 +1,169 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Thierry Neuville
+Martijn Wydaeghe
+Hyundai i20 N Rally1
+Hyundai Shell Mobis WRT
+	3.98	878	221
+2nd	
+	Sébastien Ogier
+Vincent Landais
+Toyota GR Yaris Rally1
+Toyota Gazoo Racing WRT
+	4.24	760	179
+3rd	
+	Elfyn Evans
+Scott Martin
+Toyota GR Yaris Rally1
+Toyota Gazoo Racing WRT
+	3.80	632	166
+4th	
+	Ott Tänak
+Martin Järveoja
+Hyundai i20 N Rally1
+Hyundai Shell Mobis WRT
+	3.64	538	148
+5th	
+	Takamoto Katsuta
+Aaron Johnston
+Toyota GR Yaris Rally1
+Toyota Gazoo Racing WRT
+	2.66	443	167
+6th	
+	Adrien Fourmaux
+Alexandre Coria
+Ford Puma Rally1
+M-Sport Ford WRT
+	0.96	346	360
+7th	
+	Andreas Mikkelsen
+Torstein Eriksen
+Hyundai i20 N Rally1
+Hyundai Shell Mobis WRT
+	1.37	301	220
+8th	
+	Yohan Rossel
+Arnaud Dunand
+Citroën C3 Rally2
+AEC - DG Sport Competition
+	0.79	229	290
+9th	
+	Pepe López
+David Vázquez Liste
+Škoda Fabia RS Rally2
+  
+	0.29	213	734
+10th	
+	Nikolay Gryazin
+Konstantin Aleksandrov
+Citroën C3 Rally2
+AEC - DG Sport Competition
+	0.78	188	241
+11th	
+	Grégoire Munster
+Louis Louka
+Ford Puma Rally1
+M-Sport Ford WRT
+	0.60	133	222
+12th	
+	Nicolas Ciamin
+Yannick Roche
+Hyundai i20 N Rally2
+  
+	0.31	124	400
+13th	
+	Sami Pajari
+Enni Mälkönen
+Toyota GR Yaris Rally2
+Printsport
+	0.62	104	168
+14th	
+	Stéphane Lefebvre
+Andy Malfoy
+Toyota GR Yaris Rally2
+  
+	0.58	83	143
+15th	
+	Oliver Solberg
+Elliott Edmondson
+Škoda Fabia RS Rally2
+Toksport WRT
+	1.15	65	57
+16th	
+	Jan Solans
+Rodrigo Sanjuan de Eusebio
+Toyota GR Yaris Rally2
+  
+	0.29	38	131
+17th	
+	Jordan Berfa
+Chloé Thomas
+Hyundai i20 R5
+  
+	0.20	15	75
+18th	
+	Bryan Bouffier
+Frédéric Vauclare
+Toyota GR Yaris Rally2
+  
+	0.73	8	11
+19th	
+	Chris Ingram
+Hannah McKillop
+Škoda Fabia RS Rally2
+  
+	0.37	5	14
+-	
+	Eamonn Boland
+Michael Joseph Morrissey
+Ford Fiesta Rally2
+  
+	0.21	0	0
+-	
+	Jourdan Serderidis
+Frédéric Miclotte
+Volkswagen Polo GTI R5
+  
+	0.20	0	0
+-	
+	Renaud Dolce
+Quentin Giroud
+Renault Clio Rally3
+  
+	0.20	0	0
+-	
+	Nicolas Ressegaire
+Hervé Orciere
+Volkswagen Polo GTI R5
+  
+	0.20	0	0
+-	
+	Raphaël Astier
+Denis Giraudet
+Alpine A110 Rally RGT
+  
+	0.20	0	0
+-	
+	Olivier Burri
+Anderson Levratti
+Škoda Fabia Rally2 evo
+  
+	0.23	0	0
+-	
+	Henk Vossen
+Willem Vissenberg
+Hyundai i20 N Rally2
+  
+	0.20	0	0
+-	
+	Alejandro Mauro Sánchez
+Adrián Pérez Fernández
+Škoda Fabia Rally2 evo
+  
+	0.20	0	0
+-	
+	Mauro Miele
+Luca Beltrame
+Škoda Fabia RS Rally2
+  
+	0.20	0	0
