@@ -1,0 +1,145 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Kalle Rovanperä
+Jonne Halttunen
+Toyota GR Yaris Rally1
+Toyota Gazoo Racing WRT
+	3.74	845	226
+2nd	
+	Takamoto Katsuta
+Aaron Johnston
+Toyota GR Yaris Rally1
+Toyota Gazoo Racing WRT
+	2.55	608	238
+3rd	
+	Thierry Neuville
+Martijn Wydaeghe
+Hyundai i20 N Rally1
+Hyundai Shell Mobis WRT
+	4.00	590	148
+4th	
+	Elfyn Evans
+Scott Martin
+Toyota GR Yaris Rally1
+Toyota Gazoo Racing WRT
+	3.81	586	154
+5th	
+	Ott Tänak
+Martin Järveoja
+Hyundai i20 N Rally1
+Hyundai Shell Mobis WRT
+	3.40	553	163
+6th	
+	Adrien Fourmaux
+Alexandre Coria
+Ford Puma Rally1
+M-Sport Ford WRT
+	1.23	469	381
+7th	
+	Esapekka Lappi
+Janne Ferm
+Hyundai i20 N Rally1
+Hyundai Shell Mobis WRT
+	2.77	393	142
+8th	
+	Gus Greensmith
+Jonas Andersson
+Škoda Fabia RS Rally2
+Toksport WRT
+	1.07	288	269
+9th	
+	Oliver Solberg
+Elliott Edmondson
+Škoda Fabia RS Rally2
+Toksport WRT
+	1.15	270	235
+10th	
+	Jourdan Serderidis
+Frédéric Miclotte
+Ford Puma Rally1
+M-Sport Ford WRT
+	0.20	198	990
+11th	
+	Kajetan Kajetanowicz
+Maciej Szczepaniak
+Škoda Fabia RS Rally2
+  
+	0.75	172	229
+12th	
+	Nicolas Ciamin
+Yannick Roche
+Hyundai i20 N Rally2
+  
+	0.35	148	423
+13th	
+	Grégoire Munster
+Louis Louka
+Ford Puma Rally1
+M-Sport Ford WRT
+	0.62	133	215
+14th	
+	Charles Munster
+Loïc Dumont
+Hyundai i20 N Rally2
+  
+	0.20	93	465
+15th	
+	Daniel Chwist
+Kamil Heller
+Škoda Fabia RS Rally2
+  
+	0.27	49	181
+16th	
+	Diego Domínguez Jr.
+Rogelio Peñate
+Citroën C3 Rally2
+  
+	0.20	27	135
+17th	
+	Karan Patel
+Tauseef Khan
+Škoda Fabia R5
+  
+	0.25	12	48
+18th	
+	Carl Tundo
+Tim Jessop
+Ford Fiesta R5
+  
+	1.11	11	10
+19th	
+	George Vassilakis
+Tom Krawszik
+Ford Fiesta Rally2
+  
+	0.20	7	35
+20th	
+	Hamza Anwar
+Adnan Din
+Ford Fiesta Rally3
+  
+	0.20	3	15
+-	
+	Miguel Díaz-Aboitiz
+Diego Sanjuan de Eusebio
+Škoda Fabia Rally2 evo
+  
+	0.20	0	0
+-	
+	Aakif Virani
+Zahir Shah
+Škoda Fabia R5
+  
+	0.20	0	0
+-	
+	Yasin Nasser
+Ali Katumba
+Ford Fiesta Rally2
+  
+	0.20	0	0
+-	
+	Nikhil Sachania
+Deep Patel
+Mitsubishi Lancer Evo X
+  
+	0.20	0	0
