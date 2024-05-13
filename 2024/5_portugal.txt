@@ -1,0 +1,151 @@
+Pos		Driver	Total
+1st	
+	Sébastien Ogier
+Vincent Landais
+Toyota GR Yaris Rally1 Hybrid
+Toyota Gazoo Racing WRT
+	839
+2nd	
+	Ott Tänak
+Martin Järveoja
+Hyundai i20 N Rally1 Hybrid
+Hyundai Shell Mobis WRT
+	774
+3rd	
+	Thierry Neuville
+Martijn Wydaeghe
+Hyundai i20 N Rally1 Hybrid
+Hyundai Shell Mobis WRT
+	682
+4th	
+	Adrien Fourmaux
+Alexandre Coria
+Ford Puma Rally1 Hybrid
+M-Sport Ford WRT
+	446
+5th	
+	Dani Sordo
+Cándido Carrera
+Hyundai i20 N Rally1 Hybrid
+Hyundai Shell Mobis WRT
+	429
+6th	
+	Elfyn Evans
+Scott Martin
+Toyota GR Yaris Rally1 Hybrid
+Toyota Gazoo Racing WRT
+	325
+7th	
+	Kalle Rovanperä
+Jonne Halttunen
+Toyota GR Yaris Rally1 Hybrid
+Toyota Gazoo Racing WRT
+	320
+8th	
+	Takamoto Katsuta
+Aaron Johnston
+Toyota GR Yaris Rally1 Hybrid
+Toyota Gazoo Racing WRT
+	271
+9th	
+	Nikolay Gryazin
+Konstantin Aleksandrov
+Citroën C3 Rally2
+DG Sport Compétition
+	188
+10th	
+	Jan Solans
+Rodrigo Sanjuan de Eusebio
+Toyota GR Yaris Rally2
+  
+	174
+11th	
+	Josh McErlean
+James Fulton
+Škoda Fabia RS Rally2
+  
+	156
+12th	
+	Yohan Rossel
+Arnaud Dunand
+Citroën C3 Rally2
+DG Sport Compétition
+	144
+13th	
+	Lauri Joona
+Janni Hussi
+Škoda Fabia RS Rally2
+  
+	108
+14th	
+	Grégoire Munster
+Louis Louka
+Ford Puma Rally1 Hybrid
+M-Sport Ford WRT
+	103
+15th	
+	Fabrizio Zaldivar
+Marcelo Der Ohannesian
+Škoda Fabia RS Rally2
+  
+	85
+16th	
+	Sami Pajari
+Enni Mälkönen
+Toyota GR Yaris Rally2
+Printsport
+	71
+17th	
+	Roope Korhonen
+Anssi Viinikka
+Toyota GR Yaris Rally2
+  
+	57
+18th	
+	Gus Greensmith
+Jonas Andersson
+Škoda Fabia RS Rally2
+Toksport WRT
+	48
+19th	
+	Georg Linnamäe
+James Morgan
+Toyota GR Yaris Rally2
+  
+	41
+20th	
+	Oliver Solberg
+Elliott Edmondson
+Škoda Fabia RS Rally2
+  
+	34
+21st	
+	Martin Prokop
+Michal Ernst
+Škoda Fabia RS Rally2
+  
+	34
+22nd	
+	Pierre-Louis Loubet
+Loris Pascaud
+Škoda Fabia RS Rally2
+Toksport WRT
+	23
+23rd	
+	Kris Meeke
+Stuart Loudon
+Hyundai i20 N Rally2
+  
+	21
+24th	
+	Teemu Suninen
+Mikko Markkula
+Hyundai i20 N Rally2
+  
+	4
+25th	
+	William Creighton
+Liam Regan
+Ford Fiesta Rally2
+Motorsport Ireland Rally Academy
+	1
