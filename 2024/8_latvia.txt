@@ -1,0 +1,169 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Kalle Rovanperä
+Jonne Halttunen
+Toyota GR Yaris Rally1 Hybrid
+Toyota Gazoo Racing WRT
+	3.83	789	206
+2nd	
+	Sébastien Ogier
+Vincent Landais
+Toyota GR Yaris Rally1 Hybrid
+Toyota Gazoo Racing WRT
+	4.56	744	163
+3rd	
+	Ott Tänak
+Martin Järveoja
+Hyundai i20 N Rally1 Hybrid
+Hyundai Shell Mobis WRT
+	3.67	665	181
+4th	
+	Takamoto Katsuta
+Aaron Johnston
+Toyota GR Yaris Rally1 Hybrid
+Toyota Gazoo Racing WRT
+	2.52	489	194
+5th	
+	Elfyn Evans
+Scott Martin
+Toyota GR Yaris Rally1 Hybrid
+Toyota Gazoo Racing WRT
+	3.67	451	123
+6th	
+	Thierry Neuville
+Martijn Wydaeghe
+Hyundai i20 N Rally1 Hybrid
+Hyundai Shell Mobis WRT
+	3.82	399	104
+7th	
+	Mārtiņš Sesks
+Renārs Francis
+Ford Puma Rally1 Hybrid
+M-Sport Ford WRT
+	1.12	399	356
+8th	
+	Adrien Fourmaux
+Alexandre Coria
+Ford Puma Rally1 Hybrid
+M-Sport Ford WRT
+	1.87	396	212
+9th	
+	Grégoire Munster
+Louis Louka
+Ford Puma Rally1 Hybrid
+M-Sport Ford WRT
+	0.98	227	232
+10th	
+	Oliver Solberg
+Elliott Edmondson
+Škoda Fabia RS Rally2
+Toksport WRT
+	1.08	166	154
+11th	
+	Mikko Heikkilä
+Kristian Temonen
+Toyota GR Yaris Rally2
+  
+	0.45	134	298
+12th	
+	Esapekka Lappi
+Janne Ferm
+Hyundai i20 N Rally1 Hybrid
+Hyundai Shell Mobis WRT
+	2.70	126	47
+13th	
+	Sami Pajari
+Enni Mälkönen
+Toyota GR Yaris Rally2
+Printsport
+	0.87	120	138
+14th	
+	Gus Greensmith
+Jonas Andersson
+Škoda Fabia RS Rally2
+Toksport WRT
+	0.94	70	74
+15th	
+	Nikolay Gryazin
+Andris Mālnieks
+Citroën C3 Rally2
+  
+	0.77	51	66
+16th	
+	Fabrizio Zaldivar
+Marcelo Der Ohannesian
+Škoda Fabia RS Rally2
+  
+	0.25	20	80
+17th	
+	Josh McErlean
+James Fulton
+Škoda Fabia RS Rally2
+Toksport WRT 2
+	0.34	11	32
+18th	
+	Teemu Suninen
+Mikko Markkula
+Hyundai i20 N Rally2
+  
+	1.26	10	8
+19th	
+	Matthieu Margaillan
+Mathilde Margaillan
+Škoda Fabia RS Rally2
+  
+	0.20	6	30
+21st	
+	Roberto Daprà
+Luca Guglielmetti
+Škoda Fabia Rally2 evo
+  
+	0.20	4	20
+20th	
+	Emil Lindholm
+Reeta Hämäläinen
+Hyundai i20 N Rally2
+  
+	0.53	4	8
+-	
+	Fabio Frisiero
+Giovanni Agnese
+Ford Fiesta Rally2
+  
+	0.20	0	0
+-	
+	Armin Kremer
+Ella Kremer
+Škoda Fabia RS Rally2
+  
+	0.20	0	0
+-	
+	Pierre Ragues
+Julien Pesenti
+Škoda Fabia RS Rally2
+  
+	0.20	0	0
+-	
+	Gregor Jeets
+Timo Taniel
+Toyota GR Yaris Rally2
+  
+	0.20	0	0
+-	
+	William Creighton
+Liam Regan
+Ford Fiesta Rally2
+Motorsport Ireland Rally Academy
+	0.20	0	0
+-	
+	Jan Černý
+Ondřej Krajča
+Ford Fiesta Rally3
+  
+	0.90	0	0
+-	
+	Mauro Miele
+Luca Beltrame
+Škoda Fabia RS Rally2
+  
+	0.20	0	0
