@@ -4,274 +4,196 @@
 	Adrien Fourmaux
 Alexandre Coria
 M-Sport Ford WRT
-	1.64	210	0	-
-
-
-	Alejandro Mauro Sánchez
-Adrián Pérez Fernández
-  
-	0.20	26	0	-
+	2.23	310	0	-
 
 
 	Armin Kremer
 Ella Kremer
   
-	0.20	26	0	-
+	0.20	28	0	-
 
 
-	Bruno Bulacia
-Gabriel Morales
-  
-	0.20	26	0	-
+	Burcu Çetinkaya
+Fabrizia Pons
+Toksport WRT
+	0.20	28	0	-
 
 
 	Dani Sordo
 Cándido Carrera
 Hyundai Shell Mobis WRT
-	2.86	366	0	-
-
-
-	Daniel Chwist
-Kamil Heller
-  
-	0.27	35	0	-
+	2.91	405	0	-
 
 
 	Diego Domínguez Jr.
 Rogelio Peñate
   
-	0.20	26	0	-
+	0.20	28	0	-
 
 
 	Eamonn Kelly
 Conor Mohan
 Motorsport Ireland Rally Academy
-	0.20	26	0	-
-
-
-	Eduardo Castro
-Javiera Roman
-  
-	0.20	26	0	-
+	0.20	28	0	-
 
 
 	Elfyn Evans
 Scott Martin
 Toyota Gazoo Racing WRT
-	3.66	468	0	-
-
-
-	Emil Lindholm
-Reeta Hämäläinen
-  
-	0.58	74	0	-
+	3.45	480	0	-
 
 
 	Enrico Brazzoli
 Martina Musiari
   
-	0.20	26	0	-
+	0.20	28	0	-
 
 
 	Fabrizio Zaldivar
 Marcelo Der Ohannesian
   
-	0.28	36	0	-
+	0.22	31	0	-
 
 
 	Georg Linnamäe
 James Morgan
   
-	0.46	59	0	-
+	0.52	72	0	-
 
 
 	George Vasilakis
 Tom Krawszik
   
-	0.20	26	0	-
-
-
-	Giuseppe Dettori
-Carlo Pisano
-  
-	0.38	49	0	-
+	0.20	28	0	-
 
 
 	Grégoire Munster
 Louis Louka
 M-Sport Ford WRT
-	0.74	95	0	-
+	1.02	142	0	-
 
 
-	Hikaru Kogure
-Topi Luhtinen
-Toyota Gazoo Racing WRT NG
-	0.20	26	0	-
+	Gus Greensmith
+Jonas Andersson
+Toksport WRT
+	0.81	113	0	-
+
+
+	Hamed Al-Wahaibi
+Niall Burns
+HW34 by Motortune
+	0.20	28	0	-
 
 
 	Jan Solans
 Rodrigo Sanjuan de Eusebio
   
-	0.38	49	0	-
-
-
-	Jean-Michel Raoux
-Isabelle Galmiche
-  
-	0.20	26	0	-
+	0.45	63	0	-
 
 
 	Josh McErlean
 James Fulton
 Toksport WRT 2
-	0.30	38	0	-
+	0.35	49	0	-
+
+
+	Jourdan Serderidis
+Frédéric Miclotte
+M-Sport Ford WRT
+	0.29	40	0	-
 
 
 	Kajetan Kajetanowicz
 Maciej Szczepaniak
   
-	0.77	99	0	-
+	0.75	104	0	-
+
+
+	Lambros Athanassoulas
+Nikolaos Zakheos
+  
+	0.20	28	0	-
 
 
 	Lauri Joona
-Janni Hussi
+Ville Mannisenmäki
   
-	0.42	54	0	-
-
-
-	Marco Bulacia
-Diego Vallejo
-  
-	0.26	33	0	-
+	0.53	74	0	-
 
 
 	Martin Prokop
 Michal Ernst
   
-	0.38	49	0	-
-
-
-	Mauro Miele
-Luca Beltrame
-  
-	0.20	26	0	-
-
-
-	Maxime Potty
-Jules Escartefigue
-  
-	0.20	26	0	-
-
-
-	Nicolas Ciamin
-Yannick Roche
-  
-	0.40	51	0	-
+	0.37	52	0	-
 
 
 	Nikolay Gryazin
 Konstantin Aleksandrov
 DG Sport Compétition
-	0.87	111	0	-
-
-
-	Oliver Solberg
-Elliott Edmondson
-  
-	1.09	139	0	-
+	0.78	109	0	-
 
 
 	Ott Tänak
 Martin Järveoja
 Hyundai Shell Mobis WRT
-	3.62	463	0	-
-
-
-	Pepe López
-David Vázquez Liste
-  
-	0.36	46	0	-
+	3.42	476	0	-
 
 
 	Pierre-Louis Loubet
 Loris Pascaud
 Toksport WRT 2
-	0.97	124	0	-
-
-
-	Ricardo Triviño
-Diego Fuentes Vega
-  
-	0.20	26	0	-
+	0.78	109	0	-
 
 
 	Robert Virves
 Aleks Lesk
   
-	0.20	26	0	-
+	0.37	52	0	-
+
+
+	Roberto Blach Jr.
+Mauro Barreiro
+  
+	0.20	28	0	-
 
 
 	Roberto Daprà
 Luca Guglielmetti
   
-	0.20	26	0	-
-
-
-	Roope Korhonen
-Anssi Viinikka
-  
-	0.39	50	0	-
+	0.20	28	0	-
 
 
 	Sami Pajari
 Enni Mälkönen
 Printsport
-	0.71	91	0	-
+	1.12	156	0	-
 
 
 	Sébastien Ogier
 Vincent Landais
 Toyota Gazoo Racing WRT
-	4.53	580	0	-
+	4.83	672	0	-
 
 
 	Takamoto Katsuta
 Aaron Johnston
 Toyota Gazoo Racing WRT
-	2.61	334	0	-
+	2.63	366	0	-
 
 
 	Taylor Gill
 Daniel Brkic
 FIA Rally Star
-	0.20	26	0	-
-
-
-	Teemu Suninen
-Mikko Markkula
-  
-	1.52	194	0	-
+	0.20	28	0	-
 
 
 	Thierry Neuville
 Martijn Wydaeghe
 Hyundai Shell Mobis WRT
-	4.00	512	0	-
-
-
-	William Creighton
-Liam Regan
-Motorsport Ireland Rally Academy
-	0.20	26	0	-
+	3.94	548	0	-
 
 
 	Yohan Rossel
-Arnaud Dunand
+Florian Barral
 DG Sport Compétition
-	0.90	115	0	-
-
-
-	Yuki Yamamoto
-Marko Salminen
-Toyota Gazoo Racing WRT NG
-	0.20	26	0	-
+	0.95	132	0	-
