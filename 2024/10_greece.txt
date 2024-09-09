@@ -1,0 +1,217 @@
+Pos		Driver	Cost	Score	PPM
+1st	
+	Thierry Neuville
+Martijn Wydaeghe
+Hyundai i20 N Rally1 Hybrid
+Hyundai Shell Mobis WRT
+	3.94	729	185
+2nd	
+	Ott Tänak
+Martin Järveoja
+Hyundai i20 N Rally1 Hybrid
+Hyundai Shell Mobis WRT
+	3.42	632	185
+3rd	
+	Dani Sordo
+Cándido Carrera
+Hyundai i20 N Rally1 Hybrid
+Hyundai Shell Mobis WRT
+	2.91	503	173
+4th	
+	Sébastien Ogier
+Vincent Landais
+Toyota GR Yaris Rally1 Hybrid
+Toyota Gazoo Racing WRT
+	4.83	312	65
+5th	
+	Adrien Fourmaux
+Alexandre Coria
+Ford Puma Rally1 Hybrid
+M-Sport Ford WRT
+	2.23	297	133
+6th	
+	Sami Pajari
+Enni Mälkönen
+Toyota GR Yaris Rally2
+Printsport
+	1.12	295	263
+7th	
+	Yohan Rossel
+Florian Barral
+Citroën C3 Rally2
+DG Sport Compétition
+	0.95	272	286
+8th	
+	Robert Virves
+Aleks Lesk
+Škoda Fabia RS Rally2
+  
+	0.37	248	670
+9th	
+	Elfyn Evans
+Scott Martin
+Toyota GR Yaris Rally1 Hybrid
+Toyota Gazoo Racing WRT
+	3.45	247	72
+10th	
+	Takamoto Katsuta
+Aaron Johnston
+Toyota GR Yaris Rally1 Hybrid
+Toyota Gazoo Racing WRT
+	2.63	225	86
+11th	
+	Kajetan Kajetanowicz
+Maciej Szczepaniak
+Škoda Fabia RS Rally2
+  
+	0.75	184	245
+12th	
+	Fabrizio Zaldivar
+Marcelo Der Ohannesian
+Škoda Fabia RS Rally2
+  
+	0.22	163	741
+13th	
+	Josh McErlean
+James Fulton
+Škoda Fabia RS Rally2
+Toksport WRT 2
+	0.34	130	382
+14th	
+	Jan Solans
+Rodrigo Sanjuan de Eusebio
+Toyota GR Yaris Rally2
+  
+	0.45	114	253
+15th	
+	Roberto Daprà
+Luca Guglielmetti
+Škoda Fabia Rally2 evo
+  
+	0.20	103	515
+16th	
+	Grégoire Munster
+Louis Louka
+Ford Puma Rally1 Hybrid
+M-Sport Ford WRT
+	1.02	81	79
+18th	
+	Panagiotis Roustemis
+Christos Bakloris
+Škoda Fabia RS Rally2
+  
+	0.20	63	315
+17th	
+	Georg Linnamäe
+James Morgan
+Toyota GR Yaris Rally2
+  
+	0.52	63	121
+19th	
+	Armin Kremer
+Ella Kremer
+Škoda Fabia RS Rally2
+  
+	0.20	47	235
+20th	
+	Lauri Joona
+Ville Mannisenmäki
+Škoda Fabia RS Rally2
+  
+	0.53	43	81
+21st	
+	Nikolay Gryazin
+Konstantin Aleksandrov
+Citroën C3 Rally2
+DG Sport Compétition
+	0.78	39	50
+22nd	
+	Jourdan Serderidis
+Frédéric Miclotte
+Ford Puma Rally1 Hybrid
+M-Sport Ford WRT
+	0.29	34	117
+23rd	
+	Gus Greensmith
+Jonas Andersson
+Škoda Fabia RS Rally2
+Toksport WRT
+	0.81	28	35
+24th	
+	Matteo Fontana
+Alessandro Arnaboldi
+Ford Fiesta Rally3
+  
+	0.20	15	75
+25th	
+	Ali Türkkan
+Burak Erdener
+Ford Fiesta Rally3
+Castrol Ford Team Türkiye
+	0.20	2	10
+26th	
+	Diego Domínguez Jr.
+Rogelio Peñate
+Ford Fiesta Rally3
+  
+	0.20	1	5
+27th	
+	Hubert Laskowski
+Michał Kuśnierz
+Ford Fiesta Rally3
+  
+	0.20	1	5
+-	
+	Hamed Al-Wahaibi
+Niall Burns
+Škoda Fabia RS Rally2
+HW34 by Motortune
+	0.20	0	0
+-	
+	Pierre-Louis Loubet
+Loris Pascaud
+Škoda Fabia RS Rally2
+Toksport WRT 2
+	0.78	0	0
+-	
+	Burcu Çetinkaya
+Fabrizia Pons
+Škoda Fabia Rally2 evo
+Toksport WRT
+	0.20	0	0
+-	
+	Roberto Blach Jr.
+Mauro Barreiro
+Ford Fiesta Rally3
+  
+	0.20	0	0
+-	
+	Eamonn Kelly
+Conor Mohan
+Ford Fiesta Rally3
+Motorsport Ireland Rally Academy
+	0.20	0	0
+-	
+	George Vasilakis
+Tom Krawszik
+Ford Fiesta Rally2
+  
+	0.20	0	0
+-	
+	Lambros Athanassoulas
+Nikolaos Zakheos
+Škoda Fabia Rally2 evo
+  
+	0.20	0	0
+-	
+	Enrico Brazzoli
+Martina Musiari
+Škoda Fabia Rally2 evo
+  
+	0.20	0	0
+-	
+	Martin Prokop
+Michal Ernst
+Škoda Fabia RS Rally2
+  
+	0.37	0	0
