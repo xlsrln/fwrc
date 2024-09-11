@@ -133,10 +133,10 @@ Toyota Gazoo Racing WRT
 	4.58	624	0	-
 
 
-	Takamoto Katsuta
+	Sami Pajari
 Aaron Johnston
 Toyota Gazoo Racing WRT
-	2.53	345	0	-
+	1.12	345	0	-
 
 
 	Thierry Neuville
